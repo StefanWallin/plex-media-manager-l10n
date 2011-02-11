@@ -1,0 +1,35 @@
+#!/usr/bin/env ruby
+
+interpreter = ARGV[0]
+
+if interpreter.nil?
+  abort "usage: #{$0} INTERPRETER # a program that takes a line on stdin and writes a translation to stdout"
+end
+
+$LOAD_PATH << File.expand_path('../../lib', __FILE__)
+
+require 'l10n/translation_parser'
+
+list = L10n::TranslationParser.parse(STDIN.read)
+
+list.translate do |string|
+  pipe = IO.popen(interpreter, "r+")
+  pipe.puts(string)
+  pipe.close_write
+  
+  result = ''
+  while pipes = IO.select([pipe])
+    next if pipes.empty?
+    
+    c = pipe.read(1)
+    break if c.nil?
+    
+    break if c == ?\n
+    result << c
+  end
+  pipe.close_read
+  
+  result.chomp
+end
+
+puts list
