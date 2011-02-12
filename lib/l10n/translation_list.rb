@@ -1,7 +1,7 @@
 module L10n
   class TranslationList
     include Enumerable
-    
+
     attr_accessor :bom
 
     def initialize(translations=nil)
