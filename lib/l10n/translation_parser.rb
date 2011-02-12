@@ -6,25 +6,35 @@ require 'l10n/translation_list'
 
 
 module L10n
+  UTF8_BOM = [0xEF, 0xBB, 0xBF].freeze
+  UTF16LE_BOM = [0xFF, 0xFE].freeze
+  UTF16BE_BOM = [0xFE, 0xFF].freeze
+
   class TranslationParser
     def self.parse(data)
-      data = data.unpack("c*") if data.is_a?(String)
+      data = data.unpack("C*") if data.is_a?(String)
+
+      3.times { data.shift } if data[0,3] == UTF8_BOM
+      if [UTF16BE_BOM, UTF16LE_BOM].include?(data[0, 2])
+        raise ArgumentError, "this script does not yet support UTF-16"
+      end
 
       translations = TranslationList.new
       eof = false
+      line = 1
 
-      string_in_range = proc {|range| data[range].pack('c*') }
+      string_in_range = proc {|range| data[range].pack('C*') }
 
       
-# line 20 "lib/l10n/translation_parser.rb"
+# line 30 "lib/l10n/translation_parser.rb"
 begin
 	p ||= 0
 	pe ||= data.length
 	cs = hello_start
 end
-# line 41 "lib/l10n/translation_parser.rl"
+# line 51 "lib/l10n/translation_parser.rl"
       
-# line 28 "lib/l10n/translation_parser.rb"
+# line 38 "lib/l10n/translation_parser.rb"
 begin
 	_klen, _trans, _keys, _acts, _nacts = nil
 	_goto_level = 0
@@ -140,7 +150,12 @@ when 6 then
 		begin
  translations << Translation.new(original, translated, comment) 		end
 # line 16 "lib/l10n/translation_parser.rl"
-# line 144 "lib/l10n/translation_parser.rb"
+when 7 then
+# line 18 "lib/l10n/translation_parser.rl"
+		begin
+ line += 1 		end
+# line 18 "lib/l10n/translation_parser.rl"
+# line 159 "lib/l10n/translation_parser.rb"
 			end # action switch
 		end
 	end
@@ -166,20 +181,25 @@ when 6 then
 	end
 	end
 	end
-# line 42 "lib/l10n/translation_parser.rl"
+# line 52 "lib/l10n/translation_parser.rl"
+
+      if cs == 0
+        raise SyntaxError, "unexpected character on line #{line}: #{data[p,1].pack('C*')} (#{data[p]})"
+      end
 
       return translations
     end
 
     
-# line 176 "lib/l10n/translation_parser.rb"
+# line 195 "lib/l10n/translation_parser.rb"
 class << self
 	attr_accessor :_hello_actions
 	private :_hello_actions, :_hello_actions=
 end
 self._hello_actions = [
-	0, 1, 0, 1, 1, 1, 2, 1, 
-	3, 1, 4, 1, 5, 1, 6
+	0, 1, 0, 1, 2, 1, 3, 1, 
+	4, 1, 5, 1, 7, 2, 7, 1, 
+	2, 7, 6
 ]
 
 class << self
@@ -187,11 +207,11 @@ class << self
 	private :_hello_key_offsets, :_hello_key_offsets=
 end
 self._hello_key_offsets = [
-	0, 0, 1, 2, 4, 6, 8, 11, 
-	15, 19, 23, 26, 28, 32, 36, 40, 
-	43, 47, 51, 55, 58, 64, 70, 75, 
-	81, 87, 92, 96, 102, 105, 108, 114, 
-	116, 117, 120, 125
+	0, 0, 1, 3, 6, 8, 11, 15, 
+	20, 25, 30, 34, 37, 41, 46, 50, 
+	54, 59, 64, 68, 72, 79, 86, 92, 
+	99, 106, 112, 117, 123, 127, 131, 137, 
+	139, 140, 143, 148
 ]
 
 class << self
@@ -199,23 +219,26 @@ class << self
 	private :_hello_trans_keys, :_hello_trans_keys=
 end
 self._hello_trans_keys = [
-	42, 42, 42, 47, 10, 42, 34, 42, 
-	34, 42, 92, 9, 32, 42, 61, 9, 
-	32, 42, 61, 9, 32, 34, 42, 34, 
-	42, 92, 42, 59, 9, 10, 32, 42, 
-	34, 42, 47, 92, 10, 34, 42, 92, 
-	34, 42, 92, 34, 42, 59, 92, 34, 
-	42, 47, 92, 10, 34, 42, 92, 34, 
-	42, 92, 9, 32, 34, 42, 61, 92, 
-	9, 32, 34, 42, 61, 92, 9, 32, 
-	34, 42, 92, 9, 32, 34, 42, 61, 
-	92, 9, 32, 34, 42, 61, 92, 9, 
-	32, 34, 42, 92, 34, 42, 59, 92, 
-	9, 10, 32, 34, 42, 92, 34, 42, 
-	92, 34, 42, 92, 9, 10, 32, 34, 
-	42, 92, 10, 47, 10, 10, 42, 47, 
-	10, 34, 42, 47, 92, 10, 34, 42, 
-	47, 92, 0
+	42, 10, 42, 10, 42, 47, 10, 42, 
+	10, 34, 42, 10, 34, 42, 92, 9, 
+	10, 32, 42, 61, 9, 10, 32, 42, 
+	61, 9, 10, 32, 34, 42, 10, 34, 
+	42, 92, 10, 42, 59, 9, 10, 32, 
+	42, 10, 34, 42, 47, 92, 10, 34, 
+	42, 92, 10, 34, 42, 92, 10, 34, 
+	42, 59, 92, 10, 34, 42, 47, 92, 
+	10, 34, 42, 92, 10, 34, 42, 92, 
+	9, 10, 32, 34, 42, 61, 92, 9, 
+	10, 32, 34, 42, 61, 92, 9, 10, 
+	32, 34, 42, 92, 9, 10, 32, 34, 
+	42, 61, 92, 9, 10, 32, 34, 42, 
+	61, 92, 9, 10, 32, 34, 42, 92, 
+	10, 34, 42, 59, 92, 9, 10, 32, 
+	34, 42, 92, 10, 34, 42, 92, 10, 
+	34, 42, 92, 9, 10, 32, 34, 42, 
+	92, 10, 47, 10, 10, 42, 47, 10, 
+	34, 42, 47, 92, 10, 34, 42, 47, 
+	92, 0
 ]
 
 class << self
@@ -223,10 +246,10 @@ class << self
 	private :_hello_single_lengths, :_hello_single_lengths=
 end
 self._hello_single_lengths = [
-	0, 1, 1, 2, 2, 2, 3, 4, 
-	4, 4, 3, 2, 4, 4, 4, 3, 
-	4, 4, 4, 3, 6, 6, 5, 6, 
-	6, 5, 4, 6, 3, 3, 6, 2, 
+	0, 1, 2, 3, 2, 3, 4, 5, 
+	5, 5, 4, 3, 4, 5, 4, 4, 
+	5, 5, 4, 4, 7, 7, 6, 7, 
+	7, 6, 5, 6, 4, 4, 6, 2, 
 	1, 3, 5, 5
 ]
 
@@ -247,11 +270,11 @@ class << self
 	private :_hello_index_offsets, :_hello_index_offsets=
 end
 self._hello_index_offsets = [
-	0, 0, 2, 4, 7, 10, 13, 17, 
-	22, 27, 32, 36, 39, 44, 49, 54, 
-	58, 63, 68, 73, 77, 84, 91, 97, 
-	104, 111, 117, 122, 129, 133, 137, 144, 
-	147, 149, 153, 159
+	0, 0, 2, 5, 9, 12, 16, 21, 
+	27, 33, 39, 44, 48, 53, 59, 64, 
+	69, 75, 81, 86, 91, 99, 107, 114, 
+	122, 130, 137, 143, 150, 155, 160, 167, 
+	170, 172, 176, 182
 ]
 
 class << self
@@ -259,27 +282,30 @@ class << self
 	private :_hello_indicies, :_hello_indicies=
 end
 self._hello_indicies = [
-	0, 1, 2, 0, 2, 3, 0, 4, 
-	2, 0, 5, 2, 0, 7, 8, 9, 
-	6, 10, 10, 2, 11, 0, 12, 12, 
-	2, 13, 0, 13, 13, 14, 2, 0, 
-	16, 17, 18, 15, 2, 19, 0, 20, 
-	21, 20, 2, 0, 16, 17, 22, 18, 
-	15, 23, 16, 17, 18, 15, 24, 17, 
-	18, 15, 7, 8, 25, 9, 6, 7, 
-	8, 26, 9, 6, 27, 7, 8, 9, 
-	6, 28, 8, 9, 6, 29, 29, 7, 
-	8, 30, 9, 6, 31, 31, 7, 8, 
-	32, 9, 6, 32, 32, 33, 8, 9, 
-	6, 34, 34, 16, 17, 35, 18, 15, 
-	36, 36, 16, 17, 37, 18, 15, 37, 
-	37, 38, 17, 18, 15, 16, 17, 39, 
-	18, 15, 40, 41, 40, 16, 17, 18, 
-	15, 42, 17, 18, 15, 43, 8, 9, 
-	6, 44, 45, 44, 7, 8, 9, 6, 
-	46, 47, 1, 46, 1, 48, 2, 49, 
-	0, 50, 16, 17, 51, 18, 15, 52, 
-	7, 8, 53, 9, 6, 0
+	0, 1, 2, 3, 0, 2, 3, 4, 
+	0, 5, 3, 0, 2, 6, 3, 0, 
+	8, 9, 10, 11, 7, 12, 2, 12, 
+	3, 13, 0, 14, 2, 14, 3, 15, 
+	0, 15, 2, 15, 16, 3, 0, 18, 
+	19, 20, 21, 17, 2, 3, 22, 0, 
+	23, 24, 23, 3, 0, 18, 19, 20, 
+	25, 21, 17, 26, 19, 20, 21, 17, 
+	18, 27, 20, 21, 17, 8, 9, 10, 
+	28, 11, 7, 8, 9, 10, 29, 11, 
+	7, 30, 9, 10, 11, 7, 8, 31, 
+	10, 11, 7, 32, 8, 32, 9, 10, 
+	33, 11, 7, 34, 8, 34, 9, 10, 
+	35, 11, 7, 35, 8, 35, 36, 10, 
+	11, 7, 37, 18, 37, 19, 20, 38, 
+	21, 17, 39, 18, 39, 19, 20, 40, 
+	21, 17, 40, 18, 40, 41, 20, 21, 
+	17, 18, 19, 20, 42, 21, 17, 43, 
+	44, 43, 19, 20, 21, 17, 18, 45, 
+	20, 21, 17, 8, 46, 10, 11, 7, 
+	47, 48, 47, 9, 10, 11, 7, 49, 
+	50, 1, 49, 1, 51, 3, 52, 0, 
+	53, 19, 20, 54, 21, 17, 55, 9, 
+	10, 56, 11, 7, 0
 ]
 
 class << self
@@ -287,13 +313,14 @@ class << self
 	private :_hello_trans_targs, :_hello_trans_targs=
 end
 self._hello_trans_targs = [
-	2, 0, 3, 4, 5, 6, 6, 7, 
-	17, 29, 8, 9, 8, 9, 10, 10, 
-	11, 13, 28, 12, 12, 33, 14, 15, 
-	16, 30, 18, 19, 20, 21, 22, 21, 
-	22, 23, 24, 25, 24, 25, 26, 27, 
-	27, 34, 26, 20, 30, 35, 32, 1, 
-	33, 2, 34, 10, 35, 6
+	2, 0, 2, 3, 4, 5, 6, 6, 
+	6, 7, 17, 29, 8, 9, 8, 9, 
+	10, 10, 10, 11, 13, 28, 12, 12, 
+	33, 14, 15, 16, 30, 18, 19, 20, 
+	21, 22, 21, 22, 23, 24, 25, 24, 
+	25, 26, 27, 27, 34, 26, 20, 30, 
+	35, 32, 1, 33, 2, 34, 10, 35, 
+	6
 ]
 
 class << self
@@ -301,13 +328,14 @@ class << self
 	private :_hello_trans_actions, :_hello_trans_actions=
 end
 self._hello_trans_actions = [
-	0, 0, 0, 0, 3, 5, 0, 0, 
-	0, 0, 7, 7, 0, 0, 9, 0, 
-	0, 0, 0, 11, 0, 13, 0, 3, 
-	5, 11, 0, 3, 5, 7, 7, 0, 
-	0, 9, 7, 7, 0, 0, 9, 11, 
-	0, 13, 0, 0, 0, 13, 0, 1, 
-	0, 1, 0, 1, 0, 1
+	0, 0, 11, 0, 0, 13, 3, 0, 
+	11, 0, 0, 0, 5, 5, 0, 0, 
+	7, 0, 11, 0, 0, 0, 9, 0, 
+	16, 0, 13, 3, 9, 0, 13, 3, 
+	5, 5, 0, 0, 7, 5, 5, 0, 
+	0, 7, 9, 0, 16, 0, 0, 0, 
+	16, 11, 1, 11, 1, 11, 1, 11, 
+	1
 ]
 
 class << self
@@ -328,6 +356,6 @@ class << self
 end
 self.hello_en_main = 31;
 
-# line 47 "lib/l10n/translation_parser.rl"
+# line 61 "lib/l10n/translation_parser.rl"
   end
 end
