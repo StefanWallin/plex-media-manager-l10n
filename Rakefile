@@ -15,6 +15,7 @@ include L10n
 file Localization['xx-chef'].strings => Localization['en'].strings do
   in_root do
     system %{bin/auto-translate xx-chef vendor/chef}
+    abort "! Unable to auto-translate Swedish Chef strings. Perhaps vendor/chef is compiled for the wrong architecture?" unless $?.success?
   end
 end
 
@@ -23,6 +24,7 @@ localizations = Localization.all
 localizations.each do |localization|
   file localization.xstrings => localization.strings do
     system %{plutil -convert xml1 #{localization.strings} -o #{localization.xstrings}}
+    abort "! Unable to convert #{localization.strings} to XML. Is plutil installed?" unless $?.success?
   end
 
   next if localization.code == 'en'
@@ -30,6 +32,7 @@ localizations.each do |localization|
   file localization.strings => Localization['en'].strings do
     in_root do
       system %{bin/rebase #{localization.code}}
+      abort "! Unable to rebase #{localization.code}" unless $?.success?
     end
   end
 end
@@ -42,6 +45,7 @@ if PMM_ROOT.exist?
     Dir.chdir(PMM_ROOT) do
       puts "~ Updating English strings"
       system %{genstrings -o Resources/en.lproj -s CPLocalizedString *.j */*.j}
+      abort "! genstrings failed to run. Is plex-media-manager set up properly with genstrings installed?" unless $?.success?
 
       Dir.chdir(PMM_ROOT+'Resources/en.lproj') do
         system %{iconv -f utf-16 -t utf-8 Localizable.strings > Localizable.strings.utf8 && mv Localizable.strings.utf8 Localizable.strings}
