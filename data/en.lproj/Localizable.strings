@@ -422,11 +422,11 @@
 /* Sharing */
 "Sharing" = "Sharing";
 
-/* Show */
-"Show" = "Show";
-
 /* A TV Show */
 "show" = "show";
+
+/* Show */
+"Show" = "Show";
 
 /* Sort Title */
 "Sort Title" = "Sort Title";
