@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%d:%02d %@</key>
+	<string>%1$d:%2$d %3$@</string>
+	<key>AM</key>
+	<string>AM</string>
+	<key>Add Section</key>
+	<string>Agregar sección</string>
+	<key>Add the folders containing media for this section below. Any media files found inside these folders will be scanned into your library using the above settings.</key>
+	<string>Añadir las carpetas que contienen los medios de comunicación para esta sección de abajo. Todos los archivos multimedia que se encuentran dentro de estas carpetas serán analizados en la biblioteca con los ajustes anteriores.</string>
+	<key>Any content in this section will no longer be available in your library. The files on your computer will not be removed.</key>
+	<string>Todo el contenido de esta sección ya no estén disponibles en su biblioteca. Los archivos en el equipo no se eliminará.</string>
+	<key>Are you sure you want to remove the section named "%@"?</key>
+	<string>¿Está seguro que desea eliminar la sección denominada "%@"?</string>
+	<key>Artist</key>
+	<string>Artista</string>
+	<key>Cancel</key>
+	<string>Cancelar</string>
+	<key>Choose Background Art</key>
+	<string>Elija arte del fondo</string>
+	<key>Choose Banner</key>
+	<string>Elige la bandera</string>
+	<key>Choose Icon</key>
+	<string>Seleccione el icono</string>
+	<key>Choose Poster</key>
+	<string>Elegir Cartel</string>
+	<key>Connecting to Plex Media Server failed with this error: %@.
+
+Are you sure it's running?</key>
+	<string>Conexión a Plex Media Server no con este error: %@.
+
+¿Estás seguro de que está funcionando?</string>
+	<key>Custom Search</key>
+	<string>Búsqueda personalizada</string>
+	<key>Customize</key>
+	<string>Personalizar</string>
+	<key>Customize Section</key>
+	<string>Personalizar la sección</string>
+	<key>Drag folders into the list, or click the '+' button to browse.</key>
+	<string>Arrastre las carpetas en la lista, o haga clic en el botón '+' para navegar.</string>
+	<key>Edit Section</key>
+	<string>Editar la sección</string>
+	<key>Fix Incorrect Match...</key>
+	<string>Fijar incorrecta del partido ...</string>
+	<key>Fix incorrect match</key>
+	<string>Fijar incorrecta partido</string>
+	<key>Friday</key>
+	<string>Viernes</string>
+	<key>Got this error: %@. Are you sure Plex Media Server is running?</key>
+	<string>Tengo este error: %@. ¿Estás seguro de Plex Media Server se está ejecutando?</string>
+	<key>Language:</key>
+	<string>Idioma:</string>
+	<key>Last refreshed %@ at %@</key>
+	<string>%1$@ actualiza en %2$@</string>
+	<key>Media scanner:</key>
+	<string>Escáner:</string>
+	<key>Monday</key>
+	<string>Lunes</string>
+	<key>Movie</key>
+	<string>Película</string>
+	<key>Movies</key>
+	<string>Películas</string>
+	<key>Music</key>
+	<string>Música</string>
+	<key>My Movies</key>
+	<string>Películas</string>
+	<key>My Music</key>
+	<string>Mi música</string>
+	<key>My TV Shows</key>
+	<string>Mi TV Shows</string>
+	<key>Name</key>
+	<string>Nombre</string>
+	<key>Name:</key>
+	<string>Nombre:</string>
+	<key>PM</key>
+	<string>PM</string>
+	<key>Path to your media folder:</key>
+	<string>Ruta de acceso a la carpeta de los medios de comunicación:</string>
+	<key>Primary info provider:</key>
+	<string>Proveedor de información primaria:</string>
+	<key>Refresh Info</key>
+	<string>Actualizar Información</string>
+	<key>Remove Section</key>
+	<string>Retire la sección</string>
+	<key>Saturday</key>
+	<string>Sábado</string>
+	<key>Search</key>
+	<string>Búsquar</string>
+	<key>Search using:</key>
+	<string>Búsqueda usando:</string>
+	<key>Section</key>
+	<string>Sección</string>
+	<key>Section name:</key>
+	<string>Sección nombre:</string>
+	<key>Section type:</key>
+	<string>Sección tipo:</string>
+	<key>Select</key>
+	<string>Seleccione</string>
+	<key>Select %@</key>
+	<string>Seleccione %@</string>
+	<key>Select Image</key>
+	<string>Seleccione la imagen</string>
+	<key>Select the correct %@ from the list below:</key>
+	<string>Seleccione el %@ correcta de la lista a continuación:</string>
+	<key>Show</key>
+	<string>Show</string>
+	<key>Sunday</key>
+	<string>Domingo</string>
+	<key>TV Shows</key>
+	<string>Programas de televisión</string>
+	<key>Thursday</key>
+	<string>Jueves</string>
+	<key>Tuesday</key>
+	<string>Martes</string>
+	<key>Unable to connect to Plex Media Server</key>
+	<string>No se puede conectar a Plex Media Server</string>
+	<key>Unable to create library section</key>
+	<string>No se puede crear sección de la biblioteca</string>
+	<key>Unable to remove section "%@"</key>
+	<string>No se puede eliminar la sección "%@"</string>
+	<key>Unable to update library section</key>
+	<string>No se puede actualizar sección de la biblioteca</string>
+	<key>Update Section</key>
+	<string>Actualizar la sección</string>
+	<key>Wednesday</key>
+	<string>Miércoles</string>
+	<key>Year</key>
+	<string>Año</string>
+	<key>Year:</key>
+	<string>Año:</string>
+	<key>today</key>
+	<string>hoy</string>
+	<key>tomorrow</key>
+	<string>mañana</string>
+	<key>yesterday</key>
+	<string>ayer</string>
+</dict>
+</plist>

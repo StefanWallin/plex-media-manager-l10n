@@ -1,0 +1,511 @@
+﻿/* Season plus full episode title (e.g. Season 4, Episode 1 */
+"%@, Episode %d" = "%1$@, Episode %2$d";
+
+/* Status label value for when there is more than one musical artist */
+"%d artists" = "아티스트 %d명";
+
+/* Status for list of episodes when there is more than one
+   Subtitle for a season thumbnail on a TV Show detail view */
+"%d episodes" = "에피소드 %d개";
+
+/* Status label value for when there is more than one movie */
+"%d movies" = "영화 %d개";
+
+/* Subtitle for a album thumbnail on an artist detail view */
+"%d tracks" = "트랙 %d개";
+
+/* Status label for when there are more than one track (e.g. 11 tracks, 47:34 total time, 91.2 MB) */
+"%d tracks, %@ total time, %@" = "트랙 %1$d개, 재생시간 %2$@, %3$@";
+
+/* Status label value for when there is more than one TV show */
+"%d TV shows" = "TV 쇼 %d개";
+
+/* ShortLocalTimeFormat */
+"%d:%02d %@" = "%1$d:%2$02d %3$@";
+
+/* Status label value for when there is one musical artist */
+"1 artist" = "아티스트 1명";
+
+/* Status for list of episodes when there is one
+   Subtitle for a season thumbnail on a TV Show detail view */
+"1 episode" = "에피소드 1개";
+
+/* Status label value for when there is one movie */
+"1 movie" = "영화 1개";
+
+/* Subtitle for a album thumbnail on an artist detail view */
+"1 track" = "트랙 1개";
+
+/* Status label for when there is one track in an album (e.g. 1 track, 4:28 total time, 5.6 MB) */
+"1 track, %@ total time, %@" = "트랙 1개, 재생시간 %1$@, %2$@";
+
+/* Status label value for when there is one TV show */
+"1 TV show" = "TV 쇼 1개";
+
+/* First-run help item */
+"> Add posters, custom genres and more" = "> Add posters, custom genres and more";
+
+/* First-run help item */
+"> Album reviews" = "> Album reviews";
+
+/* First-run help item */
+"> Artist biographies and artwork" = "> Artist biographies and artwork";
+
+/* First-run help item */
+"> Automatic theme music for TV shows" = "> Automatic theme music for TV shows";
+
+/* First-run help item */
+"> Customize every detail of each movie" = "> Customize every detail of each movie";
+
+/* First-run help item */
+"> Great for your personal media" = "> Great for your personal media";
+
+/* First-run help item */
+"> Movie posters and art" = "> Movie posters and art";
+
+/* First-run help item */
+"> Organize movies into collections" = "> Organize movies into collections";
+
+/* First-run help item */
+"> Thumbnails for every episode" = "> Thumbnails for every episode";
+
+/* First-run help item */
+"> TV show posters and art" = "> TV show posters and art";
+
+/* First-run title for adding home movies */
+"Add Home Movies Section" = "Add Home Movies Section";
+
+/* First-run title for adding movies */
+"Add Movies Section" = "Add Movies Section";
+
+/* First-run title for adding music */
+"Add Music Section" = "Add Music Section";
+
+/* Add section confirm button text */
+"Add Section" = "섹션 추가";
+
+/* Section settings primary informative text */
+"Add the folders containing media for this section below. Any media files found inside these folders will be scanned into your library using the above settings." = "미디어를 포함하는 폴더를 추가하세요. 해당 폴더 내의 미디어 파일들은 위의 설정에 따라 자동으로 사용자의 라이브러리에 추가됩니다.";
+
+/* First-run title for adding TV shows */
+"Add TV Shows Section" = "Add TV Shows Section";
+
+/* Advanced */
+"Advanced" = "고급";
+
+/* A recording album */
+"album" = "앨범";
+
+/* AnteMeridiem */
+"AM" = "AM";
+
+/* Informative text for removing a section */
+"Any content in this section will no longer be available in your library. The files on your computer will not be removed." = "이 섹션의 모든 컨텐츠는 더 이상 라이브러리에서 사용되지 않습니다. 사용자의 컴퓨터에 있는 파일은 제거되지 않습니다.";
+
+/* Preference window setting */
+"Aperture Sharing Enabled" = "Aperture Sharing Enabled";
+
+/* Confirmation message for removing a section */
+"Are you sure you want to remove the section named \"%@\"?" = "\"%@\" 섹션을 삭제하시겠습니까?";
+
+/* A musical artist */
+"artist" = "아티스트";
+
+/* Artist */
+"Artist" = "아티스트";
+
+/* Cancel */
+"Cancel" = "취소";
+
+/* Preference window setting detail */
+"Capability checking ensures that plug-ins that are incompatible with this version of the server or the current client application you are using are hidden. Disabling capability checking is useful during development, but will enable access to plug-ins that may perform unreliably with certain client applications." = "이 옵션을 선택 하면 서버의 버전과 호환되지 않는 플러그 인이나 클라이언트 응용 프로그램도 보여줍니다. 이 옵션은 개발 중일 때 유용하지만, 플러그 인의 접근이 클라이언트 응용 프로그램에 대해 신뢰할 수 없는 동작을 야기할 수 있습니다.";
+
+/* Change Artwork */
+"Change Artwork" = "이미지 변경";
+
+/* Choose Album Thumbnail menu item */
+"Choose Album Thumbnail" = "앨범 썸네일 선택";
+
+/* Choose Background Art */
+"Choose Background Art" = "배경 변경";
+
+/* Choose Banner */
+"Choose Banner" = "배너 변경";
+
+/* Choose Episode Thumbnail menu item */
+"Choose Episode Thumbnail" = "에피소드 썸네일 선택";
+
+/* Choose Icon */
+"Choose Icon" = "아이콘 변경";
+
+/* Choose Poster */
+"Choose Poster" = "포스터 변경";
+
+/* Choose Season Thumbnail menu item */
+"Choose Season Thumbnail" = "시즌 썸네일 선택";
+
+/* First-run help title */
+"Click the titles below to create library sections for your media and have it served to your Plex-enabled devices." = "Click the titles below to create library sections for your media and have it served to your Plex-enabled devices.";
+
+/* Collections */
+"Collections" = "컬렉션";
+
+/* Error message for when we cannot connect to PMS or when the response is invalid */
+"Connecting to Plex Media Server failed with this error: %@.\n\nAre you sure it's running?" = "다음과 같은 에러로 인하여 Plex Media Server에 접속을 실패하였습니다.: %@.\n\nPlex Media Server가 실행 중인지 확인하세요.";
+
+/* Content Rating */
+"Content Rating" = "등급";
+
+/* Custom Search */
+"Custom Search" = "상세 검색";
+
+/* Customize Section */
+"Customize Section" = "사용자 정의 섹션";
+
+/* Library scan interval (i.e. Update my library daily */
+"daily" = "매일";
+
+/* Directors */
+"Directors" = "감독";
+
+/* Preference window setting */
+"Disable capability checking" = "호환성 체크 비활성화";
+
+/* Done */
+"Done" = "완료";
+
+/* Section settings secondary informative text */
+"Drag folders into the list, or click the '+' button to browse." = "'+' 버튼을 클릭하여 폴더를 추가하세요.";
+
+/* Edit Metadata */
+"Edit Metadata" = "메타데이터 편집";
+
+/* Edit Section */
+"Edit Section" = "섹션 편집";
+
+/* A TV Show episode */
+"episode" = "에피소드";
+
+/* Full episode title (e.g. Episode 1: Pilot */
+"Episode %d: %@" = "Episode %1$d: %2$@";
+
+/* Library scan interval (i.e. Update my library every 12 hours) */
+"every 12 hours" = "12시간 마다";
+
+/* Library scan interval (i.e. Update my library every 15 minutes) */
+"every 15 minutes" = "15분 마다";
+
+/* Library scan interval (i.e. Update my library every 2 hours) */
+"every 2 hours" = "2시간 마다";
+
+/* Library scan interval (i.e. Update my library every 30 minutes) */
+"every 30 minutes" = "30분 마다";
+
+/* Library scan interval (i.e. Update my library every 6 hours) */
+"every 6 hours" = "6시간 마다";
+
+/* Fix incorrect match */
+"Fix incorrect match" = "메타데이터 재선택";
+
+/* Fix Incorrect Match... */
+"Fix Incorrect Match..." = "메타데이터 재선택...";
+
+/* Friday */
+"Friday" = "금요일";
+
+/* Friendly name label */
+"Friendly name:" = "사용자 정의 이름:";
+
+/* General */
+"General" = "일반";
+
+/* Genres */
+"Genres" = "장르";
+
+/* Error message for when we cannot remove a library section */
+"Got this error: %@. Are you sure Plex Media Server is running?" = "에러 발생: %@. Plex Media Server가 실행 중인지 확인하세요.";
+
+/* Library scan interval (i.e. Update my library hourly) */
+"hourly" = "매시간";
+
+/* Preference window setting */
+"Include music sections in automatic updates" = "자동 업데이트에 음악 섹션 포함";
+
+/* Preference window setting */
+"iPhoto Sharing Enabled" = "iPhoto Sharing Enabled";
+
+/* Preference window setting */
+"iTunes Sharing Enabled" = "iTunes Sharing Enabled";
+
+/* Language label */
+"Language:" = "언어:";
+
+/* Preference window setting */
+"Large music sections may take a long time to scan" = "용량이 큰 음악 섹션은 탐색 시간이 오래 걸릴 수 있습니다";
+
+/* Status label for media items */
+"Last refreshed %@ at %@" = "%1$@ %2$@에 갱신되었습니다";
+
+/* Library */
+"Library" = "라이브러리";
+
+/* Sidebar group title for library sections */
+"LIBRARY SECTIONS" = "라이브러리 섹션";
+
+/* Metadata item status message when its data is importing */
+"Loading metadata for '%@'" = "Loading metadata for '%@'";
+
+/* Button text for the directory browser to allow the user to type in a path manually */
+"Manual Entry" = "Manual Entry";
+
+/* Metadata item status message when it is being matched to a canonical item */
+"Matching '%@'" = "Matching '%@'";
+
+/* Metadata item status message when it is being read */
+"Media analysis on '%@'" = "Media analysis on '%@'";
+
+/* Label for the path to the file whose match is being fixed */
+"Media file: " = "파일 위치: ";
+
+/* Media scanner label */
+"Media scanner:" = "미디어 스캐너:";
+
+/* Monday */
+"Monday" = "월요일";
+
+/* Movie */
+"Movie" = "영화";
+
+/* A movie */
+"movie" = "영화";
+
+/* Movies */
+"Movies" = "영화";
+
+/* Music */
+"Music" = "음악";
+
+/* Movie section name placeholder */
+"My Movies" = "나의 영화";
+
+/* Music section name placeholder */
+"My Music" = "나의 음악";
+
+/* TV Shows section name placeholder */
+"My TV Shows" = "나의 TV 쇼";
+
+/* Name */
+"Name" = "제목";
+
+/* Name label */
+"Name:" = "제목:";
+
+/* Status label value when there are no musical artists */
+"no artists" = "아티스트 없음";
+
+/* Status for list of episodes when there are none
+   Subtitle for a season thumbnail on a TV Show detail view */
+"no episodes" = "에피소드 없음";
+
+/* Status label value for when there are no movies */
+"no movies" = "영화 없음";
+
+/* Status label for when there are no tracks in an album
+   Subtitle for a album thumbnail on an artist detail view */
+"no tracks" = "트랙 없음";
+
+/* Status label value when there are no TV shows */
+"no TV shows" = "TV 쇼 없음";
+
+/* Preference window setting */
+"Offer higher bitrates over 3G connections" = "3G 연결에서 하이 비트레이트 제공";
+
+/* Original Title */
+"Original Title" = "원제";
+
+/* Originally Available */
+"Originally Available" = "개봉(첫방송)일";
+
+/* Instruction text for the prompt to add directories manually */
+"Path of the directory you'd like to add:" = "Path of the directory you'd like to add:";
+
+/* Header title */
+"PLEX MEDIA MANAGER" = "PLEX 미디어 매니저";
+
+/* PostMeridiem */
+"PM" = "PM";
+
+/* Primary metadata agent label */
+"Primary metadata agent:" = "메타데이터 에이전트:";
+
+/* Rating */
+"Rating" = "평점";
+
+/* Refresh Info */
+"Refresh Info" = "정보 새로고침";
+
+/* Refresh Section */
+"Refresh Section" = "섹션 새로고침";
+
+/* Refresh Section (force) */
+"Refresh Section (force)" = "섹션 새로고침 (강제)";
+
+/* Status label for refreshing sections */
+"Refreshing info for %d items" = "%d 아이템의 정보를 갱신하고 있습니다.";
+
+/* Status label for refreshing sections with one remaining item */
+"Refreshing info for one item" = "아이템의 정보를 갱신하고 있습니다.";
+
+/* Remove section confirmation button */
+"Remove Section" = "섹션 삭제";
+
+/* Metadata item status message when its info is downloading */
+"Requesting metadata for '%@'" = "Requesting metadata for '%@'";
+
+/* Saturday */
+"Saturday" = "토요일";
+
+/* Save */
+"Save" = "저장";
+
+/* Metadata item status message when it is newly scanned/created */
+"Scanning '%@'" = "Scanning '%@'";
+
+/* Search */
+"Search" = "검색";
+
+/* Agent label */
+"Search using:" = "에이전트:";
+
+/* A TV Show season */
+"season" = "시즌";
+
+/* Section name label */
+"Section name:" = "섹션 이름:";
+
+/* Section type label */
+"Section type:" = "섹션 타입:";
+
+/* Security */
+"Security" = "보안";
+
+/* Select */
+"Select" = "선택";
+
+/* Confirm button title for selecting */
+"Select %@" = "%@ 선택";
+
+/* Directory-browser title when adding/editing sections */
+"Select a directory for this section:" = "해당 섹션의 폴더 선택:";
+
+/* Select Folder */
+"Select Folder" = "폴더 선택";
+
+/* Select Image */
+"Select Image" = "이미지 변경";
+
+/* Fix Incorrect Match title for TV show sections */
+"Select the correct TV show from the list below:" = "다음 목록에서 일치하는 TV 쇼를 선택하세요:";
+
+/* Fix Incorrect Match title for music sections */
+"Select the correct artist from the list below:" = "다음 목록에서 일치하는 음악을 선택하세요:";
+
+/* Fix Incorrect Match title for movie sections */
+"Select the correct movie from the list below:" = "다음 목록에서 일치하는 영화를 선택하세요:";
+
+/* Send anonymous usage data to Plex */
+"Send anonymous usage data to Plex" = "Plex에 익명으로 사용 정보를 보냅니다.";
+
+/* Settings button at the top-right */
+"Settings" = "설정";
+
+/* Sharing */
+"Sharing" = "공유";
+
+/* Show */
+"Show" = "쇼";
+
+/* A TV Show */
+"show" = "쇼";
+
+/* Sort Title */
+"Sort Title" = "기타 제목";
+
+/* Studio */
+"Studio" = "제작사";
+
+/* Summary */
+"Summary" = "요약";
+
+/* Sunday */
+"Sunday" = "일요일";
+
+/* Tagline */
+"Tagline" = "태그라인";
+
+/* Summary info for collecting usage data */
+"This helps us improve your experience (for example, to help us match movies and TV shows)." = "이것은 시스템 개선에 도움이 됩니다. (예를 들어, 영화와 TV 쇼를 매칭하는데 도움이 됩니다).";
+
+/* Summary info for friendly name */
+"This name will be used to identify this media server to other computers on your network. If you leave it blank, your computer's name will be used instead." = "이 이름은 네트워크 상의 다른 컴퓨터로부터 사용자의 미디어 서버를 구별하는데 사용됩니다. 만약 입력하지 않으면 사용자의 컴퓨터 이름으로 저장됩니다.";
+
+/* Warning for IE users */
+"This site does not support Internet Explorer. For the best experience, click here to install Google Chrome Frame." = "이 사이트는 인터넷 익스플로러를 지원하지 않습니다. 이곳을 클릭하여 Google Chrome Frame을 설치하세요.";
+
+/* Thursday */
+"Thursday" = "목요일";
+
+/* Title */
+"Title" = "제목";
+
+/* today */
+"today" = "오늘";
+
+/* tomorrow */
+"tomorrow" = "내일";
+
+/* Transcoding */
+"Transcoding" = "트랜스코딩";
+
+/* Tuesday */
+"Tuesday" = "화요일";
+
+/* TV Shows */
+"TV Shows" = "TV 쇼";
+
+/* Error title for when we cannot connect to PMS or when the response is invalid */
+"Unable to connect to Plex Media Server" = "Plex Media Server에 연결할 수 없습니다.";
+
+/* Unable to create library section */
+"Unable to create library section" = "라이브러리 섹션을 생성할 수 없습니다.";
+
+/* Error title for when we cannot remove a library section */
+"Unable to remove section \"%@\"" = "\"%@\" 섹션을 삭제할 수 없습니다.";
+
+/* Unable to update library section */
+"Unable to update library section" = "라이브러리 섹션을 업데이트할 수 없습니다.";
+
+/* Preference window setting - will have frequencies after it e.g. Update my library every two hours */
+"Update my library" = "라이브러리 업데이트";
+
+/* Preference window setting */
+"Update my library when changes to my folders are detected" = "폴더에 변경 발생시 라이브러리 업데이트";
+
+/* Update section confirm button text */
+"Update Section" = "섹션 업데이트";
+
+/* Wednesday */
+"Wednesday" = "수요일";
+
+/* Writers */
+"Writers" = "작가";
+
+/* Year */
+"Year" = "연도";
+
+/* Year label */
+"Year:" = "연도:";
+
+/* yesterday */
+"yesterday" = "어제";
+

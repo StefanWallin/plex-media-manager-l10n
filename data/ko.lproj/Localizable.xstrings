@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%@, Episode %d</key>
+	<string>%1$@, Episode %2$d</string>
+	<key>%d TV shows</key>
+	<string>TV 쇼 %d개</string>
+	<key>%d artists</key>
+	<string>아티스트 %d명</string>
+	<key>%d episodes</key>
+	<string>에피소드 %d개</string>
+	<key>%d movies</key>
+	<string>영화 %d개</string>
+	<key>%d tracks</key>
+	<string>트랙 %d개</string>
+	<key>%d tracks, %@ total time, %@</key>
+	<string>트랙 %1$d개, 재생시간 %2$@, %3$@</string>
+	<key>%d:%02d %@</key>
+	<string>%1$d:%2$02d %3$@</string>
+	<key>1 TV show</key>
+	<string>TV 쇼 1개</string>
+	<key>1 artist</key>
+	<string>아티스트 1명</string>
+	<key>1 episode</key>
+	<string>에피소드 1개</string>
+	<key>1 movie</key>
+	<string>영화 1개</string>
+	<key>1 track</key>
+	<string>트랙 1개</string>
+	<key>1 track, %@ total time, %@</key>
+	<string>트랙 1개, 재생시간 %1$@, %2$@</string>
+	<key>&gt; Add posters, custom genres and more</key>
+	<string>&gt; Add posters, custom genres and more</string>
+	<key>&gt; Album reviews</key>
+	<string>&gt; Album reviews</string>
+	<key>&gt; Artist biographies and artwork</key>
+	<string>&gt; Artist biographies and artwork</string>
+	<key>&gt; Automatic theme music for TV shows</key>
+	<string>&gt; Automatic theme music for TV shows</string>
+	<key>&gt; Customize every detail of each movie</key>
+	<string>&gt; Customize every detail of each movie</string>
+	<key>&gt; Great for your personal media</key>
+	<string>&gt; Great for your personal media</string>
+	<key>&gt; Movie posters and art</key>
+	<string>&gt; Movie posters and art</string>
+	<key>&gt; Organize movies into collections</key>
+	<string>&gt; Organize movies into collections</string>
+	<key>&gt; TV show posters and art</key>
+	<string>&gt; TV show posters and art</string>
+	<key>&gt; Thumbnails for every episode</key>
+	<string>&gt; Thumbnails for every episode</string>
+	<key>AM</key>
+	<string>AM</string>
+	<key>Add Home Movies Section</key>
+	<string>Add Home Movies Section</string>
+	<key>Add Movies Section</key>
+	<string>Add Movies Section</string>
+	<key>Add Music Section</key>
+	<string>Add Music Section</string>
+	<key>Add Section</key>
+	<string>섹션 추가</string>
+	<key>Add TV Shows Section</key>
+	<string>Add TV Shows Section</string>
+	<key>Add the folders containing media for this section below. Any media files found inside these folders will be scanned into your library using the above settings.</key>
+	<string>미디어를 포함하는 폴더를 추가하세요. 해당 폴더 내의 미디어 파일들은 위의 설정에 따라 자동으로 사용자의 라이브러리에 추가됩니다.</string>
+	<key>Advanced</key>
+	<string>고급</string>
+	<key>Any content in this section will no longer be available in your library. The files on your computer will not be removed.</key>
+	<string>이 섹션의 모든 컨텐츠는 더 이상 라이브러리에서 사용되지 않습니다. 사용자의 컴퓨터에 있는 파일은 제거되지 않습니다.</string>
+	<key>Aperture Sharing Enabled</key>
+	<string>Aperture Sharing Enabled</string>
+	<key>Are you sure you want to remove the section named "%@"?</key>
+	<string>"%@" 섹션을 삭제하시겠습니까?</string>
+	<key>Artist</key>
+	<string>아티스트</string>
+	<key>Cancel</key>
+	<string>취소</string>
+	<key>Capability checking ensures that plug-ins that are incompatible with this version of the server or the current client application you are using are hidden. Disabling capability checking is useful during development, but will enable access to plug-ins that may perform unreliably with certain client applications.</key>
+	<string>이 옵션을 선택 하면 서버의 버전과 호환되지 않는 플러그 인이나 클라이언트 응용 프로그램도 보여줍니다. 이 옵션은 개발 중일 때 유용하지만, 플러그 인의 접근이 클라이언트 응용 프로그램에 대해 신뢰할 수 없는 동작을 야기할 수 있습니다.</string>
+	<key>Change Artwork</key>
+	<string>이미지 변경</string>
+	<key>Choose Album Thumbnail</key>
+	<string>앨범 썸네일 선택</string>
+	<key>Choose Background Art</key>
+	<string>배경 변경</string>
+	<key>Choose Banner</key>
+	<string>배너 변경</string>
+	<key>Choose Episode Thumbnail</key>
+	<string>에피소드 썸네일 선택</string>
+	<key>Choose Icon</key>
+	<string>아이콘 변경</string>
+	<key>Choose Poster</key>
+	<string>포스터 변경</string>
+	<key>Choose Season Thumbnail</key>
+	<string>시즌 썸네일 선택</string>
+	<key>Click the titles below to create library sections for your media and have it served to your Plex-enabled devices.</key>
+	<string>Click the titles below to create library sections for your media and have it served to your Plex-enabled devices.</string>
+	<key>Collections</key>
+	<string>컬렉션</string>
+	<key>Connecting to Plex Media Server failed with this error: %@.
+
+Are you sure it's running?</key>
+	<string>다음과 같은 에러로 인하여 Plex Media Server에 접속을 실패하였습니다.: %@.
+
+Plex Media Server가 실행 중인지 확인하세요.</string>
+	<key>Content Rating</key>
+	<string>등급</string>
+	<key>Custom Search</key>
+	<string>상세 검색</string>
+	<key>Customize Section</key>
+	<string>사용자 정의 섹션</string>
+	<key>Directors</key>
+	<string>감독</string>
+	<key>Disable capability checking</key>
+	<string>호환성 체크 비활성화</string>
+	<key>Done</key>
+	<string>완료</string>
+	<key>Drag folders into the list, or click the '+' button to browse.</key>
+	<string>'+' 버튼을 클릭하여 폴더를 추가하세요.</string>
+	<key>Edit Metadata</key>
+	<string>메타데이터 편집</string>
+	<key>Edit Section</key>
+	<string>섹션 편집</string>
+	<key>Episode %d: %@</key>
+	<string>Episode %1$d: %2$@</string>
+	<key>Fix Incorrect Match...</key>
+	<string>메타데이터 재선택...</string>
+	<key>Fix incorrect match</key>
+	<string>메타데이터 재선택</string>
+	<key>Friday</key>
+	<string>금요일</string>
+	<key>Friendly name:</key>
+	<string>사용자 정의 이름:</string>
+	<key>General</key>
+	<string>일반</string>
+	<key>Genres</key>
+	<string>장르</string>
+	<key>Got this error: %@. Are you sure Plex Media Server is running?</key>
+	<string>에러 발생: %@. Plex Media Server가 실행 중인지 확인하세요.</string>
+	<key>Include music sections in automatic updates</key>
+	<string>자동 업데이트에 음악 섹션 포함</string>
+	<key>LIBRARY SECTIONS</key>
+	<string>라이브러리 섹션</string>
+	<key>Language:</key>
+	<string>언어:</string>
+	<key>Large music sections may take a long time to scan</key>
+	<string>용량이 큰 음악 섹션은 탐색 시간이 오래 걸릴 수 있습니다</string>
+	<key>Last refreshed %@ at %@</key>
+	<string>%1$@ %2$@에 갱신되었습니다</string>
+	<key>Library</key>
+	<string>라이브러리</string>
+	<key>Loading metadata for '%@'</key>
+	<string>Loading metadata for '%@'</string>
+	<key>Manual Entry</key>
+	<string>Manual Entry</string>
+	<key>Matching '%@'</key>
+	<string>Matching '%@'</string>
+	<key>Media analysis on '%@'</key>
+	<string>Media analysis on '%@'</string>
+	<key>Media file: </key>
+	<string>파일 위치: </string>
+	<key>Media scanner:</key>
+	<string>미디어 스캐너:</string>
+	<key>Monday</key>
+	<string>월요일</string>
+	<key>Movie</key>
+	<string>영화</string>
+	<key>Movies</key>
+	<string>영화</string>
+	<key>Music</key>
+	<string>음악</string>
+	<key>My Movies</key>
+	<string>나의 영화</string>
+	<key>My Music</key>
+	<string>나의 음악</string>
+	<key>My TV Shows</key>
+	<string>나의 TV 쇼</string>
+	<key>Name</key>
+	<string>제목</string>
+	<key>Name:</key>
+	<string>제목:</string>
+	<key>Offer higher bitrates over 3G connections</key>
+	<string>3G 연결에서 하이 비트레이트 제공</string>
+	<key>Original Title</key>
+	<string>원제</string>
+	<key>Originally Available</key>
+	<string>개봉(첫방송)일</string>
+	<key>PLEX MEDIA MANAGER</key>
+	<string>PLEX 미디어 매니저</string>
+	<key>PM</key>
+	<string>PM</string>
+	<key>Path of the directory you'd like to add:</key>
+	<string>Path of the directory you'd like to add:</string>
+	<key>Primary metadata agent:</key>
+	<string>메타데이터 에이전트:</string>
+	<key>Rating</key>
+	<string>평점</string>
+	<key>Refresh Info</key>
+	<string>정보 새로고침</string>
+	<key>Refresh Section</key>
+	<string>섹션 새로고침</string>
+	<key>Refresh Section (force)</key>
+	<string>섹션 새로고침 (강제)</string>
+	<key>Refreshing info for %d items</key>
+	<string>%d 아이템의 정보를 갱신하고 있습니다.</string>
+	<key>Refreshing info for one item</key>
+	<string>아이템의 정보를 갱신하고 있습니다.</string>
+	<key>Remove Section</key>
+	<string>섹션 삭제</string>
+	<key>Requesting metadata for '%@'</key>
+	<string>Requesting metadata for '%@'</string>
+	<key>Saturday</key>
+	<string>토요일</string>
+	<key>Save</key>
+	<string>저장</string>
+	<key>Scanning '%@'</key>
+	<string>Scanning '%@'</string>
+	<key>Search</key>
+	<string>검색</string>
+	<key>Search using:</key>
+	<string>에이전트:</string>
+	<key>Section name:</key>
+	<string>섹션 이름:</string>
+	<key>Section type:</key>
+	<string>섹션 타입:</string>
+	<key>Security</key>
+	<string>보안</string>
+	<key>Select</key>
+	<string>선택</string>
+	<key>Select %@</key>
+	<string>%@ 선택</string>
+	<key>Select Folder</key>
+	<string>폴더 선택</string>
+	<key>Select Image</key>
+	<string>이미지 변경</string>
+	<key>Select a directory for this section:</key>
+	<string>해당 섹션의 폴더 선택:</string>
+	<key>Select the correct TV show from the list below:</key>
+	<string>다음 목록에서 일치하는 TV 쇼를 선택하세요:</string>
+	<key>Select the correct artist from the list below:</key>
+	<string>다음 목록에서 일치하는 음악을 선택하세요:</string>
+	<key>Select the correct movie from the list below:</key>
+	<string>다음 목록에서 일치하는 영화를 선택하세요:</string>
+	<key>Send anonymous usage data to Plex</key>
+	<string>Plex에 익명으로 사용 정보를 보냅니다.</string>
+	<key>Settings</key>
+	<string>설정</string>
+	<key>Sharing</key>
+	<string>공유</string>
+	<key>Show</key>
+	<string>쇼</string>
+	<key>Sort Title</key>
+	<string>기타 제목</string>
+	<key>Studio</key>
+	<string>제작사</string>
+	<key>Summary</key>
+	<string>요약</string>
+	<key>Sunday</key>
+	<string>일요일</string>
+	<key>TV Shows</key>
+	<string>TV 쇼</string>
+	<key>Tagline</key>
+	<string>태그라인</string>
+	<key>This helps us improve your experience (for example, to help us match movies and TV shows).</key>
+	<string>이것은 시스템 개선에 도움이 됩니다. (예를 들어, 영화와 TV 쇼를 매칭하는데 도움이 됩니다).</string>
+	<key>This name will be used to identify this media server to other computers on your network. If you leave it blank, your computer's name will be used instead.</key>
+	<string>이 이름은 네트워크 상의 다른 컴퓨터로부터 사용자의 미디어 서버를 구별하는데 사용됩니다. 만약 입력하지 않으면 사용자의 컴퓨터 이름으로 저장됩니다.</string>
+	<key>This site does not support Internet Explorer. For the best experience, click here to install Google Chrome Frame.</key>
+	<string>이 사이트는 인터넷 익스플로러를 지원하지 않습니다. 이곳을 클릭하여 Google Chrome Frame을 설치하세요.</string>
+	<key>Thursday</key>
+	<string>목요일</string>
+	<key>Title</key>
+	<string>제목</string>
+	<key>Transcoding</key>
+	<string>트랜스코딩</string>
+	<key>Tuesday</key>
+	<string>화요일</string>
+	<key>Unable to connect to Plex Media Server</key>
+	<string>Plex Media Server에 연결할 수 없습니다.</string>
+	<key>Unable to create library section</key>
+	<string>라이브러리 섹션을 생성할 수 없습니다.</string>
+	<key>Unable to remove section "%@"</key>
+	<string>"%@" 섹션을 삭제할 수 없습니다.</string>
+	<key>Unable to update library section</key>
+	<string>라이브러리 섹션을 업데이트할 수 없습니다.</string>
+	<key>Update Section</key>
+	<string>섹션 업데이트</string>
+	<key>Update my library</key>
+	<string>라이브러리 업데이트</string>
+	<key>Update my library when changes to my folders are detected</key>
+	<string>폴더에 변경 발생시 라이브러리 업데이트</string>
+	<key>Wednesday</key>
+	<string>수요일</string>
+	<key>Writers</key>
+	<string>작가</string>
+	<key>Year</key>
+	<string>연도</string>
+	<key>Year:</key>
+	<string>연도:</string>
+	<key>album</key>
+	<string>앨범</string>
+	<key>artist</key>
+	<string>아티스트</string>
+	<key>daily</key>
+	<string>매일</string>
+	<key>episode</key>
+	<string>에피소드</string>
+	<key>every 12 hours</key>
+	<string>12시간 마다</string>
+	<key>every 15 minutes</key>
+	<string>15분 마다</string>
+	<key>every 2 hours</key>
+	<string>2시간 마다</string>
+	<key>every 30 minutes</key>
+	<string>30분 마다</string>
+	<key>every 6 hours</key>
+	<string>6시간 마다</string>
+	<key>hourly</key>
+	<string>매시간</string>
+	<key>iPhoto Sharing Enabled</key>
+	<string>iPhoto Sharing Enabled</string>
+	<key>iTunes Sharing Enabled</key>
+	<string>iTunes Sharing Enabled</string>
+	<key>movie</key>
+	<string>영화</string>
+	<key>no TV shows</key>
+	<string>TV 쇼 없음</string>
+	<key>no artists</key>
+	<string>아티스트 없음</string>
+	<key>no episodes</key>
+	<string>에피소드 없음</string>
+	<key>no movies</key>
+	<string>영화 없음</string>
+	<key>no tracks</key>
+	<string>트랙 없음</string>
+	<key>season</key>
+	<string>시즌</string>
+	<key>show</key>
+	<string>쇼</string>
+	<key>today</key>
+	<string>오늘</string>
+	<key>tomorrow</key>
+	<string>내일</string>
+	<key>yesterday</key>
+	<string>어제</string>
+</dict>
+</plist>

@@ -85,8 +85,7 @@
 "Add Section" = "Edd Secshun";
 
 /* Section settings primary informative text */
-"Add the folders containing media for this section below. Any media files found inside these folders will be scanned into your library using the above settings." = "Edd zee fulders cunteeening medeea fur thees secshun beloo. Uny medeea feeles fuoond inseede-a zeese-a fulders veell be-a scunned intu yuoor leebrery useeng zee ebufe-a setteengs.
-Bork Bork Bork!";
+"Add the folders containing media for this section below. Any media files found inside these folders will be scanned into your library using the above settings." = "Edd zee fulders cunteeening medeea fur thees secshun beloo. Uny medeea feeles fuoond inseede-a zeese-a fulders veell be-a scunned intu yuoor leebrery useeng zee ebufe-a setteengs.";
 
 /* First-run title for adding TV shows */
 "Add TV Shows Section" = "Edd TF Shoos Secshun";
@@ -101,15 +100,13 @@ Bork Bork Bork!";
 "AM" = "EM";
 
 /* Informative text for removing a section */
-"Any content in this section will no longer be available in your library. The files on your computer will not be removed." = "Uny cuntent in thees secshun veell nu lunger be-a efeeeleble-a in yuoor leebrery. Zee feeles oon yuoor cumpooter veell nut be-a remufed.
-Bork Bork Bork!";
+"Any content in this section will no longer be available in your library. The files on your computer will not be removed." = "Uny cuntent in thees secshun veell nu lunger be-a efeeeleble-a in yuoor leebrery. Zee feeles oon yuoor cumpooter veell nut be-a remufed.";
 
 /* Preference window setting */
 "Aperture Sharing Enabled" = "Epertoore-a Shereeng Inebled";
 
 /* Confirmation message for removing a section */
-"Are you sure you want to remove the section named \"%@\"?" = "Ere-a yuoo soore-a yuoo vunt tu remufe-a zee secshun nemed \"%@\"?
-Bork Bork Bork!";
+"Are you sure you want to remove the section named \"%@\"?" = "Ere-a yuoo soore-a yuoo vunt tu remufe-a zee secshun nemed \"%@\"?";
 
 /* A musical artist */
 "artist" = "erteest";
@@ -121,8 +118,7 @@ Bork Bork Bork!";
 "Cancel" = "Cuncel";
 
 /* Preference window setting detail */
-"Capability checking ensures that plug-ins that are incompatible with this version of the server or the current client application you are using are hidden. Disabling capability checking is useful during development, but will enable access to plug-ins that may perform unreliably with certain client applications." = "Cepebeelity checkeeng insoores thet ploog-ins thet ere-a incumpeteeble-a veet thees ferseeun ooff zee serfer oor zee coorrent cleeent eppleeceshun yuoo ere-a useeng ere-a heeddee. Deesebling cepebeelity checkeeng is useffool dooreeng defelupment, boot veell ineble-a eccess tu ploog-ins thet mey perffurm unreleeebly veet certeeen cleeent eppleeceshuns.
-Bork Bork Bork!";
+"Capability checking ensures that plug-ins that are incompatible with this version of the server or the current client application you are using are hidden. Disabling capability checking is useful during development, but will enable access to plug-ins that may perform unreliably with certain client applications." = "Cepebeelity checkeeng insoores thet ploog-ins thet ere-a incumpeteeble-a veet thees ferseeun ooff zee serfer oor zee coorrent cleeent eppleeceshun yuoo ere-a useeng ere-a heeddee. Deesebling cepebeelity checkeeng is useffool dooreeng defelupment, boot veell ineble-a eccess tu ploog-ins thet mey perffurm unreleeebly veet certeeen cleeent eppleeceshuns.";
 
 /* Change Artwork */
 "Change Artwork" = "Chunge-a Ertvurk";
@@ -149,15 +145,13 @@ Bork Bork Bork!";
 "Choose Season Thumbnail" = "Chuuse-a Seesun Thoombneeel";
 
 /* First-run help title */
-"Click the titles below to create library sections for your media and have it served to your Plex-enabled devices." = "Cleeck zee teetles beloo tu creete-a leebrery secshuns fur yuoor medeea und hefe-a it serfed tu yuoor Plex-inebled defeeces.
-Bork Bork Bork!";
+"Click the titles below to create library sections for your media and have it served to your Plex-enabled devices." = "Cleeck zee teetles beloo tu creete-a leebrery secshuns fur yuoor medeea und hefe-a it serfed tu yuoor Plex-inebled defeeces.";
 
 /* Collections */
 "Collections" = "Cullecshuns";
 
 /* Error message for when we cannot connect to PMS or when the response is invalid */
-"Connecting to Plex Media Server failed with this error: %@.\n\nAre you sure it's running?" = "Cunnecteeng tu Plex Medeea Serfer feeeled veet thees irrur: %@.\n\nAre yuoo soore-a it's roonneeng?
-Bork Bork Bork!";
+"Connecting to Plex Media Server failed with this error: %@.\n\nAre you sure it's running?" = "Cunnecteeng tu Plex Medeea Serfer feeeled veet thees irrur: %@.\n\nAre yuoo soore-a it's roonneeng?";
 
 /* Content Rating */
 "Content Rating" = "Cuntent Reteeng";
@@ -181,8 +175,7 @@ Bork Bork Bork!";
 "Done" = "Dune-a";
 
 /* Section settings secondary informative text */
-"Drag folders into the list, or click the '+' button to browse." = "Dreg fulders intu zee leest, oor cleeck zee '+' boottun tu broose-a.
-Bork Bork Bork!";
+"Drag folders into the list, or click the '+' button to browse." = "Dreg fulders intu zee leest, oor cleeck zee '+' boottun tu broose-a.";
 
 /* Edit Metadata */
 "Edit Metadata" = "Edeet Metedeta";
@@ -215,8 +208,7 @@ Bork Bork Bork!";
 "Fix incorrect match" = "Feex incurrect metch";
 
 /* Fix Incorrect Match... */
-"Fix Incorrect Match..." = "Feex Incurrect Metch...
-Bork Bork Bork!";
+"Fix Incorrect Match..." = "Feex Incurrect Metch...";
 
 /* Friday */
 "Friday" = "Freedey";
@@ -231,8 +223,7 @@ Bork Bork Bork!";
 "Genres" = "Genres";
 
 /* Error message for when we cannot remove a library section */
-"Got this error: %@. Are you sure Plex Media Server is running?" = "Gut thees irrur: %@. Ere-a yuoo soore-a Plex Medeea Serfer is roonneeng?
-Bork Bork Bork!";
+"Got this error: %@. Are you sure Plex Media Server is running?" = "Gut thees irrur: %@. Ere-a yuoo soore-a Plex Medeea Serfer is roonneeng?";
 
 /* Library scan interval (i.e. Update my library hourly) */
 "hourly" = "huoorly";
@@ -453,16 +444,13 @@ Bork Bork Bork!";
 "Tagline" = "Tegleene-a";
 
 /* Summary info for collecting usage data */
-"This helps us improve your experience (for example, to help us match movies and TV shows)." = "Thees helps us imprufe-a yuoor ixpereeence-a (fur ixemple-a, tu help us metch mufeees und TF shoos).
-Bork Bork Bork!";
+"This helps us improve your experience (for example, to help us match movies and TV shows)." = "Thees helps us imprufe-a yuoor ixpereeence-a (fur ixemple-a, tu help us metch mufeees und TF shoos).";
 
 /* Summary info for friendly name */
-"This name will be used to identify this media server to other computers on your network. If you leave it blank, your computer's name will be used instead." = "Thees neme-a veell be-a used tu identeeffy thees medeea serfer tu oozeer cumpooters oon yuoor netvurk. Iff yuoo leefe-a it blunk, yuoor cumpooter's neme-a veell be-a used insteed.
-Bork Bork Bork!";
+"This name will be used to identify this media server to other computers on your network. If you leave it blank, your computer's name will be used instead." = "Thees neme-a veell be-a used tu identeeffy thees medeea serfer tu oozeer cumpooters oon yuoor netvurk. Iff yuoo leefe-a it blunk, yuoor cumpooter's neme-a veell be-a used insteed.";
 
 /* Warning for IE users */
-"This site does not support Internet Explorer. For the best experience, click here to install Google Chrome Frame." = "Thees seete-a dues nut sooppurt Internet Ixplurer. Fur zee best ixpereeence-a, cleeck here-a tu instell Guugle-a Chrume-a Freme-a.
-Bork Bork Bork!";
+"This site does not support Internet Explorer. For the best experience, click here to install Google Chrome Frame." = "Thees seete-a dues nut sooppurt Internet Ixplurer. Fur zee best ixpereeence-a, cleeck here-a tu instell Guugle-a Chrume-a Freme-a.";
 
 /* Thursday */
 "Thursday" = "Thoorsdey";
