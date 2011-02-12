@@ -24,3 +24,12 @@ localizations.each do |localization|
 end
 
 task :default => localizations.map {|localization| localization.xstrings }
+
+task :install => :default do
+  resources = ROOT.parent+'plex-media-manager/Resources'
+
+  localizations.each do |localization|
+    cp localization.strings, resources+"#{localization.code}.lproj/"
+    cp localization.xstrings, resources+"#{localization.code}.lproj/"
+  end
+end
