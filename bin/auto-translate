@@ -12,19 +12,16 @@ if interpreter.nil? || code.nil?
   EOS
 end
 
-$LOAD_PATH << File.expand_path('../../lib', __FILE__)
-
 require 'pathname'
-require 'l10n/translation_parser'
+require File.expand_path('../../lib/l10n', __FILE__)
 
-data   = Pathname(File.expand_path('../../data', __FILE__))
-source = data + 'en.lproj/Localizable.strings'
-target = data + "#{code}.lproj/Localizable.strings"
+source = L10n::Localization.new('en')
+target = L10n::Localization.new(code)
 
 $stdout.puts "~ Auto-translating for #{code} using #{interpreter}"
 $stdout.flush
 
-list = L10n::TranslationParser.parse(source.read)
+list = source.data
 i = 0
 
 list.translate do |string|
@@ -39,7 +36,7 @@ list.translate do |string|
     c = pipe.read(1)
     break if c.nil?
 
-    break if c == ?\n
+    break if c == "\n"
     result << c
   end
   pipe.close_read
@@ -52,6 +49,6 @@ list.translate do |string|
   result.chomp
 end
 
-target.parent.mkpath
-target.open('w') {|f| f << list }
+target.data = list
+target.write
 puts '', '', '~ Done'
