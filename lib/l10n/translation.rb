@@ -2,6 +2,8 @@ module L10n
   class Translation
     attr_accessor :original, :translated, :comment
 
+    include Comparable
+
     def initialize(original, translated, comment=nil)
       self.original   = original
       self.translated = translated
@@ -35,6 +37,10 @@ module L10n
 
     def to_s
       to_str
+    end
+
+    def <=>(other)
+      self.original.casecmp(other.original)
     end
 
     private

@@ -28,6 +28,33 @@ module L10n
       @translations.each(&block)
     end
 
+    def has_key?(string)
+      not translation_for_string(string).nil?
+    end
+
+    def delete(translation)
+      @translations.delete(translation)
+    end
+
+    def sort!
+      @translations.sort!
+      return self
+    end
+
+    def sort
+      dup.sort!
+    end
+
+    def dup
+      self.class.new(@translations.map {|t| t.dup })
+    end
+
+    alias_method :include?, :has_key?
+
+    def translation_for_string(string)
+      find {|translation| translation.original == string }
+    end
+
     def translate
       raise ArgumentError, "You must provide a block to return translations for given strings" unless block_given?
 
