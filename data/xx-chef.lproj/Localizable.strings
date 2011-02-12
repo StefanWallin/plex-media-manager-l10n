@@ -1,0 +1,523 @@
+/* Season plus full episode title (e.g. Season 4, Episode 1 */
+"%@, Episode %d" = "%@, Ipeesude-a %d";
+
+/* Status label value for when there is more than one musical artist */
+"%d artists" = "%d erteests";
+
+/* Status for list of episodes when there is more than one
+   Subtitle for a season thumbnail on a TV Show detail view */
+"%d episodes" = "%d ipeesudes";
+
+/* Status label value for when there is more than one movie */
+"%d movies" = "%d mufeees";
+
+/* Subtitle for a album thumbnail on an artist detail view */
+"%d tracks" = "%d trecks";
+
+/* Status label for when there are more than one track (e.g. 11 tracks, 47:34 total time, 91.2 MB) */
+"%d tracks, %@ total time, %@" = "%d trecks, %@ tutel teeme-a, %@";
+
+/* Status label value for when there is more than one TV show */
+"%d TV shows" = "%d TF shoos";
+
+/* ShortLocalTimeFormat */
+"%d:%02d %@" = "%d:%02d %@";
+
+/* Status label value for when there is one musical artist */
+"1 artist" = "1 erteest";
+
+/* Status for list of episodes when there is one
+   Subtitle for a season thumbnail on a TV Show detail view */
+"1 episode" = "1 ipeesude-a";
+
+/* Status label value for when there is one movie */
+"1 movie" = "1 mufeee-a";
+
+/* Subtitle for a album thumbnail on an artist detail view */
+"1 track" = "1 treck";
+
+/* Status label for when there is one track in an album (e.g. 1 track, 4:28 total time, 5.6 MB) */
+"1 track, %@ total time, %@" = "1 treck, %@ tutel teeme-a, %@";
+
+/* Status label value for when there is one TV show */
+"1 TV show" = "1 TF shoo";
+
+/* First-run help item */
+"> Add posters, custom genres and more" = "> Edd pusters, coostum genres und mure-a";
+
+/* First-run help item */
+"> Album reviews" = "> Elboom refeeoos";
+
+/* First-run help item */
+"> Artist biographies and artwork" = "> Erteest beeugrephies und ertvurk";
+
+/* First-run help item */
+"> Automatic theme music for TV shows" = "> Ootumeteec zeeme-a mooseec fur TF shoos";
+
+/* First-run help item */
+"> Customize every detail of each movie" = "> Coostumeeze-a ifery deteeel ooff iech mufeee-a";
+
+/* First-run help item */
+"> Great for your personal media" = "> Greet fur yuoor persunel medeea";
+
+/* First-run help item */
+"> Movie posters and art" = "> Mufeee-a pusters und ert";
+
+/* First-run help item */
+"> Organize movies into collections" = "> Oorguneeze-a mufeees intu cullecshuns";
+
+/* First-run help item */
+"> Thumbnails for every episode" = "> Thoombneeels fur ifery ipeesude-a";
+
+/* First-run help item */
+"> TV show posters and art" = "> TF shoo pusters und ert";
+
+/* First-run title for adding home movies */
+"Add Home Movies Section" = "Edd Hume-a Mufeees Secshun";
+
+/* First-run title for adding movies */
+"Add Movies Section" = "Edd Mufeees Secshun";
+
+/* First-run title for adding music */
+"Add Music Section" = "Edd Mooseec Secshun";
+
+/* Add section confirm button text */
+"Add Section" = "Edd Secshun";
+
+/* Section settings primary informative text */
+"Add the folders containing media for this section below. Any media files found inside these folders will be scanned into your library using the above settings." = "Edd zee fulders cunteeening medeea fur thees secshun beloo. Uny medeea feeles fuoond inseede-a zeese-a fulders veell be-a scunned intu yuoor leebrery useeng zee ebufe-a setteengs.
+Bork Bork Bork!";
+
+/* First-run title for adding TV shows */
+"Add TV Shows Section" = "Edd TF Shoos Secshun";
+
+/* Advanced */
+"Advanced" = "Edfunced";
+
+/* A recording album */
+"album" = "elboom";
+
+/* AnteMeridiem */
+"AM" = "EM";
+
+/* Informative text for removing a section */
+"Any content in this section will no longer be available in your library. The files on your computer will not be removed." = "Uny cuntent in thees secshun veell nu lunger be-a efeeeleble-a in yuoor leebrery. Zee feeles oon yuoor cumpooter veell nut be-a remufed.
+Bork Bork Bork!";
+
+/* Preference window setting */
+"Aperture Sharing Enabled" = "Epertoore-a Shereeng Inebled";
+
+/* Confirmation message for removing a section */
+"Are you sure you want to remove the section named \"%@\"?" = "Ere-a yuoo soore-a yuoo vunt tu remufe-a zee secshun nemed \"%@\"?
+Bork Bork Bork!";
+
+/* A musical artist */
+"artist" = "erteest";
+
+/* Artist */
+"Artist" = "Erteest";
+
+/* Cancel */
+"Cancel" = "Cuncel";
+
+/* Preference window setting detail */
+"Capability checking ensures that plug-ins that are incompatible with this version of the server or the current client application you are using are hidden. Disabling capability checking is useful during development, but will enable access to plug-ins that may perform unreliably with certain client applications." = "Cepebeelity checkeeng insoores thet ploog-ins thet ere-a incumpeteeble-a veet thees ferseeun ooff zee serfer oor zee coorrent cleeent eppleeceshun yuoo ere-a useeng ere-a heeddee. Deesebling cepebeelity checkeeng is useffool dooreeng defelupment, boot veell ineble-a eccess tu ploog-ins thet mey perffurm unreleeebly veet certeeen cleeent eppleeceshuns.
+Bork Bork Bork!";
+
+/* Change Artwork */
+"Change Artwork" = "Chunge-a Ertvurk";
+
+/* Choose Album Thumbnail menu item */
+"Choose Album Thumbnail" = "Chuuse-a Elboom Thoombneeel";
+
+/* Choose Background Art */
+"Choose Background Art" = "Chuuse-a Beckgruoond Ert";
+
+/* Choose Banner */
+"Choose Banner" = "Chuuse-a Bunner";
+
+/* Choose Episode Thumbnail menu item */
+"Choose Episode Thumbnail" = "Chuuse-a Ipeesude-a Thoombneeel";
+
+/* Choose Icon */
+"Choose Icon" = "Chuuse-a Icun";
+
+/* Choose Poster menu item */
+"Choose Poster" = "Chuuse-a Puster";
+
+/* Choose Season Thumbnail menu item */
+"Choose Season Thumbnail" = "Chuuse-a Seesun Thoombneeel";
+
+/* First-run help title */
+"Click the titles below to create library sections for your media and have it served to your Plex-enabled devices." = "Cleeck zee teetles beloo tu creete-a leebrery secshuns fur yuoor medeea und hefe-a it serfed tu yuoor Plex-inebled defeeces.
+Bork Bork Bork!";
+
+/* Collections */
+"Collections" = "Cullecshuns";
+
+/* Error message for when we cannot connect to PMS or when the response is invalid */
+"Connecting to Plex Media Server failed with this error: %@.\n\nAre you sure it's running?" = "Cunnecteeng tu Plex Medeea Serfer feeeled veet thees irrur: %@.\n\nAre yuoo soore-a it's roonneeng?
+Bork Bork Bork!";
+
+/* Content Rating */
+"Content Rating" = "Cuntent Reteeng";
+
+/* Custom Search */
+"Custom Search" = "Coostum Seerch";
+
+/* Customize Section */
+"Customize Section" = "Coostumeeze-a Secshun";
+
+/* Library scan interval (i.e. Update my library daily */
+"daily" = "deeely";
+
+/* Directors */
+"Directors" = "Durecturs";
+
+/* Preference window setting */
+"Disable capability checking" = "Deeseble-a cepebeelity checkeeng";
+
+/* Done */
+"Done" = "Dune-a";
+
+/* Section settings secondary informative text */
+"Drag folders into the list, or click the '+' button to browse." = "Dreg fulders intu zee leest, oor cleeck zee '+' boottun tu broose-a.
+Bork Bork Bork!";
+
+/* Edit Metadata */
+"Edit Metadata" = "Edeet Metedeta";
+
+/* Edit Section */
+"Edit Section" = "Edeet Secshun";
+
+/* A TV Show episode */
+"episode" = "epeesude-a";
+
+/* Full episode title (e.g. Episode 1: Pilot */
+"Episode %d: %@" = "Epeesude-a %d: %@";
+
+/* Library scan interval (i.e. Update my library every 12 hours) */
+"every 12 hours" = "efery 12 huoors";
+
+/* Library scan interval (i.e. Update my library every 15 minutes) */
+"every 15 minutes" = "efery 15 meenootes";
+
+/* Library scan interval (i.e. Update my library every 2 hours) */
+"every 2 hours" = "efery 2 huoors";
+
+/* Library scan interval (i.e. Update my library every 30 minutes) */
+"every 30 minutes" = "efery 30 meenootes";
+
+/* Library scan interval (i.e. Update my library every 6 hours) */
+"every 6 hours" = "efery 6 huoors";
+
+/* Fix incorrect match */
+"Fix incorrect match" = "Feex incurrect metch";
+
+/* Fix Incorrect Match... */
+"Fix Incorrect Match..." = "Feex Incurrect Metch...
+Bork Bork Bork!";
+
+/* Friday */
+"Friday" = "Freedey";
+
+/* Friendly name label */
+"Friendly name:" = "Freeendly neme-a:";
+
+/* General */
+"General" = "Generel";
+
+/* Genres */
+"Genres" = "Genres";
+
+/* Error message for when we cannot remove a library section */
+"Got this error: %@. Are you sure Plex Media Server is running?" = "Gut thees irrur: %@. Ere-a yuoo soore-a Plex Medeea Serfer is roonneeng?
+Bork Bork Bork!";
+
+/* Library scan interval (i.e. Update my library hourly) */
+"hourly" = "huoorly";
+
+/* Preference window setting */
+"Include music sections in automatic updates" = "Incloode-a mooseec secshuns in ootumeteec updetes";
+
+/* Preference window setting */
+"iPhoto Sharing Enabled" = "iPhutu Shereeng Inebled";
+
+/* Preference window setting */
+"iTunes Sharing Enabled" = "iToones Shereeng Inebled";
+
+/* Language label */
+"Language:" = "Lungooege-a:";
+
+/* Preference window setting */
+"Large music sections may take a long time to scan" = "Lerge-a mooseec secshuns mey teke-a a lung teeme-a tu scun";
+
+/* Status label for media items */
+"Last refreshed %@ at %@" = "Lest reffreshed %@ et %@";
+
+/* Library */
+"Library" = "Leebrery";
+
+/* Sidebar group title for library sections */
+"LIBRARY SECTIONS" = "LIBRERY SECTIONS";
+
+/* Metadata item status message when its data is importing */
+"Loading metadata for '%@'" = "Luedeeng metedeta fur '%@'";
+
+/* Button text for the directory browser to allow the user to type in a path manually */
+"Manual Entry" = "Munooel Intry";
+
+/* Metadata item status message when it is being matched to a canonical item */
+"Matching '%@'" = "Metcheeng '%@'";
+
+/* Metadata item status message when it is being read */
+"Media analysis on '%@'" = "Medeea unelysees oon '%@'";
+
+/* Label for the path to the file whose match is being fixed */
+"Media file: " = "Medeea feele-a: ";
+
+/* Media scanner label */
+"Media scanner:" = "Medeea scunner:";
+
+/* Monday */
+"Monday" = "Mundey";
+
+/* Movie */
+"Movie" = "Mufeee-a";
+
+/* A movie */
+"movie" = "mufeee-a";
+
+/* Movies */
+"Movies" = "Mufeees";
+
+/* Music */
+"Music" = "Mooseec";
+
+/* Movie section name placeholder */
+"My Movies" = "My Mufeees";
+
+/* Music section name placeholder */
+"My Music" = "My Mooseec";
+
+/* TV Shows section name placeholder */
+"My TV Shows" = "My TF Shoos";
+
+/* Name */
+"Name" = "Neme-a";
+
+/* Name label */
+"Name:" = "Neme-a:";
+
+/* Status label value when there are no musical artists */
+"no artists" = "nu erteests";
+
+/* Status for list of episodes when there are none
+   Subtitle for a season thumbnail on a TV Show detail view */
+"no episodes" = "nu ipeesudes";
+
+/* Status label value for when there are no movies */
+"no movies" = "nu mufeees";
+
+/* Status label for when there are no tracks in an album
+   Subtitle for a album thumbnail on an artist detail view */
+"no tracks" = "nu trecks";
+
+/* Status label value when there are no TV shows */
+"no TV shows" = "nu TF shoos";
+
+/* Preference window setting */
+"Offer higher bitrates over 3G connections" = "Offffer heegher beetretes oofer 3G cunnecshuns";
+
+/* Original Title */
+"Original Title" = "Oreeginel Teetle-a";
+
+/* Originally Available */
+"Originally Available" = "Oreeginelly Efeeeleble-a";
+
+/* Instruction text for the prompt to add directories manually */
+"Path of the directory you'd like to add:" = "Pet ooff zee durectury yuoo'd leeke-a tu edd:";
+
+/* Header title */
+"PLEX MEDIA MANAGER" = "PLEX MEDIA MENEGER";
+
+/* PostMeridiem */
+"PM" = "PM";
+
+/* Primary metadata agent label */
+"Primary metadata agent:" = "Preemery metedeta egent:";
+
+/* Rating */
+"Rating" = "Reteeng";
+
+/* Refresh Info */
+"Refresh Info" = "Reffresh Inffu";
+
+/* Refresh Section */
+"Refresh Section" = "Reffresh Secshun";
+
+/* Refresh Section (force) */
+"Refresh Section (force)" = "Reffresh Secshun (furce-a)";
+
+/* Status label for refreshing sections */
+"Refreshing info for %d items" = "Reffresheeng inffu fur %d items";
+
+/* Status label for refreshing sections with one remaining item */
+"Refreshing info for one item" = "Reffresheeng inffu fur oone-a item";
+
+/* Remove section confirmation button */
+"Remove Section" = "Remufe-a Secshun";
+
+/* Metadata item status message when its info is downloading */
+"Requesting metadata for '%@'" = "Reqooesteeng metedeta fur '%@'";
+
+/* Saturday */
+"Saturday" = "Setoordey";
+
+/* Save */
+"Save" = "Sefe-a";
+
+/* Metadata item status message when it is newly scanned/created */
+"Scanning '%@'" = "Scunneeng '%@'";
+
+/* Search */
+"Search" = "Seerch";
+
+/* Agent label */
+"Search using:" = "Seerch useeng:";
+
+/* A TV Show season */
+"season" = "seesun";
+
+/* Section name label */
+"Section name:" = "Secshun neme-a:";
+
+/* Section type label */
+"Section type:" = "Secshun type-a:";
+
+/* Security */
+"Security" = "Secooreety";
+
+/* Select */
+"Select" = "Select";
+
+/* Confirm button title for selecting */
+"Select %@" = "Select %@";
+
+/* Directory-browser title when adding/editing sections */
+"Select a directory for this section:" = "Select a durectury fur thees secshun:";
+
+/* Select Folder */
+"Select Folder" = "Select Fulder";
+
+/* Select Image */
+"Select Image" = "Select Imege-a";
+
+/* Fix Incorrect Match title for music sections */
+"Select the correct artist from the list below:" = "Select zee currect erteest frum zee leest beloo:";
+
+/* Fix Incorrect Match title for movie sections */
+"Select the correct movie from the list below:" = "Select zee currect mufeee-a frum zee leest beloo:";
+
+/* Fix Incorrect Match title for TV show sections */
+"Select the correct TV show from the list below:" = "Select zee currect TF shoo frum zee leest beloo:";
+
+/* Send anonymous usage data to Plex */
+"Send anonymous usage data to Plex" = "Send ununymuoos usege-a deta tu Plex";
+
+/* Settings button at the top-right */
+"Settings" = "Setteengs";
+
+/* Sharing */
+"Sharing" = "Shereeng";
+
+/* Show */
+"Show" = "Shoo";
+
+/* A TV Show */
+"show" = "shoo";
+
+/* Sort Title */
+"Sort Title" = "Surt Teetle-a";
+
+/* Studio */
+"Studio" = "Stoodeeu";
+
+/* Summary */
+"Summary" = "Soommery";
+
+/* Sunday */
+"Sunday" = "Soondey";
+
+/* Tagline */
+"Tagline" = "Tegleene-a";
+
+/* Summary info for collecting usage data */
+"This helps us improve your experience (for example, to help us match movies and TV shows)." = "Thees helps us imprufe-a yuoor ixpereeence-a (fur ixemple-a, tu help us metch mufeees und TF shoos).
+Bork Bork Bork!";
+
+/* Summary info for friendly name */
+"This name will be used to identify this media server to other computers on your network. If you leave it blank, your computer's name will be used instead." = "Thees neme-a veell be-a used tu identeeffy thees medeea serfer tu oozeer cumpooters oon yuoor netvurk. Iff yuoo leefe-a it blunk, yuoor cumpooter's neme-a veell be-a used insteed.
+Bork Bork Bork!";
+
+/* Warning for IE users */
+"This site does not support Internet Explorer. For the best experience, click here to install Google Chrome Frame." = "Thees seete-a dues nut sooppurt Internet Ixplurer. Fur zee best ixpereeence-a, cleeck here-a tu instell Guugle-a Chrume-a Freme-a.
+Bork Bork Bork!";
+
+/* Thursday */
+"Thursday" = "Thoorsdey";
+
+/* Title */
+"Title" = "Teetle-a";
+
+/* today */
+"today" = "tudey";
+
+/* tomorrow */
+"tomorrow" = "tumurroo";
+
+/* Transcoding */
+"Transcoding" = "Trunscudeeng";
+
+/* Tuesday */
+"Tuesday" = "Tooesdey";
+
+/* TV Shows */
+"TV Shows" = "TF Shoos";
+
+/* Error title for when we cannot connect to PMS or when the response is invalid */
+"Unable to connect to Plex Media Server" = "Uneble-a tu cunnect tu Plex Medeea Serfer";
+
+/* Unable to create library section */
+"Unable to create library section" = "Uneble-a tu creete-a leebrery secshun";
+
+/* Error title for when we cannot remove a library section */
+"Unable to remove section \"%@\"" = "Uneble-a tu remufe-a secshun \"%@\"";
+
+/* Unable to update library section */
+"Unable to update library section" = "Uneble-a tu updete-a leebrery secshun";
+
+/* Preference window setting - will have frequencies after it e.g. Update my library every two hours */
+"Update my library" = "Updete-a my leebrery";
+
+/* Preference window setting */
+"Update my library when changes to my folders are detected" = "Updete-a my leebrery vhee chunges tu my fulders ere-a detected";
+
+/* Update section confirm button text */
+"Update Section" = "Updete-a Secshun";
+
+/* Wednesday */
+"Wednesday" = "Vednesdey";
+
+/* Writers */
+"Writers" = "Vreeters";
+
+/* Year */
+"Year" = "Yeer";
+
+/* Year label */
+"Year:" = "Yeer:";
+
+/* yesterday */
+"yesterday" = "yesterdey";
+

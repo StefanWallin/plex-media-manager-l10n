@@ -1,35 +1,57 @@
 #!/usr/bin/env ruby
 
-interpreter = ARGV[0]
+code        = ARGV[0]
+interpreter = ARGV[1]
 
-if interpreter.nil?
-  abort "usage: #{$0} INTERPRETER # a program that takes a line on stdin and writes a translation to stdout"
+if interpreter.nil? || code.nil?
+  abort <<-EOS
+    usage: #{$0} <code> <interpreter>
+
+    <code>         language code that you're translating to (e.g. pt or pt-BR)
+    <interpreter>  path to a program that takes a line on stdin and writes a translation to stdout
+  EOS
 end
 
 $LOAD_PATH << File.expand_path('../../lib', __FILE__)
 
+require 'pathname'
 require 'l10n/translation_parser'
 
-list = L10n::TranslationParser.parse(STDIN.read)
+data   = Pathname(File.expand_path('../../data', __FILE__))
+source = data + 'en.lproj/Localizable.strings'
+target = data + "#{code}.lproj/Localizable.strings"
+
+$stdout.puts "~ Auto-translating for #{code} using #{interpreter}"
+$stdout.flush
+
+list = L10n::TranslationParser.parse(source.read)
+i = 0
 
 list.translate do |string|
   pipe = IO.popen(interpreter, "r+")
   pipe.puts(string)
   pipe.close_write
-  
+
   result = ''
   while pipes = IO.select([pipe])
     next if pipes.empty?
-    
+
     c = pipe.read(1)
     break if c.nil?
-    
+
     break if c == ?\n
     result << c
   end
   pipe.close_read
-  
+
+  i += 1
+  $stdout.print "\n  " if (i % 50) == 1
+  $stdout.print '.'
+  $stdout.flush
+
   result.chomp
 end
 
-puts list
+target.parent.mkpath
+target.open('w') {|f| f << list }
+puts '', '', '~ Done'

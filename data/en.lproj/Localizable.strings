@@ -1,0 +1,511 @@
+/* Season plus full episode title (e.g. Season 4, Episode 1 */
+"%@, Episode %d" = "%1$@, Episode %2$d";
+
+/* Status label value for when there is more than one musical artist */
+"%d artists" = "%d artists";
+
+/* Status for list of episodes when there is more than one
+   Subtitle for a season thumbnail on a TV Show detail view */
+"%d episodes" = "%d episodes";
+
+/* Status label value for when there is more than one movie */
+"%d movies" = "%d movies";
+
+/* Subtitle for a album thumbnail on an artist detail view */
+"%d tracks" = "%d tracks";
+
+/* Status label for when there are more than one track (e.g. 11 tracks, 47:34 total time, 91.2 MB) */
+"%d tracks, %@ total time, %@" = "%1$d tracks, %2$@ total time, %3$@";
+
+/* Status label value for when there is more than one TV show */
+"%d TV shows" = "%d TV shows";
+
+/* ShortLocalTimeFormat */
+"%d:%02d %@" = "%1$d:%2$02d %3$@";
+
+/* Status label value for when there is one musical artist */
+"1 artist" = "1 artist";
+
+/* Status for list of episodes when there is one
+   Subtitle for a season thumbnail on a TV Show detail view */
+"1 episode" = "1 episode";
+
+/* Status label value for when there is one movie */
+"1 movie" = "1 movie";
+
+/* Subtitle for a album thumbnail on an artist detail view */
+"1 track" = "1 track";
+
+/* Status label for when there is one track in an album (e.g. 1 track, 4:28 total time, 5.6 MB) */
+"1 track, %@ total time, %@" = "1 track, %1$@ total time, %2$@";
+
+/* Status label value for when there is one TV show */
+"1 TV show" = "1 TV show";
+
+/* First-run help item */
+"> Add posters, custom genres and more" = "> Add posters, custom genres and more";
+
+/* First-run help item */
+"> Album reviews" = "> Album reviews";
+
+/* First-run help item */
+"> Artist biographies and artwork" = "> Artist biographies and artwork";
+
+/* First-run help item */
+"> Automatic theme music for TV shows" = "> Automatic theme music for TV shows";
+
+/* First-run help item */
+"> Customize every detail of each movie" = "> Customize every detail of each movie";
+
+/* First-run help item */
+"> Great for your personal media" = "> Great for your personal media";
+
+/* First-run help item */
+"> Movie posters and art" = "> Movie posters and art";
+
+/* First-run help item */
+"> Organize movies into collections" = "> Organize movies into collections";
+
+/* First-run help item */
+"> Thumbnails for every episode" = "> Thumbnails for every episode";
+
+/* First-run help item */
+"> TV show posters and art" = "> TV show posters and art";
+
+/* First-run title for adding home movies */
+"Add Home Movies Section" = "Add Home Movies Section";
+
+/* First-run title for adding movies */
+"Add Movies Section" = "Add Movies Section";
+
+/* First-run title for adding music */
+"Add Music Section" = "Add Music Section";
+
+/* Add section confirm button text */
+"Add Section" = "Add Section";
+
+/* Section settings primary informative text */
+"Add the folders containing media for this section below. Any media files found inside these folders will be scanned into your library using the above settings." = "Add the folders containing media for this section below. Any media files found inside these folders will be scanned into your library using the above settings.";
+
+/* First-run title for adding TV shows */
+"Add TV Shows Section" = "Add TV Shows Section";
+
+/* Advanced */
+"Advanced" = "Advanced";
+
+/* A recording album */
+"album" = "album";
+
+/* AnteMeridiem */
+"AM" = "AM";
+
+/* Informative text for removing a section */
+"Any content in this section will no longer be available in your library. The files on your computer will not be removed." = "Any content in this section will no longer be available in your library. The files on your computer will not be removed.";
+
+/* Preference window setting */
+"Aperture Sharing Enabled" = "Aperture Sharing Enabled";
+
+/* Confirmation message for removing a section */
+"Are you sure you want to remove the section named \"%@\"?" = "Are you sure you want to remove the section named \"%@\"?";
+
+/* A musical artist */
+"artist" = "artist";
+
+/* Artist */
+"Artist" = "Artist";
+
+/* Cancel */
+"Cancel" = "Cancel";
+
+/* Preference window setting detail */
+"Capability checking ensures that plug-ins that are incompatible with this version of the server or the current client application you are using are hidden. Disabling capability checking is useful during development, but will enable access to plug-ins that may perform unreliably with certain client applications." = "Capability checking ensures that plug-ins that are incompatible with this version of the server or the current client application you are using are hidden. Disabling capability checking is useful during development, but will enable access to plug-ins that may perform unreliably with certain client applications.";
+
+/* Change Artwork */
+"Change Artwork" = "Change Artwork";
+
+/* Choose Album Thumbnail menu item */
+"Choose Album Thumbnail" = "Choose Album Thumbnail";
+
+/* Choose Background Art */
+"Choose Background Art" = "Choose Background Art";
+
+/* Choose Banner */
+"Choose Banner" = "Choose Banner";
+
+/* Choose Episode Thumbnail menu item */
+"Choose Episode Thumbnail" = "Choose Episode Thumbnail";
+
+/* Choose Icon */
+"Choose Icon" = "Choose Icon";
+
+/* Choose Poster menu item */
+"Choose Poster" = "Choose Poster";
+
+/* Choose Season Thumbnail menu item */
+"Choose Season Thumbnail" = "Choose Season Thumbnail";
+
+/* First-run help title */
+"Click the titles below to create library sections for your media and have it served to your Plex-enabled devices." = "Click the titles below to create library sections for your media and have it served to your Plex-enabled devices.";
+
+/* Collections */
+"Collections" = "Collections";
+
+/* Error message for when we cannot connect to PMS or when the response is invalid */
+"Connecting to Plex Media Server failed with this error: %@.\n\nAre you sure it's running?" = "Connecting to Plex Media Server failed with this error: %@.\n\nAre you sure it's running?";
+
+/* Content Rating */
+"Content Rating" = "Content Rating";
+
+/* Custom Search */
+"Custom Search" = "Custom Search";
+
+/* Customize Section */
+"Customize Section" = "Customize Section";
+
+/* Library scan interval (i.e. Update my library daily */
+"daily" = "daily";
+
+/* Directors */
+"Directors" = "Directors";
+
+/* Preference window setting */
+"Disable capability checking" = "Disable capability checking";
+
+/* Done */
+"Done" = "Done";
+
+/* Section settings secondary informative text */
+"Drag folders into the list, or click the '+' button to browse." = "Drag folders into the list, or click the '+' button to browse.";
+
+/* Edit Metadata */
+"Edit Metadata" = "Edit Metadata";
+
+/* Edit Section */
+"Edit Section" = "Edit Section";
+
+/* A TV Show episode */
+"episode" = "episode";
+
+/* Full episode title (e.g. Episode 1: Pilot */
+"Episode %d: %@" = "Episode %1$d: %2$@";
+
+/* Library scan interval (i.e. Update my library every 12 hours) */
+"every 12 hours" = "every 12 hours";
+
+/* Library scan interval (i.e. Update my library every 15 minutes) */
+"every 15 minutes" = "every 15 minutes";
+
+/* Library scan interval (i.e. Update my library every 2 hours) */
+"every 2 hours" = "every 2 hours";
+
+/* Library scan interval (i.e. Update my library every 30 minutes) */
+"every 30 minutes" = "every 30 minutes";
+
+/* Library scan interval (i.e. Update my library every 6 hours) */
+"every 6 hours" = "every 6 hours";
+
+/* Fix incorrect match */
+"Fix incorrect match" = "Fix incorrect match";
+
+/* Fix Incorrect Match... */
+"Fix Incorrect Match..." = "Fix Incorrect Match...";
+
+/* Friday */
+"Friday" = "Friday";
+
+/* Friendly name label */
+"Friendly name:" = "Friendly name:";
+
+/* General */
+"General" = "General";
+
+/* Genres */
+"Genres" = "Genres";
+
+/* Error message for when we cannot remove a library section */
+"Got this error: %@. Are you sure Plex Media Server is running?" = "Got this error: %@. Are you sure Plex Media Server is running?";
+
+/* Library scan interval (i.e. Update my library hourly) */
+"hourly" = "hourly";
+
+/* Preference window setting */
+"Include music sections in automatic updates" = "Include music sections in automatic updates";
+
+/* Preference window setting */
+"iPhoto Sharing Enabled" = "iPhoto Sharing Enabled";
+
+/* Preference window setting */
+"iTunes Sharing Enabled" = "iTunes Sharing Enabled";
+
+/* Language label */
+"Language:" = "Language:";
+
+/* Preference window setting */
+"Large music sections may take a long time to scan" = "Large music sections may take a long time to scan";
+
+/* Status label for media items */
+"Last refreshed %@ at %@" = "Last refreshed %1$@ at %2$@";
+
+/* Library */
+"Library" = "Library";
+
+/* Sidebar group title for library sections */
+"LIBRARY SECTIONS" = "LIBRARY SECTIONS";
+
+/* Metadata item status message when its data is importing */
+"Loading metadata for '%@'" = "Loading metadata for '%@'";
+
+/* Button text for the directory browser to allow the user to type in a path manually */
+"Manual Entry" = "Manual Entry";
+
+/* Metadata item status message when it is being matched to a canonical item */
+"Matching '%@'" = "Matching '%@'";
+
+/* Metadata item status message when it is being read */
+"Media analysis on '%@'" = "Media analysis on '%@'";
+
+/* Label for the path to the file whose match is being fixed */
+"Media file: " = "Media file: ";
+
+/* Media scanner label */
+"Media scanner:" = "Media scanner:";
+
+/* Monday */
+"Monday" = "Monday";
+
+/* Movie */
+"Movie" = "Movie";
+
+/* A movie */
+"movie" = "movie";
+
+/* Movies */
+"Movies" = "Movies";
+
+/* Music */
+"Music" = "Music";
+
+/* Movie section name placeholder */
+"My Movies" = "My Movies";
+
+/* Music section name placeholder */
+"My Music" = "My Music";
+
+/* TV Shows section name placeholder */
+"My TV Shows" = "My TV Shows";
+
+/* Name */
+"Name" = "Name";
+
+/* Name label */
+"Name:" = "Name:";
+
+/* Status label value when there are no musical artists */
+"no artists" = "no artists";
+
+/* Status for list of episodes when there are none
+   Subtitle for a season thumbnail on a TV Show detail view */
+"no episodes" = "no episodes";
+
+/* Status label value for when there are no movies */
+"no movies" = "no movies";
+
+/* Status label for when there are no tracks in an album
+   Subtitle for a album thumbnail on an artist detail view */
+"no tracks" = "no tracks";
+
+/* Status label value when there are no TV shows */
+"no TV shows" = "no TV shows";
+
+/* Preference window setting */
+"Offer higher bitrates over 3G connections" = "Offer higher bitrates over 3G connections";
+
+/* Original Title */
+"Original Title" = "Original Title";
+
+/* Originally Available */
+"Originally Available" = "Originally Available";
+
+/* Instruction text for the prompt to add directories manually */
+"Path of the directory you'd like to add:" = "Path of the directory you'd like to add:";
+
+/* Header title */
+"PLEX MEDIA MANAGER" = "PLEX MEDIA MANAGER";
+
+/* PostMeridiem */
+"PM" = "PM";
+
+/* Primary metadata agent label */
+"Primary metadata agent:" = "Primary metadata agent:";
+
+/* Rating */
+"Rating" = "Rating";
+
+/* Refresh Info */
+"Refresh Info" = "Refresh Info";
+
+/* Refresh Section */
+"Refresh Section" = "Refresh Section";
+
+/* Refresh Section (force) */
+"Refresh Section (force)" = "Refresh Section (force)";
+
+/* Status label for refreshing sections */
+"Refreshing info for %d items" = "Refreshing info for %d items";
+
+/* Status label for refreshing sections with one remaining item */
+"Refreshing info for one item" = "Refreshing info for one item";
+
+/* Remove section confirmation button */
+"Remove Section" = "Remove Section";
+
+/* Metadata item status message when its info is downloading */
+"Requesting metadata for '%@'" = "Requesting metadata for '%@'";
+
+/* Saturday */
+"Saturday" = "Saturday";
+
+/* Save */
+"Save" = "Save";
+
+/* Metadata item status message when it is newly scanned/created */
+"Scanning '%@'" = "Scanning '%@'";
+
+/* Search */
+"Search" = "Search";
+
+/* Agent label */
+"Search using:" = "Search using:";
+
+/* A TV Show season */
+"season" = "season";
+
+/* Section name label */
+"Section name:" = "Section name:";
+
+/* Section type label */
+"Section type:" = "Section type:";
+
+/* Security */
+"Security" = "Security";
+
+/* Select */
+"Select" = "Select";
+
+/* Confirm button title for selecting */
+"Select %@" = "Select %@";
+
+/* Directory-browser title when adding/editing sections */
+"Select a directory for this section:" = "Select a directory for this section:";
+
+/* Select Folder */
+"Select Folder" = "Select Folder";
+
+/* Select Image */
+"Select Image" = "Select Image";
+
+/* Fix Incorrect Match title for music sections */
+"Select the correct artist from the list below:" = "Select the correct artist from the list below:";
+
+/* Fix Incorrect Match title for movie sections */
+"Select the correct movie from the list below:" = "Select the correct movie from the list below:";
+
+/* Fix Incorrect Match title for TV show sections */
+"Select the correct TV show from the list below:" = "Select the correct TV show from the list below:";
+
+/* Send anonymous usage data to Plex */
+"Send anonymous usage data to Plex" = "Send anonymous usage data to Plex";
+
+/* Settings button at the top-right */
+"Settings" = "Settings";
+
+/* Sharing */
+"Sharing" = "Sharing";
+
+/* Show */
+"Show" = "Show";
+
+/* A TV Show */
+"show" = "show";
+
+/* Sort Title */
+"Sort Title" = "Sort Title";
+
+/* Studio */
+"Studio" = "Studio";
+
+/* Summary */
+"Summary" = "Summary";
+
+/* Sunday */
+"Sunday" = "Sunday";
+
+/* Tagline */
+"Tagline" = "Tagline";
+
+/* Summary info for collecting usage data */
+"This helps us improve your experience (for example, to help us match movies and TV shows)." = "This helps us improve your experience (for example, to help us match movies and TV shows).";
+
+/* Summary info for friendly name */
+"This name will be used to identify this media server to other computers on your network. If you leave it blank, your computer's name will be used instead." = "This name will be used to identify this media server to other computers on your network. If you leave it blank, your computer's name will be used instead.";
+
+/* Warning for IE users */
+"This site does not support Internet Explorer. For the best experience, click here to install Google Chrome Frame." = "This site does not support Internet Explorer. For the best experience, click here to install Google Chrome Frame.";
+
+/* Thursday */
+"Thursday" = "Thursday";
+
+/* Title */
+"Title" = "Title";
+
+/* today */
+"today" = "today";
+
+/* tomorrow */
+"tomorrow" = "tomorrow";
+
+/* Transcoding */
+"Transcoding" = "Transcoding";
+
+/* Tuesday */
+"Tuesday" = "Tuesday";
+
+/* TV Shows */
+"TV Shows" = "TV Shows";
+
+/* Error title for when we cannot connect to PMS or when the response is invalid */
+"Unable to connect to Plex Media Server" = "Unable to connect to Plex Media Server";
+
+/* Unable to create library section */
+"Unable to create library section" = "Unable to create library section";
+
+/* Error title for when we cannot remove a library section */
+"Unable to remove section \"%@\"" = "Unable to remove section \"%@\"";
+
+/* Unable to update library section */
+"Unable to update library section" = "Unable to update library section";
+
+/* Preference window setting - will have frequencies after it e.g. Update my library every two hours */
+"Update my library" = "Update my library";
+
+/* Preference window setting */
+"Update my library when changes to my folders are detected" = "Update my library when changes to my folders are detected";
+
+/* Update section confirm button text */
+"Update Section" = "Update Section";
+
+/* Wednesday */
+"Wednesday" = "Wednesday";
+
+/* Writers */
+"Writers" = "Writers";
+
+/* Year */
+"Year" = "Year";
+
+/* Year label */
+"Year:" = "Year:";
+
+/* yesterday */
+"yesterday" = "yesterday";
+
