@@ -1,5 +1,7 @@
+$LOAD_PATH << File.expand_path('../lib', __FILE__)
+
 require 'pathname'
-require File.expand_path('../lib/l10n', __FILE__)
+require 'l10n/localization'
 
 ROOT = Pathname(File.expand_path('..', __FILE__))
 PMM_ROOT = ROOT.parent+'plex-media-manager'
@@ -24,7 +26,7 @@ localizations.each do |localization|
   end
 end
 
-task :default => localizations.map {|localization| localization.xstrings }
+task :build => localizations.map {|localization| localization.xstrings }
 
 if PMM_ROOT.exist?
   desc "Update the English strings from plex-media-manager"
@@ -41,7 +43,7 @@ if PMM_ROOT.exist?
   end
 
   desc "Install the .strings and .xstrings into plex-media-manager"
-  task :install => :default do
+  task :install => :build do
     resources = PMM_ROOT+'Resources'
 
     localizations.each do |localization|
@@ -49,4 +51,16 @@ if PMM_ROOT.exist?
       cp localization.xstrings, resources+"#{localization.code}.lproj/"
     end
   end
+end
+
+task :default => :build
+
+file 'lib/l10n/translation_parser.rb' => 'lib/l10n/translation_parser.rl' do |f|
+  puts "~ Generating strings file parser"
+  system %{ragel -R #{f.prerequisites.first}}
+end
+
+namespace :dev do
+  desc "Build the development components required to use this project"
+  task :build => 'lib/l10n/translation_parser.rb'
 end
