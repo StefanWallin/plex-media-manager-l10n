@@ -1,6 +1,8 @@
 module L10n
   class TranslationList
     include Enumerable
+    
+    attr_accessor :bom
 
     def initialize(translations=nil)
       @translations = Array(translations)
@@ -66,7 +68,7 @@ module L10n
     end
 
     def to_str
-      map {|translation| translation.to_str + $/ + $/ }.join
+      (bom ? bom.pack('C*') : '') + map {|translation| translation.to_str + $/ + $/ }.join
     end
 
     def to_s

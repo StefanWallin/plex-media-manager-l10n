@@ -14,27 +14,29 @@ module L10n
     def self.parse(data)
       data = data.unpack("C*") if data.is_a?(String)
 
-      3.times { data.shift } if data[0,3] == UTF8_BOM
+      has_bom = data[0, UTF8_BOM.size] == UTF8_BOM
+      UTF8_BOM.size.times { data.shift } if has_bom
       if [UTF16BE_BOM, UTF16LE_BOM].include?(data[0, 2])
         raise ArgumentError, "this script does not yet support UTF-16"
       end
 
       translations = TranslationList.new
+      translations.bom = UTF8_BOM if has_bom
       eof = false
       line = 1
 
       string_in_range = proc {|range| data[range].pack('C*') }
 
       
-# line 30 "lib/l10n/translation_parser.rb"
+# line 32 "lib/l10n/translation_parser.rb"
 begin
 	p ||= 0
 	pe ||= data.length
 	cs = hello_start
 end
-# line 51 "lib/l10n/translation_parser.rl"
+# line 53 "lib/l10n/translation_parser.rl"
       
-# line 38 "lib/l10n/translation_parser.rb"
+# line 40 "lib/l10n/translation_parser.rb"
 begin
 	_klen, _trans, _keys, _acts, _nacts = nil
 	_goto_level = 0
@@ -155,7 +157,7 @@ when 7 then
 		begin
  line += 1 		end
 # line 18 "lib/l10n/translation_parser.rl"
-# line 159 "lib/l10n/translation_parser.rb"
+# line 161 "lib/l10n/translation_parser.rb"
 			end # action switch
 		end
 	end
@@ -181,7 +183,7 @@ when 7 then
 	end
 	end
 	end
-# line 52 "lib/l10n/translation_parser.rl"
+# line 54 "lib/l10n/translation_parser.rl"
 
       if cs == 0
         raise SyntaxError, "unexpected character on line #{line}: #{data[p,1].pack('C*')} (#{data[p]})"
@@ -191,7 +193,7 @@ when 7 then
     end
 
     
-# line 195 "lib/l10n/translation_parser.rb"
+# line 197 "lib/l10n/translation_parser.rb"
 class << self
 	attr_accessor :_hello_actions
 	private :_hello_actions, :_hello_actions=
@@ -356,6 +358,6 @@ class << self
 end
 self.hello_en_main = 31;
 
-# line 61 "lib/l10n/translation_parser.rl"
+# line 63 "lib/l10n/translation_parser.rl"
   end
 end

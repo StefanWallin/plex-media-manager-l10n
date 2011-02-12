@@ -36,12 +36,14 @@ module L10n
     def self.parse(data)
       data = data.unpack("C*") if data.is_a?(String)
 
-      3.times { data.shift } if data[0,3] == UTF8_BOM
+      has_bom = data[0, UTF8_BOM.size] == UTF8_BOM
+      UTF8_BOM.size.times { data.shift } if has_bom
       if [UTF16BE_BOM, UTF16LE_BOM].include?(data[0, 2])
         raise ArgumentError, "this script does not yet support UTF-16"
       end
 
       translations = TranslationList.new
+      translations.bom = UTF8_BOM if has_bom
       eof = false
       line = 1
 
