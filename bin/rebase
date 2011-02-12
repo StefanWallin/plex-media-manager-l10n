@@ -1,0 +1,41 @@
+#!/usr/bin/env ruby
+
+code = ARGV[0]
+
+if code.nil?
+  abort <<-EOS
+    usage: #{$0} <code>
+
+    <code>         language code that you're translating to (e.g. pt or pt-BR)
+  EOS
+end
+
+require File.expand_path('../../lib/l10n', __FILE__)
+
+added, removed = [], []
+
+source = L10n::Localization.new('en')
+target = L10n::Localization.new(code)
+
+source.data.each do |stranslation|
+  if not target.data.has_key?(stranslation.original)
+    puts %{~ rebase #{code}: Adding new translation: "#{stranslation.original}"}
+    target.data << stranslation
+    added << stranslation
+  end
+end
+
+target.data.each do |ttranslation|
+  if not source.data.has_key?(ttranslation.original)
+    puts %{~ rebase #{code}: Removing stale translation: "#{ttranslation.original}"}
+    target.data.delete(ttranslation)
+    removed << ttranslation
+  end
+end
+
+target.data.sort!
+target.write
+
+if added.empty? && removed.empty?
+  puts %{~ rebase #{code}: no changes to apply}
+end

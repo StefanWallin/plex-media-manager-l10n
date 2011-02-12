@@ -22,7 +22,15 @@ localizations = Localization.all
 
 localizations.each do |localization|
   file localization.xstrings => localization.strings do
-    %x{plutil -convert xml1 #{localization.strings} -o #{localization.xstrings}}
+    system %{plutil -convert xml1 #{localization.strings} -o #{localization.xstrings}}
+  end
+
+  next if localization.code == 'en'
+
+  file localization.strings => Localization['en'].strings do
+    in_root do
+      system %{bin/rebase #{localization.code}}
+    end
   end
 end
 
