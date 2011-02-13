@@ -6,7 +6,7 @@
 
 /* Status for list of episodes when there is more than one
    Subtitle for a season thumbnail on a TV Show detail view */
-"%d episodes" = "%d épisodes";
+"%d episodes" = "%d √©pisodes";
 
 /* Status label value for when there is more than one movie */
 "%d movies" = "%d films";
@@ -15,10 +15,10 @@
 "%d tracks" = "%d pistes";
 
 /* Status label for when there are more than one track (e.g. 11 tracks, 47:34 total time, 91.2 MB) */
-"%d tracks, %@ total time, %@" = "%1$d pistes, %2$@ durée, %3$@";
+"%d tracks, %@ total time, %@" = "%1$d pistes, %2$@ dur√©e, %3$@";
 
 /* Status label value for when there is more than one TV show */
-"%d TV shows" = "%d Séries";
+"%d TV shows" = "%d S√©ries";
 
 /* ShortLocalTimeFormat */
 "%d:%02d %@" = "%1$d:%2$02d %3$@";
@@ -28,7 +28,7 @@
 
 /* Status for list of episodes when there is one
    Subtitle for a season thumbnail on a TV Show detail view */
-"1 episode" = "1 épisode";
+"1 episode" = "1 √©pisode";
 
 /* Status label value for when there is one movie */
 "1 movie" = "1 film";
@@ -37,13 +37,13 @@
 "1 track" = "1 piste";
 
 /* Status label for when there is one track in an album (e.g. 1 track, 4:28 total time, 5.6 MB) */
-"1 track, %@ total time, %@" = "1 piste, %1$@ durée, %2$@";
+"1 track, %@ total time, %@" = "1 piste, %1$@ dur√©e, %2$@";
 
 /* Status label value for when there is one TV show */
-"1 TV show" = "1 Série";
+"1 TV show" = "1 S√©rie";
 
 /* First-run help item */
-"> Add posters, custom genres and more" = "> Ajouter affiches, genres personnalisés et plus";
+"> Add posters, custom genres and more" = "> Ajouter affiches, genres personnalis√©s et plus";
 
 /* First-run help item */
 "> Album reviews" = "> Revue d'Albums";
@@ -52,13 +52,13 @@
 "> Artist biographies and artwork" = "> Biographies d'artistes et images";
 
 /* First-run help item */
-"> Automatic theme music for TV shows" = "> Téléchargement automatique des génériques pour séries télés";
+"> Automatic theme music for TV shows" = "> T√©l√©chargement automatique des g√©n√©riques pour s√©ries t√©l√©s";
 
 /* First-run help item */
-"> Customize every detail of each movie" = "> Personnalisation de tous les détails, pour tous les films";
+"> Customize every detail of each movie" = "> Personnalisation de tous les d√©tails, pour tous les films";
 
 /* First-run help item */
-"> Great for your personal media" = "> Génial pour vos médias perso";
+"> Great for your personal media" = "> G√©nial pour vos m√©dias perso";
 
 /* First-run help item */
 "> Movie posters and art" = "> Affiches de films et images";
@@ -70,7 +70,7 @@
 "> Thumbnails for every episode" = "> Vignettes pour tous les episodes";
 
 /* First-run help item */
-"> TV show posters and art" = "> Affiches séries télés et images";
+"> TV show posters and art" = "> Affiches s√©ries t√©l√©s et images";
 
 /* First-run title for adding home movies */
 "Add Home Movies Section" = "Ajouter une Section Films Perso";
@@ -85,10 +85,10 @@
 "Add Section" = "Ajouter une Section";
 
 /* Section settings primary informative text */
-"Add the folders containing media for this section below. Any media files found inside these folders will be scanned into your library using the above settings." = "Ajouter les dossiers contenant les médias pour cette section. Tous les fichiers médias trouves dans ces dossiers seront rajoutés dans votre librairie avec les paramètres ci-dessus.";
+"Add the folders containing media for this section below. Any media files found inside these folders will be scanned into your library using the above settings." = "Ajouter les dossiers contenant les m√©dias pour cette section. Tous les fichiers trouvés dans ces dossiers seront rajout√©s dans votre librairie avec les param√®tres ci-dessus.";
 
 /* First-run title for adding TV shows */
-"Add TV Shows Section" = "Ajouter une section Séries";
+"Add TV Shows Section" = "Ajouter une section S√©ries";
 
 /* Advanced */
 "Advanced" = "Expert";
@@ -100,10 +100,10 @@
 "AM" = "AM";
 
 /* Informative text for removing a section */
-"Any content in this section will no longer be available in your library. The files on your computer will not be removed." = "Le contenu de cette section ne sera plus disponible dans votre librairie. Les fichiers seront préservés dans votre ordinateur.";
+"Any content in this section will no longer be available in your library. The files on your computer will not be removed." = "Le contenu de cette section ne sera plus disponible dans votre librairie. Les fichiers seront pr√©serv√©s dans votre ordinateur.";
 
 /* Preference window setting */
-"Aperture Sharing Enabled" = "Partage Aperture Activé";
+"Aperture Sharing Enabled" = "Partage Aperture Activ√©";
 
 /* Confirmation message for removing a section */
 "Are you sure you want to remove the section named \"%@\"?" = "Etes vous sur de vouloir supprimer la section \"%@\"?";
@@ -118,46 +118,46 @@
 "Cancel" = "Annuler";
 
 /* Preference window setting detail */
-"Capability checking ensures that plug-ins that are incompatible with this version of the server or the current client application you are using are hidden. Disabling capability checking is useful during development, but will enable access to plug-ins that may perform unreliably with certain client applications." = "La vérification de compatibilité s'assure que les plug-ins incompatibles avec cette version du serveur ou avec la version actuelle de l'application client que vous utilisez demeurent cachés.";
+"Capability checking ensures that plug-ins that are incompatible with this version of the server or the current client application you are using are hidden. Disabling capability checking is useful during development, but will enable access to plug-ins that may perform unreliably with certain client applications." = "La v√©rification de compatibilit√© s'assure que les plug-ins incompatibles avec cette version du serveur ou avec la version actuelle de l'application client que vous utilisez demeurent cach√©s.";
 
 /* Change Artwork */
 "Change Artwork" = "Changer Images";
 
 /* Choose Album Thumbnail menu item */
-"Choose Album Thumbnail" = "Sélectionner Vignette Album";
+"Choose Album Thumbnail" = "S√©lectionner Vignette Album";
 
 /* Choose Background Art */
-"Choose Background Art" = "Sélectionner Image fond d'écran";
+"Choose Background Art" = "S√©lectionner Image fond d'√©cran";
 
 /* Choose Banner */
-"Choose Banner" = "Sélectionner Bannière";
+"Choose Banner" = "S√©lectionner Banni√®re";
 
 /* Choose Episode Thumbnail menu item */
-"Choose Episode Thumbnail" = "Sélectionner Vignette Episode";
+"Choose Episode Thumbnail" = "S√©lectionner Vignette Episode";
 
 /* Choose Icon */
-"Choose Icon" = "Sélectionner Icône";
+"Choose Icon" = "S√©lectionner Ic√¥ne";
 
 /* Choose Poster menu item */
-"Choose Poster" = "Sélectionner Affiche";
+"Choose Poster" = "S√©lectionner Affiche";
 
 /* Choose Season Thumbnail menu item */
-"Choose Season Thumbnail" = "Sélectionner Vignette Saison";
+"Choose Season Thumbnail" = "S√©lectionner Vignette Saison";
 
 /* First-run help title */
-"Click the titles below to create library sections for your media and have it served to your Plex-enabled devices." = "Cliquez sur les titres ci-dessous pour créer des sections dans la librairie pour vos médias et les partager avec vos clients Plex.";
+"Click the titles below to create library sections for your media and have it served to your Plex-enabled devices." = "Cliquez sur les titres ci-dessous pour cr√©er des sections dans la librairie pour vos m√©dias et les partager avec vos clients Plex.";
 
 /* Collections */
 "Collections" = "Collections";
 
 /* Error message for when we cannot connect to PMS or when the response is invalid */
-"Connecting to Plex Media Server failed with this error: %@.\n\nAre you sure it's running?" = "La Connexion au Plex Media Server a échoué avec cause: %@.\n\nLe Serveur est-il disponible?";
+"Connecting to Plex Media Server failed with this error: %@.\n\nAre you sure it's running?" = "La Connexion au Plex Media Server a √©chou√© avec cause: %@.\n\nLe Serveur est-il disponible?";
 
 /* Content Rating */
 "Content Rating" = "Classement Contenu";
 
 /* Custom Search */
-"Custom Search" = "Recherche Avancée";
+"Custom Search" = "Recherche Avanc√©e";
 
 /* Customize Section */
 "Customize Section" = "Personnalisation Section";
@@ -166,13 +166,13 @@
 "daily" = "quotidien";
 
 /* Directors */
-"Directors" = "Réalisateurs";
+"Directors" = "R√©alisateurs";
 
 /* Preference window setting */
-"Disable capability checking" = "Désactiver La Vérification de Compatibilité";
+"Disable capability checking" = "D√©sactiver La V√©rification de Compatibilit√©";
 
 /* Done */
-"Done" = "Terminé";
+"Done" = "Termin√©";
 
 /* Section settings secondary informative text */
 "Drag folders into the list, or click the '+' button to browse." = "Faites glisser vos dossiers dans la liste, ou cliquez sur le bouton '+' pour explorer.";
@@ -205,10 +205,10 @@
 "every 6 hours" = "toutes les 6 heures";
 
 /* Fix incorrect match */
-"Fix incorrect match" = "Réparer infos incorrectes";
+"Fix incorrect match" = "R√©parer infos incorrectes";
 
 /* Fix Incorrect Match... */
-"Fix Incorrect Match..." = "Réparer infos incorrectes...";
+"Fix Incorrect Match..." = "R√©parer infos incorrectes...";
 
 /* Friday */
 "Friday" = "Vendredi";
@@ -217,7 +217,7 @@
 "Friendly name:" = "Alias:";
 
 /* General */
-"General" = "Général";
+"General" = "G√©n√©ral";
 
 /* Genres */
 "Genres" = "Genres";
@@ -229,22 +229,22 @@
 "hourly" = "horaire";
 
 /* Preference window setting */
-"Include music sections in automatic updates" = "Inclure la section musique dans les mises à jours automatiques";
+"Include music sections in automatic updates" = "Inclure la section musique dans les mises √† jours automatiques";
 
 /* Preference window setting */
-"iPhoto Sharing Enabled" = "Partage iPhoto Activé";
+"iPhoto Sharing Enabled" = "Partage iPhoto Activ√©";
 
 /* Preference window setting */
-"iTunes Sharing Enabled" = "Partage iTunes Activé";
+"iTunes Sharing Enabled" = "Partage iTunes Activ√©";
 
 /* Language label */
 "Language:" = "Langue:";
 
 /* Preference window setting */
-"Large music sections may take a long time to scan" = "La mise à jour des sections musique de tailles importantes peuvent durer assez longtemps";
+"Large music sections may take a long time to scan" = "La mise √† jour des sections musique de tailles importantes peuvent durer assez longtemps";
 
 /* Status label for media items */
-"Last refreshed %@ at %@" = "Dernière mise à jour %1$@ à %2$@";
+"Last refreshed %@ at %@" = "Derni√®re mise √† jour %1$@ √† %2$@";
 
 /* Library */
 "Library" = "Librairie";
@@ -262,13 +262,13 @@
 "Matching '%@'" = "Recherche '%@'";
 
 /* Metadata item status message when it is being read */
-"Media analysis on '%@'" = "Analyse des médias dans '%@'";
+"Media analysis on '%@'" = "Analyse des m√©dias dans '%@'";
 
 /* Label for the path to the file whose match is being fixed */
-"Media file: " = "Fichier média: ";
+"Media file: " = "Fichier: ";
 
 /* Media scanner label */
-"Media scanner:" = "Scanner Médias:";
+"Media scanner:" = "Scanner M√©dias:";
 
 /* Monday */
 "Monday" = "Lundi";
@@ -292,7 +292,7 @@
 "My Music" = "Ma Musique";
 
 /* TV Shows section name placeholder */
-"My TV Shows" = "Mes Séries";
+"My TV Shows" = "Mes S√©ries";
 
 /* Name */
 "Name" = "Nom";
@@ -315,10 +315,10 @@
 "no tracks" = "aucunes pistes";
 
 /* Status label value when there are no TV shows */
-"no TV shows" = "aucunes séries";
+"no TV shows" = "aucunes s√©ries";
 
 /* Preference window setting */
-"Offer higher bitrates over 3G connections" = "Activer haut débit en connexion 3G";
+"Offer higher bitrates over 3G connections" = "Activer haut d√©bit en connexion 3G";
 
 /* Original Title */
 "Original Title" = "Titre Original";
@@ -327,7 +327,7 @@
 "Originally Available" = "Disponible Originellement";
 
 /* Instruction text for the prompt to add directories manually */
-"Path of the directory you'd like to add:" = "Chemin du répertoire que vous souhaitez ajouter:";
+"Path of the directory you'd like to add:" = "Chemin du r√©pertoire que vous souhaitez ajouter:";
 
 /* Header title */
 "PLEX MEDIA MANAGER" = "PLEX MEDIA MANAGER";
@@ -360,7 +360,7 @@
 "Remove Section" = "Supprimer Section";
 
 /* Metadata item status message when its info is downloading */
-"Requesting metadata for '%@'" = "Requête metadata en cours pour '%@'";
+"Requesting metadata for '%@'" = "Requ√™te metadata en cours pour '%@'";
 
 /* Saturday */
 "Saturday" = "Samedi";
@@ -369,7 +369,7 @@
 "Save" = "Sauvegarder";
 
 /* Metadata item status message when it is newly scanned/created */
-"Scanning '%@'" = "Je travaille… '%@'";
+"Scanning '%@'" = "Je travaille‚Ä¶ '%@'";
 
 /* Search */
 "Search" = "Rechercher";
@@ -387,46 +387,46 @@
 "Section type:" = "Type section:";
 
 /* Security */
-"Security" = "Sécurité";
+"Security" = "S√©curit√©";
 
 /* Select */
-"Select" = "Sélectionner";
+"Select" = "S√©lectionner";
 
 /* Confirm button title for selecting */
-"Select %@" = "Sélectionner %@";
+"Select %@" = "S√©lectionner %@";
 
 /* Directory-browser title when adding/editing sections */
-"Select a directory for this section:" = "Sélectionnez un répertoire pour cette section:";
+"Select a directory for this section:" = "S√©lectionnez un r√©pertoire pour cette section:";
 
 /* Select Folder */
-"Select Folder" = "Sélectionner Dossier";
+"Select Folder" = "S√©lectionner Dossier";
 
 /* Select Image */
-"Select Image" = "Sélectionner Image";
+"Select Image" = "S√©lectionner Image";
 
 /* Fix Incorrect Match title for music sections */
-"Select the correct artist from the list below:" = "Sélectionnez l'artiste recherché dans la liste ci-dessous:";
+"Select the correct artist from the list below:" = "S√©lectionnez l'artiste recherch√© dans la liste ci-dessous:";
 
 /* Fix Incorrect Match title for movie sections */
-"Select the correct movie from the list below:" = "Sélectionnez le film recherché dans la liste ci-dessous:";
+"Select the correct movie from the list below:" = "S√©lectionnez le film recherch√© dans la liste ci-dessous:";
 
 /* Fix Incorrect Match title for TV show sections */
-"Select the correct TV show from the list below:" = "Sélectionnez la série recherchée dans la liste ci-dessous:";
+"Select the correct TV show from the list below:" = "S√©lectionnez la s√©rie recherch√©e dans la liste ci-dessous:";
 
 /* Send anonymous usage data to Plex */
-"Send anonymous usage data to Plex" = "Envoi anonyme des données d'utilisations a Plex";
+"Send anonymous usage data to Plex" = "Envoi anonyme des donn√©es d'utilisations a Plex";
 
 /* Settings button at the top-right */
-"Settings" = "Paramètres";
+"Settings" = "Param√®tres";
 
 /* Sharing */
 "Sharing" = "Partage";
 
 /* Show */
-"Show" = "Série";
+"Show" = "S√©rie";
 
 /* A TV Show */
-"show" = "série";
+"show" = "s√©rie";
 
 /* Sort Title */
 "Sort Title" = "Trier par titre";
@@ -435,7 +435,7 @@
 "Studio" = "Studio";
 
 /* Summary */
-"Summary" = "Résumé";
+"Summary" = "R√©sum√©";
 
 /* Sunday */
 "Sunday" = "Dimanche";
@@ -444,13 +444,13 @@
 "Tagline" = "Slogan";
 
 /* Summary info for collecting usage data */
-"This helps us improve your experience (for example, to help us match movies and TV shows)." = "Ceci nous aide à améliorer votre expérience (par exemple, en nous aidant à associer vos fichiers aux bons films et séries).";
+"This helps us improve your experience (for example, to help us match movies and TV shows)." = "Ceci nous aide √† am√©liorer votre exp√©rience (par exemple, en nous aidant √† associer vos fichiers aux bons films et s√©ries).";
 
 /* Summary info for friendly name */
-"This name will be used to identify this media server to other computers on your network. If you leave it blank, your computer's name will be used instead." = "Ce nom sera utilisé pour identifier ce serveur aux autres ordinateurs de votre réseau. Si vous le laissez vide, le nom de votre ordinateur sera utilisé.";
+"This name will be used to identify this media server to other computers on your network. If you leave it blank, your computer's name will be used instead." = "Ce nom sera utilis√© pour identifier ce serveur aux autres ordinateurs de votre r√©seau. Si vous le laissez vide, le nom de votre ordinateur sera utilis√©.";
 
 /* Warning for IE users */
-"This site does not support Internet Explorer. For the best experience, click here to install Google Chrome Frame." = "Ce site ne supporte pas Internet Explorer. Pour une meilleure expérience, cliquez ici pour installer Google Chrome Frame.";
+"This site does not support Internet Explorer. For the best experience, click here to install Google Chrome Frame." = "Ce site ne supporte pas Internet Explorer. Pour une meilleure exp√©rience, cliquez ici pour installer Google Chrome Frame.";
 
 /* Thursday */
 "Thursday" = "Jeudi";
@@ -471,28 +471,28 @@
 "Tuesday" = "Mardi`";
 
 /* TV Shows */
-"TV Shows" = "Séries";
+"TV Shows" = "S√©ries";
 
 /* Error title for when we cannot connect to PMS or when the response is invalid */
-"Unable to connect to Plex Media Server" = "Impossible de se connecter à Plex Media Server";
+"Unable to connect to Plex Media Server" = "Impossible de se connecter √† Plex Media Server";
 
 /* Unable to create library section */
-"Unable to create library section" = "Impossible de créer une section dans la librairie";
+"Unable to create library section" = "Impossible de cr√©er une section dans la librairie";
 
 /* Error title for when we cannot remove a library section */
 "Unable to remove section \"%@\"" = "Impossible de supprimer la section \"%@\"";
 
 /* Unable to update library section */
-"Unable to update library section" = "Impossible de mettre à jour la section";
+"Unable to update library section" = "Impossible de mettre √† jour la section";
 
 /* Preference window setting - will have frequencies after it e.g. Update my library every two hours */
-"Update my library" = "Mettre à jour ma librairie";
+"Update my library" = "Mettre √† jour ma librairie";
 
 /* Preference window setting */
-"Update my library when changes to my folders are detected" = "Mettre à jour ma librairie quand mes dossiers sont modifiés";
+"Update my library when changes to my folders are detected" = "Mettre √† jour ma librairie quand mes dossiers sont modifi√©s";
 
 /* Update section confirm button text */
-"Update Section" = "Mettre à jour Section";
+"Update Section" = "Mettre √† jour Section";
 
 /* Wednesday */
 "Wednesday" = "Mercredi";
@@ -501,10 +501,10 @@
 "Writers" = "Auteurs";
 
 /* Year */
-"Year" = "Année";
+"Year" = "Ann√©e";
 
 /* Year label */
-"Year:" = "Année:";
+"Year:" = "Ann√©e:";
 
 /* yesterday */
 "yesterday" = "hier";

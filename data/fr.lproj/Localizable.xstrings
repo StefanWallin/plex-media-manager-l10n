@@ -5,49 +5,49 @@
 	<key>%@, Episode %d</key>
 	<string>%1$@, Episode %2$d</string>
 	<key>%d TV shows</key>
-	<string>%d Séries</string>
+	<string>%d S√©ries</string>
 	<key>%d artists</key>
 	<string>%d artistes</string>
 	<key>%d episodes</key>
-	<string>%d épisodes</string>
+	<string>%d √©pisodes</string>
 	<key>%d movies</key>
 	<string>%d films</string>
 	<key>%d tracks</key>
 	<string>%d pistes</string>
 	<key>%d tracks, %@ total time, %@</key>
-	<string>%1$d pistes, %2$@ durée, %3$@</string>
+	<string>%1$d pistes, %2$@ dur√©e, %3$@</string>
 	<key>%d:%02d %@</key>
 	<string>%1$d:%2$02d %3$@</string>
 	<key>1 TV show</key>
-	<string>1 Série</string>
+	<string>1 S√©rie</string>
 	<key>1 artist</key>
 	<string>1 artiste</string>
 	<key>1 episode</key>
-	<string>1 épisode</string>
+	<string>1 √©pisode</string>
 	<key>1 movie</key>
 	<string>1 film</string>
 	<key>1 track</key>
 	<string>1 piste</string>
 	<key>1 track, %@ total time, %@</key>
-	<string>1 piste, %1$@ durée, %2$@</string>
+	<string>1 piste, %1$@ dur√©e, %2$@</string>
 	<key>&gt; Add posters, custom genres and more</key>
-	<string>&gt; Ajouter affiches, genres personnalisés et plus</string>
+	<string>&gt; Ajouter affiches, genres personnalis√©s et plus</string>
 	<key>&gt; Album reviews</key>
 	<string>&gt; Revue d'Albums</string>
 	<key>&gt; Artist biographies and artwork</key>
 	<string>&gt; Biographies d'artistes et images</string>
 	<key>&gt; Automatic theme music for TV shows</key>
-	<string>&gt; Téléchargement automatique des génériques pour séries télés</string>
+	<string>&gt; T√©l√©chargement automatique des g√©n√©riques pour s√©ries t√©l√©s</string>
 	<key>&gt; Customize every detail of each movie</key>
-	<string>&gt; Personnalisation de tous les détails, pour tous les films</string>
+	<string>&gt; Personnalisation de tous les d√©tails, pour tous les films</string>
 	<key>&gt; Great for your personal media</key>
-	<string>&gt; Génial pour vos médias perso</string>
+	<string>&gt; G√©nial pour vos m√©dias perso</string>
 	<key>&gt; Movie posters and art</key>
 	<string>&gt; Affiches de films et images</string>
 	<key>&gt; Organize movies into collections</key>
 	<string>&gt; Organisation des films en collections</string>
 	<key>&gt; TV show posters and art</key>
-	<string>&gt; Affiches séries télés et images</string>
+	<string>&gt; Affiches s√©ries t√©l√©s et images</string>
 	<key>&gt; Thumbnails for every episode</key>
 	<string>&gt; Vignettes pour tous les episodes</string>
 	<key>AM</key>
@@ -61,15 +61,15 @@
 	<key>Add Section</key>
 	<string>Ajouter une Section</string>
 	<key>Add TV Shows Section</key>
-	<string>Ajouter une section Séries</string>
+	<string>Ajouter une section S√©ries</string>
 	<key>Add the folders containing media for this section below. Any media files found inside these folders will be scanned into your library using the above settings.</key>
-	<string>Ajouter les dossiers contenant les médias pour cette section. Tous les fichiers médias trouves dans ces dossiers seront rajoutés dans votre librairie avec les paramètres ci-dessus.</string>
+	<string>Ajouter les dossiers contenant les m√©dias pour cette section. Tous les fichiers trouvés dans ces dossiers seront rajout√©s dans votre librairie avec les param√®tres ci-dessus.</string>
 	<key>Advanced</key>
 	<string>Expert</string>
 	<key>Any content in this section will no longer be available in your library. The files on your computer will not be removed.</key>
-	<string>Le contenu de cette section ne sera plus disponible dans votre librairie. Les fichiers seront préservés dans votre ordinateur.</string>
+	<string>Le contenu de cette section ne sera plus disponible dans votre librairie. Les fichiers seront pr√©serv√©s dans votre ordinateur.</string>
 	<key>Aperture Sharing Enabled</key>
-	<string>Partage Aperture Activé</string>
+	<string>Partage Aperture Activ√©</string>
 	<key>Are you sure you want to remove the section named "%@"?</key>
 	<string>Etes vous sur de vouloir supprimer la section "%@"?</string>
 	<key>Artist</key>
@@ -77,45 +77,45 @@
 	<key>Cancel</key>
 	<string>Annuler</string>
 	<key>Capability checking ensures that plug-ins that are incompatible with this version of the server or the current client application you are using are hidden. Disabling capability checking is useful during development, but will enable access to plug-ins that may perform unreliably with certain client applications.</key>
-	<string>La vérification de compatibilité s'assure que les plug-ins incompatibles avec cette version du serveur ou avec la version actuelle de l'application client que vous utilisez demeurent cachés.</string>
+	<string>La v√©rification de compatibilit√© s'assure que les plug-ins incompatibles avec cette version du serveur ou avec la version actuelle de l'application client que vous utilisez demeurent cach√©s.</string>
 	<key>Change Artwork</key>
 	<string>Changer Images</string>
 	<key>Choose Album Thumbnail</key>
-	<string>Sélectionner Vignette Album</string>
+	<string>S√©lectionner Vignette Album</string>
 	<key>Choose Background Art</key>
-	<string>Sélectionner Image fond d'écran</string>
+	<string>S√©lectionner Image fond d'√©cran</string>
 	<key>Choose Banner</key>
-	<string>Sélectionner Bannière</string>
+	<string>S√©lectionner Banni√®re</string>
 	<key>Choose Episode Thumbnail</key>
-	<string>Sélectionner Vignette Episode</string>
+	<string>S√©lectionner Vignette Episode</string>
 	<key>Choose Icon</key>
-	<string>Sélectionner Icône</string>
+	<string>S√©lectionner Ic√¥ne</string>
 	<key>Choose Poster</key>
-	<string>Sélectionner Affiche</string>
+	<string>S√©lectionner Affiche</string>
 	<key>Choose Season Thumbnail</key>
-	<string>Sélectionner Vignette Saison</string>
+	<string>S√©lectionner Vignette Saison</string>
 	<key>Click the titles below to create library sections for your media and have it served to your Plex-enabled devices.</key>
-	<string>Cliquez sur les titres ci-dessous pour créer des sections dans la librairie pour vos médias et les partager avec vos clients Plex.</string>
+	<string>Cliquez sur les titres ci-dessous pour cr√©er des sections dans la librairie pour vos m√©dias et les partager avec vos clients Plex.</string>
 	<key>Collections</key>
 	<string>Collections</string>
 	<key>Connecting to Plex Media Server failed with this error: %@.
 
 Are you sure it's running?</key>
-	<string>La Connexion au Plex Media Server a échoué avec cause: %@.
+	<string>La Connexion au Plex Media Server a √©chou√© avec cause: %@.
 
 Le Serveur est-il disponible?</string>
 	<key>Content Rating</key>
 	<string>Classement Contenu</string>
 	<key>Custom Search</key>
-	<string>Recherche Avancée</string>
+	<string>Recherche Avanc√©e</string>
 	<key>Customize Section</key>
 	<string>Personnalisation Section</string>
 	<key>Directors</key>
-	<string>Réalisateurs</string>
+	<string>R√©alisateurs</string>
 	<key>Disable capability checking</key>
-	<string>Désactiver La Vérification de Compatibilité</string>
+	<string>D√©sactiver La V√©rification de Compatibilit√©</string>
 	<key>Done</key>
-	<string>Terminé</string>
+	<string>Termin√©</string>
 	<key>Drag folders into the list, or click the '+' button to browse.</key>
 	<string>Faites glisser vos dossiers dans la liste, ou cliquez sur le bouton '+' pour explorer.</string>
 	<key>Edit Metadata</key>
@@ -125,29 +125,29 @@ Le Serveur est-il disponible?</string>
 	<key>Episode %d: %@</key>
 	<string>Episode %1$d: %2$@</string>
 	<key>Fix Incorrect Match...</key>
-	<string>Réparer infos incorrectes...</string>
+	<string>R√©parer infos incorrectes...</string>
 	<key>Fix incorrect match</key>
-	<string>Réparer infos incorrectes</string>
+	<string>R√©parer infos incorrectes</string>
 	<key>Friday</key>
 	<string>Vendredi</string>
 	<key>Friendly name:</key>
 	<string>Alias:</string>
 	<key>General</key>
-	<string>Général</string>
+	<string>G√©n√©ral</string>
 	<key>Genres</key>
 	<string>Genres</string>
 	<key>Got this error: %@. Are you sure Plex Media Server is running?</key>
 	<string>Erreur: %@. Plex Media Server est-il disponible?</string>
 	<key>Include music sections in automatic updates</key>
-	<string>Inclure la section musique dans les mises à jours automatiques</string>
+	<string>Inclure la section musique dans les mises √† jours automatiques</string>
 	<key>LIBRARY SECTIONS</key>
 	<string>SECTIONS LIBRAIRIE</string>
 	<key>Language:</key>
 	<string>Langue:</string>
 	<key>Large music sections may take a long time to scan</key>
-	<string>La mise à jour des sections musique de tailles importantes peuvent durer assez longtemps</string>
+	<string>La mise √† jour des sections musique de tailles importantes peuvent durer assez longtemps</string>
 	<key>Last refreshed %@ at %@</key>
-	<string>Dernière mise à jour %1$@ à %2$@</string>
+	<string>Derni√®re mise √† jour %1$@ √† %2$@</string>
 	<key>Library</key>
 	<string>Librairie</string>
 	<key>Loading metadata for '%@'</key>
@@ -157,11 +157,11 @@ Le Serveur est-il disponible?</string>
 	<key>Matching '%@'</key>
 	<string>Recherche '%@'</string>
 	<key>Media analysis on '%@'</key>
-	<string>Analyse des médias dans '%@'</string>
+	<string>Analyse des m√©dias dans '%@'</string>
 	<key>Media file: </key>
-	<string>Fichier média: </string>
+	<string>Fichier: </string>
 	<key>Media scanner:</key>
-	<string>Scanner Médias:</string>
+	<string>Scanner M√©dias:</string>
 	<key>Monday</key>
 	<string>Lundi</string>
 	<key>Movie</key>
@@ -175,13 +175,13 @@ Le Serveur est-il disponible?</string>
 	<key>My Music</key>
 	<string>Ma Musique</string>
 	<key>My TV Shows</key>
-	<string>Mes Séries</string>
+	<string>Mes S√©ries</string>
 	<key>Name</key>
 	<string>Nom</string>
 	<key>Name:</key>
 	<string>Nom:</string>
 	<key>Offer higher bitrates over 3G connections</key>
-	<string>Activer haut débit en connexion 3G</string>
+	<string>Activer haut d√©bit en connexion 3G</string>
 	<key>Original Title</key>
 	<string>Titre Original</string>
 	<key>Originally Available</key>
@@ -191,7 +191,7 @@ Le Serveur est-il disponible?</string>
 	<key>PM</key>
 	<string>PM</string>
 	<key>Path of the directory you'd like to add:</key>
-	<string>Chemin du répertoire que vous souhaitez ajouter:</string>
+	<string>Chemin du r√©pertoire que vous souhaitez ajouter:</string>
 	<key>Primary metadata agent:</key>
 	<string>Agent metadata prioritaire:</string>
 	<key>Rating</key>
@@ -209,13 +209,13 @@ Le Serveur est-il disponible?</string>
 	<key>Remove Section</key>
 	<string>Supprimer Section</string>
 	<key>Requesting metadata for '%@'</key>
-	<string>Requête metadata en cours pour '%@'</string>
+	<string>Requ√™te metadata en cours pour '%@'</string>
 	<key>Saturday</key>
 	<string>Samedi</string>
 	<key>Save</key>
 	<string>Sauvegarder</string>
 	<key>Scanning '%@'</key>
-	<string>Je travaille… '%@'</string>
+	<string>Je travaille‚Ä¶ '%@'</string>
 	<key>Search</key>
 	<string>Rechercher</string>
 	<key>Search using:</key>
@@ -225,49 +225,49 @@ Le Serveur est-il disponible?</string>
 	<key>Section type:</key>
 	<string>Type section:</string>
 	<key>Security</key>
-	<string>Sécurité</string>
+	<string>S√©curit√©</string>
 	<key>Select</key>
-	<string>Sélectionner</string>
+	<string>S√©lectionner</string>
 	<key>Select %@</key>
-	<string>Sélectionner %@</string>
+	<string>S√©lectionner %@</string>
 	<key>Select Folder</key>
-	<string>Sélectionner Dossier</string>
+	<string>S√©lectionner Dossier</string>
 	<key>Select Image</key>
-	<string>Sélectionner Image</string>
+	<string>S√©lectionner Image</string>
 	<key>Select a directory for this section:</key>
-	<string>Sélectionnez un répertoire pour cette section:</string>
+	<string>S√©lectionnez un r√©pertoire pour cette section:</string>
 	<key>Select the correct TV show from the list below:</key>
-	<string>Sélectionnez la série recherchée dans la liste ci-dessous:</string>
+	<string>S√©lectionnez la s√©rie recherch√©e dans la liste ci-dessous:</string>
 	<key>Select the correct artist from the list below:</key>
-	<string>Sélectionnez l'artiste recherché dans la liste ci-dessous:</string>
+	<string>S√©lectionnez l'artiste recherch√© dans la liste ci-dessous:</string>
 	<key>Select the correct movie from the list below:</key>
-	<string>Sélectionnez le film recherché dans la liste ci-dessous:</string>
+	<string>S√©lectionnez le film recherch√© dans la liste ci-dessous:</string>
 	<key>Send anonymous usage data to Plex</key>
-	<string>Envoi anonyme des données d'utilisations a Plex</string>
+	<string>Envoi anonyme des donn√©es d'utilisations a Plex</string>
 	<key>Settings</key>
-	<string>Paramètres</string>
+	<string>Param√®tres</string>
 	<key>Sharing</key>
 	<string>Partage</string>
 	<key>Show</key>
-	<string>Série</string>
+	<string>S√©rie</string>
 	<key>Sort Title</key>
 	<string>Trier par titre</string>
 	<key>Studio</key>
 	<string>Studio</string>
 	<key>Summary</key>
-	<string>Résumé</string>
+	<string>R√©sum√©</string>
 	<key>Sunday</key>
 	<string>Dimanche</string>
 	<key>TV Shows</key>
-	<string>Séries</string>
+	<string>S√©ries</string>
 	<key>Tagline</key>
 	<string>Slogan</string>
 	<key>This helps us improve your experience (for example, to help us match movies and TV shows).</key>
-	<string>Ceci nous aide à améliorer votre expérience (par exemple, en nous aidant à associer vos fichiers aux bons films et séries).</string>
+	<string>Ceci nous aide √† am√©liorer votre exp√©rience (par exemple, en nous aidant √† associer vos fichiers aux bons films et s√©ries).</string>
 	<key>This name will be used to identify this media server to other computers on your network. If you leave it blank, your computer's name will be used instead.</key>
-	<string>Ce nom sera utilisé pour identifier ce serveur aux autres ordinateurs de votre réseau. Si vous le laissez vide, le nom de votre ordinateur sera utilisé.</string>
+	<string>Ce nom sera utilis√© pour identifier ce serveur aux autres ordinateurs de votre r√©seau. Si vous le laissez vide, le nom de votre ordinateur sera utilis√©.</string>
 	<key>This site does not support Internet Explorer. For the best experience, click here to install Google Chrome Frame.</key>
-	<string>Ce site ne supporte pas Internet Explorer. Pour une meilleure expérience, cliquez ici pour installer Google Chrome Frame.</string>
+	<string>Ce site ne supporte pas Internet Explorer. Pour une meilleure exp√©rience, cliquez ici pour installer Google Chrome Frame.</string>
 	<key>Thursday</key>
 	<string>Jeudi</string>
 	<key>Title</key>
@@ -277,27 +277,27 @@ Le Serveur est-il disponible?</string>
 	<key>Tuesday</key>
 	<string>Mardi`</string>
 	<key>Unable to connect to Plex Media Server</key>
-	<string>Impossible de se connecter à Plex Media Server</string>
+	<string>Impossible de se connecter √† Plex Media Server</string>
 	<key>Unable to create library section</key>
-	<string>Impossible de créer une section dans la librairie</string>
+	<string>Impossible de cr√©er une section dans la librairie</string>
 	<key>Unable to remove section "%@"</key>
 	<string>Impossible de supprimer la section "%@"</string>
 	<key>Unable to update library section</key>
-	<string>Impossible de mettre à jour la section</string>
+	<string>Impossible de mettre √† jour la section</string>
 	<key>Update Section</key>
-	<string>Mettre à jour Section</string>
+	<string>Mettre √† jour Section</string>
 	<key>Update my library</key>
-	<string>Mettre à jour ma librairie</string>
+	<string>Mettre √† jour ma librairie</string>
 	<key>Update my library when changes to my folders are detected</key>
-	<string>Mettre à jour ma librairie quand mes dossiers sont modifiés</string>
+	<string>Mettre √† jour ma librairie quand mes dossiers sont modifi√©s</string>
 	<key>Wednesday</key>
 	<string>Mercredi</string>
 	<key>Writers</key>
 	<string>Auteurs</string>
 	<key>Year</key>
-	<string>Année</string>
+	<string>Ann√©e</string>
 	<key>Year:</key>
-	<string>Année:</string>
+	<string>Ann√©e:</string>
 	<key>album</key>
 	<string>album</string>
 	<key>artist</key>
@@ -319,13 +319,13 @@ Le Serveur est-il disponible?</string>
 	<key>hourly</key>
 	<string>horaire</string>
 	<key>iPhoto Sharing Enabled</key>
-	<string>Partage iPhoto Activé</string>
+	<string>Partage iPhoto Activ√©</string>
 	<key>iTunes Sharing Enabled</key>
-	<string>Partage iTunes Activé</string>
+	<string>Partage iTunes Activ√©</string>
 	<key>movie</key>
 	<string>film</string>
 	<key>no TV shows</key>
-	<string>aucunes séries</string>
+	<string>aucunes s√©ries</string>
 	<key>no artists</key>
 	<string>aucuns artistes</string>
 	<key>no episodes</key>
@@ -337,7 +337,7 @@ Le Serveur est-il disponible?</string>
 	<key>season</key>
 	<string>saison</string>
 	<key>show</key>
-	<string>série</string>
+	<string>s√©rie</string>
 	<key>today</key>
 	<string>aujourd'hui</string>
 	<key>tomorrow</key>
