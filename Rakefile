@@ -60,8 +60,11 @@ if PMM_ROOT.exist?
     resources = PMM_ROOT+'Resources'
 
     localizations.each do |localization|
-      cp localization.strings, resources+"#{localization.code}.lproj/"
-      cp localization.xstrings, resources+"#{localization.code}.lproj/"
+      target = resources+"#{localization.code}.lproj"
+      target.mkpath
+
+      cp localization.strings, target
+      cp localization.xstrings, target
     end
   end
 end
