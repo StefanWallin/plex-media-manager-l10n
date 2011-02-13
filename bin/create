@@ -1,0 +1,24 @@
+#!/usr/bin/env ruby
+
+code = ARGV[0]
+
+if code.nil?
+  abort <<-EOS
+usage: #{$0} <code>
+
+<code>  language code that you're translating to (e.g. pt or pt-BR)
+  EOS
+end
+
+require File.expand_path('../../lib/l10n', __FILE__)
+
+localization = L10n::Localization[code]
+if localization.strings.exist?
+  abort "! localization for #{code} already exists"
+end
+
+localization.data = L10n::Localization['en'].data
+localization.write
+
+puts %{~ Wrote untranslated (English) strings file to #{localization.strings}.}
+puts %{~ Once you've edited the strings for the #{code} localization, run `rake build` and commit the result.}
