@@ -4,9 +4,9 @@ code = ARGV[0]
 
 if code.nil?
   abort <<-EOS
-    usage: #{$0} <code>
+usage: #{$0} <code>
 
-    <code>         language code that you're translating to (e.g. pt or pt-BR)
+<code>  language code that you're translating to (e.g. pt or pt-BR)
   EOS
 end
 

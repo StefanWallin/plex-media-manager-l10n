@@ -5,10 +5,10 @@ interpreter = ARGV[1]
 
 if interpreter.nil? || code.nil?
   abort <<-EOS
-    usage: #{$0} <code> <interpreter>
+usage: #{$0} <code> <interpreter>
 
-    <code>         language code that you're translating to (e.g. pt or pt-BR)
-    <interpreter>  path to a program that takes a line on stdin and writes a translation to stdout
+<code>         language code that you're translating to (e.g. pt or pt-BR)
+<interpreter>  path to a program that takes a line on stdin and writes a translation to stdout
   EOS
 end
 
