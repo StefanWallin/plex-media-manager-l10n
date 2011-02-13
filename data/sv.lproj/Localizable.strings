@@ -1,0 +1,511 @@
+/* Season plus full episode title (e.g. Season 4, Episode 1 */
+"%@, Episode %d" = "%1$@, Avsnitt %2$d";
+
+/* Status label value for when there is more than one musical artist */
+"%d artists" = "%d artister";
+
+/* Status for list of episodes when there is more than one
+   Subtitle for a season thumbnail on a TV Show detail view */
+"%d episodes" = "%d avsnitt";
+
+/* Status label value for when there is more than one movie */
+"%d movies" = "%d filmer";
+
+/* Subtitle for a album thumbnail on an artist detail view */
+"%d tracks" = "%d spår";
+
+/* Status label for when there are more than one track (e.g. 11 tracks, 47:34 total time, 91.2 MB) */
+"%d tracks, %@ total time, %@" = "%1$d spår, %2$@ total tid, %3$@";
+
+/* Status label value for when there is more than one TV show */
+"%d TV shows" = "%d TV-serier";
+
+/* ShortLocalTimeFormat */
+"%d:%02d %@" = "%1$d:%2$02d %3$@";
+
+/* Status label value for when there is one musical artist */
+"1 artist" = "1 artist";
+
+/* Status for list of episodes when there is one
+   Subtitle for a season thumbnail on a TV Show detail view */
+"1 episode" = "1 avsnitt";
+
+/* Status label value for when there is one movie */
+"1 movie" = "1 film";
+
+/* Subtitle for a album thumbnail on an artist detail view */
+"1 track" = "1 spår";
+
+/* Status label for when there is one track in an album (e.g. 1 track, 4:28 total time, 5.6 MB) */
+"1 track, %@ total time, %@" = "1 spår, %1$@ total tid, %2$@";
+
+/* Status label value for when there is one TV show */
+"1 TV show" = "1 TV-serie";
+
+/* First-run help item */
+"> Add posters, custom genres and more" = "> Lägg till omslag, genrer och mer";
+
+/* First-run help item */
+"> Album reviews" = "> Albumrecensioner";
+
+/* First-run help item */
+"> Artist biographies and artwork" = "> Artistbiografier och konstverk";
+
+/* First-run help item */
+"> Automatic theme music for TV shows" = "> Matcha automatisk ledmotiv till TV-serier";
+
+/* First-run help item */
+"> Customize every detail of each movie" = "> Anpassa varje detalj för varje film";
+
+/* First-run help item */
+"> Great for your personal media" = "> Toppen till din personliga media";
+
+/* First-run help item */
+"> Movie posters and art" = "> Filmomslag och konstverk";
+
+/* First-run help item */
+"> Organize movies into collections" = "> Organisera filmer i samlingar";
+
+/* First-run help item */
+"> Thumbnails for every episode" = "> Tumnaglar för varje avsnitt";
+
+/* First-run help item */
+"> TV show posters and art" = "> TV-serieomslag och konstverk";
+
+/* First-run title for adding home movies */
+"Add Home Movies Section" = "Skapa sektion för amatörfilmer";
+
+/* First-run title for adding movies */
+"Add Movies Section" = "Skapa sektion för filmer";
+
+/* First-run title for adding music */
+"Add Music Section" = "Skapa sektion för musik";
+
+/* Add section confirm button text */
+"Add Section" = "Skapa sektion";
+
+/* Section settings primary informative text */
+"Add the folders containing media for this section below. Any media files found inside these folders will be scanned into your library using the above settings." = "Lägg till mappar som innehåller media för detta avsnitt nedan. Alla mediafiler som hittats inuti dessa mappar kommer att genomsökas till biblioteket med hjälp av ovanstående inställningar.";
+
+/* First-run title for adding TV shows */
+"Add TV Shows Section" = "Skapa sektion för TV-serier";
+
+/* Advanced */
+"Advanced" = "Avancerat";
+
+/* A recording album */
+"album" = "album";
+
+/* AnteMeridiem */
+"AM" = "AM";
+
+/* Informative text for removing a section */
+"Any content in this section will no longer be available in your library. The files on your computer will not be removed." = "Allt innehåll i denna del inte längre kommer att finnas tillgänglig i biblioteket. Filerna på din dator kommer inte tas bort.";
+
+/* Preference window setting */
+"Aperture Sharing Enabled" = "Aktivera Aperturedelning";
+
+/* Confirmation message for removing a section */
+"Are you sure you want to remove the section named \"%@\"?" = "Är du säker på att du vill ta bort sektionen som heter \"%@\"?";
+
+/* A musical artist */
+"artist" = "artist";
+
+/* Artist */
+"Artist" = "Artist";
+
+/* Cancel */
+"Cancel" = "Avbryt";
+
+/* Preference window setting detail */
+"Capability checking ensures that plug-ins that are incompatible with this version of the server or the current client application you are using are hidden. Disabling capability checking is useful during development, but will enable access to plug-ins that may perform unreliably with certain client applications." = "Funktionskontroll säkerställer att insticksprogram som är inkompatibla med denna serverversion eller nuvarande klientmjukvara döljs. Att avaktivera funktionskontroll är användbart under utveckling, men kommer ge tillgång till insticksprogram som kan fungera opålitligt med vissa klientmjukvaror.";
+
+/* Change Artwork */
+"Change Artwork" = "Ändra konstverk";
+
+/* Choose Album Thumbnail menu item */
+"Choose Album Thumbnail" = "Välj miniatyr för album";
+
+/* Choose Background Art */
+"Choose Background Art" = "Välj bakgrundskonst";
+
+/* Choose Banner */
+"Choose Banner" = "Välj banderoll";
+
+/* Choose Episode Thumbnail menu item */
+"Choose Episode Thumbnail" = "Välj avsnittsminiatyr";
+
+/* Choose Icon */
+"Choose Icon" = "Välj ikon";
+
+/* Choose Poster menu item */
+"Choose Poster" = "Välj omslag";
+
+/* Choose Season Thumbnail menu item */
+"Choose Season Thumbnail" = "Välj säsongsminiatyr";
+
+/* First-run help title */
+"Click the titles below to create library sections for your media and have it served to your Plex-enabled devices." = "Klicka på titlarna nedan för att skapa biblioteksavsnitt för media och få den tillhandahållen till dina Plex-aktiverade enheter.";
+
+/* Collections */
+"Collections" = "Samlingar";
+
+/* Error message for when we cannot connect to PMS or when the response is invalid */
+"Connecting to Plex Media Server failed with this error: %@.\n\nAre you sure it's running?" = "Anslutning till Plex Media Server misslyckades med detta felmeddelande: %@.\n\nÄr du säker att den är påslagen?";
+
+/* Content Rating */
+"Content Rating" = "Innehållsomdöme";
+
+/* Custom Search */
+"Custom Search" = "Anpassad sökning";
+
+/* Customize Section */
+"Customize Section" = "Anpassa sektion";
+
+/* Library scan interval (i.e. Update my library daily */
+"daily" = "dagligen";
+
+/* Directors */
+"Directors" = "Regissörer";
+
+/* Preference window setting */
+"Disable capability checking" = "Avaktivera funktionskontroll";
+
+/* Done */
+"Done" = "Klar";
+
+/* Section settings secondary informative text */
+"Drag folders into the list, or click the '+' button to browse." = "Dra mappar in i listan, eller klicka på '+'-knappen för att bläddra.";
+
+/* Edit Metadata */
+"Edit Metadata" = "Redigera metadata";
+
+/* Edit Section */
+"Edit Section" = "Redigera sektion";
+
+/* A TV Show episode */
+"episode" = "avsnitt";
+
+/* Full episode title (e.g. Episode 1: Pilot */
+"Episode %d: %@" = "Avsnitt %1$d: %2$@";
+
+/* Library scan interval (i.e. Update my library every 12 hours) */
+"every 12 hours" = "var tolfte timme";
+
+/* Library scan interval (i.e. Update my library every 15 minutes) */
+"every 15 minutes" = "varje kvart";
+
+/* Library scan interval (i.e. Update my library every 2 hours) */
+"every 2 hours" = "varannan timme";
+
+/* Library scan interval (i.e. Update my library every 30 minutes) */
+"every 30 minutes" = "var 30:e minut";
+
+/* Library scan interval (i.e. Update my library every 6 hours) */
+"every 6 hours" = "var sjätte timme";
+
+/* Fix incorrect match */
+"Fix incorrect match" = "Korrigera inkorrekt matching";
+
+/* Fix Incorrect Match... */
+"Fix Incorrect Match..." = "Korrigera inkorrekt matching...";
+
+/* Friday */
+"Friday" = "Fredag";
+
+/* Friendly name label */
+"Friendly name:" = "Förståeligt namn:";
+
+/* General */
+"General" = "Generell";
+
+/* Genres */
+"Genres" = "Genrer";
+
+/* Error message for when we cannot remove a library section */
+"Got this error: %@. Are you sure Plex Media Server is running?" = "Fick följande fel: %@. Är du säker att Plex Media Server är påslagen?";
+
+/* Library scan interval (i.e. Update my library hourly) */
+"hourly" = "varje timme";
+
+/* Preference window setting */
+"Include music sections in automatic updates" = "Inkludera musiksektioner i automatiska uppdateringar";
+
+/* Preference window setting */
+"iPhoto Sharing Enabled" = "iPhoto-delning aktiverad";
+
+/* Preference window setting */
+"iTunes Sharing Enabled" = "iTunes-delning aktiverad";
+
+/* Language label */
+"Language:" = "Språk:";
+
+/* Preference window setting */
+"Large music sections may take a long time to scan" = "Stora musiksektioner kan ta lång tid att genomsöka";
+
+/* Status label for media items */
+"Last refreshed %@ at %@" = "Senast uppdaterad %1$@ den %2$@";
+
+/* Library */
+"Library" = "Bibliotek";
+
+/* Sidebar group title for library sections */
+"LIBRARY SECTIONS" = "BIBLIOTEKSSEKTIIONER";
+
+/* Metadata item status message when its data is importing */
+"Loading metadata for '%@'" = "Laddar metadata för '%@'";
+
+/* Button text for the directory browser to allow the user to type in a path manually */
+"Manual Entry" = "Skriv in manuellt";
+
+/* Metadata item status message when it is being matched to a canonical item */
+"Matching '%@'" = "Matchar '%@'";
+
+/* Metadata item status message when it is being read */
+"Media analysis on '%@'" = "Analyserar mediat '%@'";
+
+/* Label for the path to the file whose match is being fixed */
+"Media file: " = "Mediafil: ";
+
+/* Media scanner label */
+"Media scanner:" = "Mediasökare:";
+
+/* Monday */
+"Monday" = "Måndag";
+
+/* Movie */
+"Movie" = "Film";
+
+/* A movie */
+"movie" = "film";
+
+/* Movies */
+"Movies" = "Filmer";
+
+/* Music */
+"Music" = "Musik";
+
+/* Movie section name placeholder */
+"My Movies" = "Mina filmer";
+
+/* Music section name placeholder */
+"My Music" = "Min musik";
+
+/* TV Shows section name placeholder */
+"My TV Shows" = "Mina TV-serier";
+
+/* Name */
+"Name" = "Namn";
+
+/* Name label */
+"Name:" = "Namn:";
+
+/* Status label value when there are no musical artists */
+"no artists" = "inga artister";
+
+/* Status for list of episodes when there are none
+   Subtitle for a season thumbnail on a TV Show detail view */
+"no episodes" = "inga avsnitt";
+              
+/* Status label valu  e for when there are no movies */
+"no movies" = "inga filmer";
+              
+/* Status label for   when there are no tracks in an album
+   Subtitle for a al  bum thumbnail on an artist detail view */
+"no tracks" = "inga spår";
+              
+/* Status label valu  e when there are no TV shows */
+"no TV shows" = "inga TV-serier";
+
+/* Preference window setting */
+"Offer higher bitrates over 3G connections" = "Erbjuda högre kvalitet över 3G-anslutningar";
+
+/* Original Title */
+"Original Title" = "Originaltitel";
+
+/* Originally Available */
+"Originally Available" = "Ursprungligen tillgänglig";
+
+/* Instruction text for the prompt to add directories manually */
+"Path of the directory you'd like to add:" = "Sökvägen till mappen du vill lägga till:";
+
+/* Header title */
+"PLEX MEDIA MANAGER" = "PLEX mediahanterare";
+
+/* PostMeridiem */
+"PM" = "PM";
+
+/* Primary metadata agent label */
+"Primary metadata agent:" = "Primär metadataagent:";
+
+/* Rating */
+"Rating" = "Betyg";
+
+/* Refresh Info */
+"Refresh Info" = "Uppdatera information";
+
+/* Refresh Section */
+"Refresh Section" = "Uppdatera sektion";
+
+/* Refresh Section (force) */
+"Refresh Section (force)" = "Tvinga uppdatering av sektion";
+
+/* Status label for refreshing sections */
+"Refreshing info for %d items" = "Uppdaterar information för %d objekt";
+
+/* Status label for refreshing sections with one remaining item */
+"Refreshing info for one item" = "Uppdaterar information för ett objekt";
+
+/* Remove section confirmation button */
+"Remove Section" = "Radera sektion";
+
+/* Metadata item status message when its info is downloading */
+"Requesting metadata for '%@'" = "Begär metadata för '%@'";
+
+/* Saturday */
+"Saturday" = "Lördag";
+
+/* Save */
+"Save" = "Spara";
+
+/* Metadata item status message when it is newly scanned/created */
+"Scanning '%@'" = "Genomsöker '%@'";
+
+/* Search */
+"Search" = "Sök";
+
+/* Agent label */
+"Search using:" = "Sök med:";
+
+/* A TV Show season */
+"season" = "säsong";
+
+/* Section name label */
+"Section name:" = "Sektionsnamn:";
+
+/* Section type label */
+"Section type:" = "Sektionstyp:";
+
+/* Security */
+"Security" = "Säkerhet";
+
+/* Select */
+"Select" = "Välj";
+
+/* Confirm button title for selecting */
+"Select %@" = "Välj %@";
+
+/* Directory-browser title when adding/editing sections */
+"Select a directory for this section:" = "Välj mapp för denna sektion:";
+
+/* Select Folder */
+"Select Folder" = "Välj mapp";
+
+/* Select Image */
+"Select Image" = "Välj bild";
+
+/* Fix Incorrect Match title for music sections */
+"Select the correct artist from the list below:" = "Välj rätt artist från listan nedan:";
+
+/* Fix Incorrect Match title for movie sections */
+"Select the correct movie from the list below:" = "Välj rätt film från listan nedan:";
+
+/* Fix Incorrect Match title for TV show sections */
+"Select the correct TV show from the list below:" = "Välj rätt TV-serie från listan nedan:";
+
+/* Send anonymous usage data to Plex */
+"Send anonymous usage data to Plex" = "Sänd anonym användningsdata till Plex";
+
+/* Settings button at the top-right */
+"Settings" = "Inställningar";
+
+/* Sharing */
+"Sharing" = "Delning";
+
+/* Show */
+"Show" = "Visa";
+
+/* A TV Show */
+"show" = "serie";
+
+/* Sort Title */
+"Sort Title" = "Sorter titel";
+
+/* Studio */
+"Studio" = "Studio";
+
+/* Summary */
+"Summary" = "Summering";
+
+/* Sunday */
+"Sunday" = "Söndag";
+
+/* Tagline */
+"Tagline" = "Slogan";
+
+/* Summary info for collecting usage data */
+"This helps us improve your experience (for example, to help us match movies and TV shows)." = "Detta hjälper oss att förbättra din upplevelse(till exempel hjälper det oss att matcha filmer och TV-serier).";
+
+/* Summary info for friendly name */
+"This name will be used to identify this media server to other computers on your network. If you leave it blank, your computer's name will be used instead." = "Detta namn kommer användas för att identifiera denna mediaserver till andra datorer på ditt nätverk. Om du lämnar det tomt så används datorns namn istället.";
+
+/* Warning for IE users */
+"This site does not support Internet Explorer. For the best experience, click here to install Google Chrome Frame." = "Denna webbplats stöder inte Internet Explorer, för bästa upplevelse, klicka här för att installera Google Chrome Frame.";
+
+/* Thursday */
+"Thursday" = "Torsdag";
+
+/* Title */
+"Title" = "Titel";
+
+/* today */
+"today" = "idag";
+
+/* tomorrow */
+"tomorrow" = "imorgon";
+
+/* Transcoding */
+"Transcoding" = "Omkodning";
+
+/* Tuesday */
+"Tuesday" = "Tisdag";
+
+/* TV Shows */
+"TV Shows" = "TV-serier";
+
+/* Error title for when we cannot connect to PMS or when the response is invalid */
+"Unable to connect to Plex Media Server" = "Kunde inte ansluta till Plex Media Server";
+
+/* Unable to create library section */
+"Unable to create library section" = "Kunde inte skapa bibliotekssektion";
+
+/* Error title for when we cannot remove a library section */
+"Unable to remove section \"%@\"" = "Kunde inte ta bort sektionen \"%@\"";
+
+/* Unable to update library section */
+"Unable to update library section" = "Kunde inte uppdatera bibliotekssektionen";
+
+/* Preference window setting - will have frequencies after it e.g. Update my library every two hours */
+"Update my library" = "Uppdatera mitt bibliotek";
+
+/* Preference window setting */
+"Update my library when changes to my folders are detected" = "Uppdatera mitt bibliotek när ändringar i mina mappar upptäcks";
+
+/* Update section confirm button text */
+"Update Section" = "Uppdatera sektion";
+
+/* Wednesday */
+"Wednesday" = "Onsdag";
+
+/* Writers */
+"Writers" = "Författare";
+
+/* Year */
+"Year" = "År";
+
+/* Year label */
+"Year:" = "År:";
+
+/* yesterday */
+"yesterday" = "igår";
+

@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%@, Episode %d</key>
+	<string>%1$@, Avsnitt %2$d</string>
+	<key>%d TV shows</key>
+	<string>%d TV-serier</string>
+	<key>%d artists</key>
+	<string>%d artister</string>
+	<key>%d episodes</key>
+	<string>%d avsnitt</string>
+	<key>%d movies</key>
+	<string>%d filmer</string>
+	<key>%d tracks</key>
+	<string>%d spår</string>
+	<key>%d tracks, %@ total time, %@</key>
+	<string>%1$d spår, %2$@ total tid, %3$@</string>
+	<key>%d:%02d %@</key>
+	<string>%1$d:%2$02d %3$@</string>
+	<key>1 TV show</key>
+	<string>1 TV-serie</string>
+	<key>1 artist</key>
+	<string>1 artist</string>
+	<key>1 episode</key>
+	<string>1 avsnitt</string>
+	<key>1 movie</key>
+	<string>1 film</string>
+	<key>1 track</key>
+	<string>1 spår</string>
+	<key>1 track, %@ total time, %@</key>
+	<string>1 spår, %1$@ total tid, %2$@</string>
+	<key>&gt; Add posters, custom genres and more</key>
+	<string>&gt; Lägg till omslag, genrer och mer</string>
+	<key>&gt; Album reviews</key>
+	<string>&gt; Albumrecensioner</string>
+	<key>&gt; Artist biographies and artwork</key>
+	<string>&gt; Artistbiografier och konstverk</string>
+	<key>&gt; Automatic theme music for TV shows</key>
+	<string>&gt; Matcha automatisk ledmotiv till TV-serier</string>
+	<key>&gt; Customize every detail of each movie</key>
+	<string>&gt; Anpassa varje detalj för varje film</string>
+	<key>&gt; Great for your personal media</key>
+	<string>&gt; Toppen till din personliga media</string>
+	<key>&gt; Movie posters and art</key>
+	<string>&gt; Filmomslag och konstverk</string>
+	<key>&gt; Organize movies into collections</key>
+	<string>&gt; Organisera filmer i samlingar</string>
+	<key>&gt; TV show posters and art</key>
+	<string>&gt; TV-serieomslag och konstverk</string>
+	<key>&gt; Thumbnails for every episode</key>
+	<string>&gt; Tumnaglar för varje avsnitt</string>
+	<key>AM</key>
+	<string>AM</string>
+	<key>Add Home Movies Section</key>
+	<string>Skapa sektion för amatörfilmer</string>
+	<key>Add Movies Section</key>
+	<string>Skapa sektion för filmer</string>
+	<key>Add Music Section</key>
+	<string>Skapa sektion för musik</string>
+	<key>Add Section</key>
+	<string>Skapa sektion</string>
+	<key>Add TV Shows Section</key>
+	<string>Skapa sektion för TV-serier</string>
+	<key>Add the folders containing media for this section below. Any media files found inside these folders will be scanned into your library using the above settings.</key>
+	<string>Lägg till mappar som innehåller media för detta avsnitt nedan. Alla mediafiler som hittats inuti dessa mappar kommer att genomsökas till biblioteket med hjälp av ovanstående inställningar.</string>
+	<key>Advanced</key>
+	<string>Avancerat</string>
+	<key>Any content in this section will no longer be available in your library. The files on your computer will not be removed.</key>
+	<string>Allt innehåll i denna del inte längre kommer att finnas tillgänglig i biblioteket. Filerna på din dator kommer inte tas bort.</string>
+	<key>Aperture Sharing Enabled</key>
+	<string>Aktivera Aperturedelning</string>
+	<key>Are you sure you want to remove the section named "%@"?</key>
+	<string>Är du säker på att du vill ta bort sektionen som heter "%@"?</string>
+	<key>Artist</key>
+	<string>Artist</string>
+	<key>Cancel</key>
+	<string>Avbryt</string>
+	<key>Capability checking ensures that plug-ins that are incompatible with this version of the server or the current client application you are using are hidden. Disabling capability checking is useful during development, but will enable access to plug-ins that may perform unreliably with certain client applications.</key>
+	<string>Funktionskontroll säkerställer att insticksprogram som är inkompatibla med denna serverversion eller nuvarande klientmjukvara döljs. Att avaktivera funktionskontroll är användbart under utveckling, men kommer ge tillgång till insticksprogram som kan fungera opålitligt med vissa klientmjukvaror.</string>
+	<key>Change Artwork</key>
+	<string>Ändra konstverk</string>
+	<key>Choose Album Thumbnail</key>
+	<string>Välj miniatyr för album</string>
+	<key>Choose Background Art</key>
+	<string>Välj bakgrundskonst</string>
+	<key>Choose Banner</key>
+	<string>Välj banderoll</string>
+	<key>Choose Episode Thumbnail</key>
+	<string>Välj avsnittsminiatyr</string>
+	<key>Choose Icon</key>
+	<string>Välj ikon</string>
+	<key>Choose Poster</key>
+	<string>Välj omslag</string>
+	<key>Choose Season Thumbnail</key>
+	<string>Välj säsongsminiatyr</string>
+	<key>Click the titles below to create library sections for your media and have it served to your Plex-enabled devices.</key>
+	<string>Klicka på titlarna nedan för att skapa biblioteksavsnitt för media och få den tillhandahållen till dina Plex-aktiverade enheter.</string>
+	<key>Collections</key>
+	<string>Samlingar</string>
+	<key>Connecting to Plex Media Server failed with this error: %@.
+
+Are you sure it's running?</key>
+	<string>Anslutning till Plex Media Server misslyckades med detta felmeddelande: %@.
+
+Är du säker att den är påslagen?</string>
+	<key>Content Rating</key>
+	<string>Innehållsomdöme</string>
+	<key>Custom Search</key>
+	<string>Anpassad sökning</string>
+	<key>Customize Section</key>
+	<string>Anpassa sektion</string>
+	<key>Directors</key>
+	<string>Regissörer</string>
+	<key>Disable capability checking</key>
+	<string>Avaktivera funktionskontroll</string>
+	<key>Done</key>
+	<string>Klar</string>
+	<key>Drag folders into the list, or click the '+' button to browse.</key>
+	<string>Dra mappar in i listan, eller klicka på '+'-knappen för att bläddra.</string>
+	<key>Edit Metadata</key>
+	<string>Redigera metadata</string>
+	<key>Edit Section</key>
+	<string>Redigera sektion</string>
+	<key>Episode %d: %@</key>
+	<string>Avsnitt %1$d: %2$@</string>
+	<key>Fix Incorrect Match...</key>
+	<string>Korrigera inkorrekt matching...</string>
+	<key>Fix incorrect match</key>
+	<string>Korrigera inkorrekt matching</string>
+	<key>Friday</key>
+	<string>Fredag</string>
+	<key>Friendly name:</key>
+	<string>Förståeligt namn:</string>
+	<key>General</key>
+	<string>Generell</string>
+	<key>Genres</key>
+	<string>Genrer</string>
+	<key>Got this error: %@. Are you sure Plex Media Server is running?</key>
+	<string>Fick följande fel: %@. Är du säker att Plex Media Server är påslagen?</string>
+	<key>Include music sections in automatic updates</key>
+	<string>Inkludera musiksektioner i automatiska uppdateringar</string>
+	<key>LIBRARY SECTIONS</key>
+	<string>BIBLIOTEKSSEKTIIONER</string>
+	<key>Language:</key>
+	<string>Språk:</string>
+	<key>Large music sections may take a long time to scan</key>
+	<string>Stora musiksektioner kan ta lång tid att genomsöka</string>
+	<key>Last refreshed %@ at %@</key>
+	<string>Senast uppdaterad %1$@ den %2$@</string>
+	<key>Library</key>
+	<string>Bibliotek</string>
+	<key>Loading metadata for '%@'</key>
+	<string>Laddar metadata för '%@'</string>
+	<key>Manual Entry</key>
+	<string>Skriv in manuellt</string>
+	<key>Matching '%@'</key>
+	<string>Matchar '%@'</string>
+	<key>Media analysis on '%@'</key>
+	<string>Analyserar mediat '%@'</string>
+	<key>Media file: </key>
+	<string>Mediafil: </string>
+	<key>Media scanner:</key>
+	<string>Mediasökare:</string>
+	<key>Monday</key>
+	<string>Måndag</string>
+	<key>Movie</key>
+	<string>Film</string>
+	<key>Movies</key>
+	<string>Filmer</string>
+	<key>Music</key>
+	<string>Musik</string>
+	<key>My Movies</key>
+	<string>Mina filmer</string>
+	<key>My Music</key>
+	<string>Min musik</string>
+	<key>My TV Shows</key>
+	<string>Mina TV-serier</string>
+	<key>Name</key>
+	<string>Namn</string>
+	<key>Name:</key>
+	<string>Namn:</string>
+	<key>Offer higher bitrates over 3G connections</key>
+	<string>Erbjuda högre kvalitet över 3G-anslutningar</string>
+	<key>Original Title</key>
+	<string>Originaltitel</string>
+	<key>Originally Available</key>
+	<string>Ursprungligen tillgänglig</string>
+	<key>PLEX MEDIA MANAGER</key>
+	<string>PLEX mediahanterare</string>
+	<key>PM</key>
+	<string>PM</string>
+	<key>Path of the directory you'd like to add:</key>
+	<string>Sökvägen till mappen du vill lägga till:</string>
+	<key>Primary metadata agent:</key>
+	<string>Primär metadataagent:</string>
+	<key>Rating</key>
+	<string>Betyg</string>
+	<key>Refresh Info</key>
+	<string>Uppdatera information</string>
+	<key>Refresh Section</key>
+	<string>Uppdatera sektion</string>
+	<key>Refresh Section (force)</key>
+	<string>Tvinga uppdatering av sektion</string>
+	<key>Refreshing info for %d items</key>
+	<string>Uppdaterar information för %d objekt</string>
+	<key>Refreshing info for one item</key>
+	<string>Uppdaterar information för ett objekt</string>
+	<key>Remove Section</key>
+	<string>Radera sektion</string>
+	<key>Requesting metadata for '%@'</key>
+	<string>Begär metadata för '%@'</string>
+	<key>Saturday</key>
+	<string>Lördag</string>
+	<key>Save</key>
+	<string>Spara</string>
+	<key>Scanning '%@'</key>
+	<string>Genomsöker '%@'</string>
+	<key>Search</key>
+	<string>Sök</string>
+	<key>Search using:</key>
+	<string>Sök med:</string>
+	<key>Section name:</key>
+	<string>Sektionsnamn:</string>
+	<key>Section type:</key>
+	<string>Sektionstyp:</string>
+	<key>Security</key>
+	<string>Säkerhet</string>
+	<key>Select</key>
+	<string>Välj</string>
+	<key>Select %@</key>
+	<string>Välj %@</string>
+	<key>Select Folder</key>
+	<string>Välj mapp</string>
+	<key>Select Image</key>
+	<string>Välj bild</string>
+	<key>Select a directory for this section:</key>
+	<string>Välj mapp för denna sektion:</string>
+	<key>Select the correct TV show from the list below:</key>
+	<string>Välj rätt TV-serie från listan nedan:</string>
+	<key>Select the correct artist from the list below:</key>
+	<string>Välj rätt artist från listan nedan:</string>
+	<key>Select the correct movie from the list below:</key>
+	<string>Välj rätt film från listan nedan:</string>
+	<key>Send anonymous usage data to Plex</key>
+	<string>Sänd anonym användningsdata till Plex</string>
+	<key>Settings</key>
+	<string>Inställningar</string>
+	<key>Sharing</key>
+	<string>Delning</string>
+	<key>Show</key>
+	<string>Visa</string>
+	<key>Sort Title</key>
+	<string>Sorter titel</string>
+	<key>Studio</key>
+	<string>Studio</string>
+	<key>Summary</key>
+	<string>Summering</string>
+	<key>Sunday</key>
+	<string>Söndag</string>
+	<key>TV Shows</key>
+	<string>TV-serier</string>
+	<key>Tagline</key>
+	<string>Slogan</string>
+	<key>This helps us improve your experience (for example, to help us match movies and TV shows).</key>
+	<string>Detta hjälper oss att förbättra din upplevelse(till exempel hjälper det oss att matcha filmer och TV-serier).</string>
+	<key>This name will be used to identify this media server to other computers on your network. If you leave it blank, your computer's name will be used instead.</key>
+	<string>Detta namn kommer användas för att identifiera denna mediaserver till andra datorer på ditt nätverk. Om du lämnar det tomt så används datorns namn istället.</string>
+	<key>This site does not support Internet Explorer. For the best experience, click here to install Google Chrome Frame.</key>
+	<string>Denna webbplats stöder inte Internet Explorer, för bästa upplevelse, klicka här för att installera Google Chrome Frame.</string>
+	<key>Thursday</key>
+	<string>Torsdag</string>
+	<key>Title</key>
+	<string>Titel</string>
+	<key>Transcoding</key>
+	<string>Omkodning</string>
+	<key>Tuesday</key>
+	<string>Tisdag</string>
+	<key>Unable to connect to Plex Media Server</key>
+	<string>Kunde inte ansluta till Plex Media Server</string>
+	<key>Unable to create library section</key>
+	<string>Kunde inte skapa bibliotekssektion</string>
+	<key>Unable to remove section "%@"</key>
+	<string>Kunde inte ta bort sektionen "%@"</string>
+	<key>Unable to update library section</key>
+	<string>Kunde inte uppdatera bibliotekssektionen</string>
+	<key>Update Section</key>
+	<string>Uppdatera sektion</string>
+	<key>Update my library</key>
+	<string>Uppdatera mitt bibliotek</string>
+	<key>Update my library when changes to my folders are detected</key>
+	<string>Uppdatera mitt bibliotek när ändringar i mina mappar upptäcks</string>
+	<key>Wednesday</key>
+	<string>Onsdag</string>
+	<key>Writers</key>
+	<string>Författare</string>
+	<key>Year</key>
+	<string>År</string>
+	<key>Year:</key>
+	<string>År:</string>
+	<key>album</key>
+	<string>album</string>
+	<key>artist</key>
+	<string>artist</string>
+	<key>daily</key>
+	<string>dagligen</string>
+	<key>episode</key>
+	<string>avsnitt</string>
+	<key>every 12 hours</key>
+	<string>var tolfte timme</string>
+	<key>every 15 minutes</key>
+	<string>varje kvart</string>
+	<key>every 2 hours</key>
+	<string>varannan timme</string>
+	<key>every 30 minutes</key>
+	<string>var 30:e minut</string>
+	<key>every 6 hours</key>
+	<string>var sjätte timme</string>
+	<key>hourly</key>
+	<string>varje timme</string>
+	<key>iPhoto Sharing Enabled</key>
+	<string>iPhoto-delning aktiverad</string>
+	<key>iTunes Sharing Enabled</key>
+	<string>iTunes-delning aktiverad</string>
+	<key>movie</key>
+	<string>film</string>
+	<key>no TV shows</key>
+	<string>inga TV-serier</string>
+	<key>no artists</key>
+	<string>inga artister</string>
+	<key>no episodes</key>
+	<string>inga avsnitt</string>
+	<key>no movies</key>
+	<string>inga filmer</string>
+	<key>no tracks</key>
+	<string>inga spår</string>
+	<key>season</key>
+	<string>säsong</string>
+	<key>show</key>
+	<string>serie</string>
+	<key>today</key>
+	<string>idag</string>
+	<key>tomorrow</key>
+	<string>imorgon</string>
+	<key>yesterday</key>
+	<string>igår</string>
+</dict>
+</plist>
