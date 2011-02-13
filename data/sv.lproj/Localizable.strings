@@ -43,7 +43,7 @@
 "1 TV show" = "1 TV-serie";
 
 /* First-run help item */
-"> Add posters, custom genres and more" = "> Lägg till omslag, genrer och mer";
+"> Add posters, custom genres and more" = "> Lägg till omslag, genrer med mera";
 
 /* First-run help item */
 "> Album reviews" = "> Albumrecensioner";
@@ -58,7 +58,7 @@
 "> Customize every detail of each movie" = "> Anpassa varje detalj för varje film";
 
 /* First-run help item */
-"> Great for your personal media" = "> Toppen till din personliga media";
+"> Great for your personal media" = "> Perfekt till dina personliga minnen";
 
 /* First-run help item */
 "> Movie posters and art" = "> Filmomslag och konstverk";
@@ -67,7 +67,7 @@
 "> Organize movies into collections" = "> Organisera filmer i samlingar";
 
 /* First-run help item */
-"> Thumbnails for every episode" = "> Tumnaglar för varje avsnitt";
+"> Thumbnails for every episode" = "> Miniatyrer för varje avsnitt";
 
 /* First-run help item */
 "> TV show posters and art" = "> TV-serieomslag och konstverk";
@@ -250,7 +250,7 @@
 "Library" = "Bibliotek";
 
 /* Sidebar group title for library sections */
-"LIBRARY SECTIONS" = "BIBLIOTEKSSEKTIIONER";
+"LIBRARY SECTIONS" = "BIBLIOTEKSSEKTIONER";
 
 /* Metadata item status message when its data is importing */
 "Loading metadata for '%@'" = "Laddar metadata för '%@'";
