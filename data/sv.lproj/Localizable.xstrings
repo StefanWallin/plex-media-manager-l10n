@@ -31,7 +31,7 @@
 	<key>1 track, %@ total time, %@</key>
 	<string>1 spår, %1$@ total tid, %2$@</string>
 	<key>&gt; Add posters, custom genres and more</key>
-	<string>&gt; Lägg till omslag, genrer och mer</string>
+	<string>&gt; Lägg till omslag, genrer med mera</string>
 	<key>&gt; Album reviews</key>
 	<string>&gt; Albumrecensioner</string>
 	<key>&gt; Artist biographies and artwork</key>
@@ -41,7 +41,7 @@
 	<key>&gt; Customize every detail of each movie</key>
 	<string>&gt; Anpassa varje detalj för varje film</string>
 	<key>&gt; Great for your personal media</key>
-	<string>&gt; Toppen till din personliga media</string>
+	<string>&gt; Perfekt till dina personliga minnen</string>
 	<key>&gt; Movie posters and art</key>
 	<string>&gt; Filmomslag och konstverk</string>
 	<key>&gt; Organize movies into collections</key>
@@ -49,7 +49,7 @@
 	<key>&gt; TV show posters and art</key>
 	<string>&gt; TV-serieomslag och konstverk</string>
 	<key>&gt; Thumbnails for every episode</key>
-	<string>&gt; Tumnaglar för varje avsnitt</string>
+	<string>&gt; Miniatyrer för varje avsnitt</string>
 	<key>AM</key>
 	<string>AM</string>
 	<key>Add Home Movies Section</key>
@@ -141,7 +141,7 @@ Are you sure it's running?</key>
 	<key>Include music sections in automatic updates</key>
 	<string>Inkludera musiksektioner i automatiska uppdateringar</string>
 	<key>LIBRARY SECTIONS</key>
-	<string>BIBLIOTEKSSEKTIIONER</string>
+	<string>BIBLIOTEKSSEKTIONER</string>
 	<key>Language:</key>
 	<string>Språk:</string>
 	<key>Large music sections may take a long time to scan</key>
