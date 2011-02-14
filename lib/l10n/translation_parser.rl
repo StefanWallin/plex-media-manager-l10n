@@ -18,13 +18,13 @@ require 'l10n/translation_list'
   newline = '\n' @{ line += 1 };
   whitespace = [ \t];
 
-  comment = '/*' (any | newline)* '*/';
+  comment = '/*' (('*' [^/]) | [^*] | newline)* '*/';
   quotedString = '"' ('\\"' | [^"])* '"';
   translation = comment >start_comment %end_comment newline
                 quotedString >start_original %end_original whitespace* '=' whitespace*
                 quotedString >start_translated %end_translated ';' whitespace*;
 
-  main := (translation %record_translation newline+)* newline*;
+  main := (translation %record_translation whitespace* (newline whitespace*)+)* (newline | whitespace)*;
 }%%
 
 module L10n
