@@ -13,7 +13,7 @@ Occasionally new strings (or changed strings) will appear as the user interface 
 
 This first step adds the new strings to the French language file, but leaves the translation in English. Next, edit `data/fr.lproj/Localizable.strings` in your favorite text editor to provide the translations for the untranslated strings:
 
-    `"Tasty Burger" = "Burger Savoureux";`
+    "Tasty Burger" = "Burger Savoureux";
 
 Build the matching `.xstrings` file:
 
