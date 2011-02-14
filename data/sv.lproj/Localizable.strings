@@ -306,14 +306,14 @@
 /* Status for list of episodes when there are none
    Subtitle for a season thumbnail on a TV Show detail view */
 "no episodes" = "inga avsnitt";
-              
+
 /* Status label valu  e for when there are no movies */
 "no movies" = "inga filmer";
-              
+
 /* Status label for   when there are no tracks in an album
    Subtitle for a al  bum thumbnail on an artist detail view */
 "no tracks" = "inga spår";
-              
+
 /* Status label valu  e when there are no TV shows */
 "no TV shows" = "inga TV-serier";
 
