@@ -47,6 +47,10 @@ module L10n
       dup.sort!
     end
 
+    def size
+      @translations.size
+    end
+
     def dup
       self.class.new(@translations.map {|t| t.dup })
     end

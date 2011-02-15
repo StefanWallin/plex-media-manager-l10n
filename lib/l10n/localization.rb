@@ -1,5 +1,5 @@
 require 'pathname'
-require 'l10n/translation_list'
+require 'l10n/translation_parser'
 
 module L10n
   class Localization
