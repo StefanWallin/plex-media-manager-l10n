@@ -253,16 +253,16 @@
 "LIBRARY SECTIONS" = "라이브러리 섹션";
 
 /* Metadata item status message when its data is importing */
-"Loading metadata for '%@'" = "Loading metadata for '%@'";
+"Loading metadata for '%@'" = "%@' 메타데이터 로딩중";
 
 /* Button text for the directory browser to allow the user to type in a path manually */
-"Manual Entry" = "Manual Entry";
+"Manual Entry" = "직접 입력";
 
 /* Metadata item status message when it is being matched to a canonical item */
-"Matching '%@'" = "Matching '%@'";
+"Matching '%@'" = "'%@' 매칭중";
 
 /* Metadata item status message when it is being read */
-"Media analysis on '%@'" = "Media analysis on '%@'";
+"Media analysis on '%@'" = "'%@' 미디어 분석";
 
 /* Label for the path to the file whose match is being fixed */
 "Media file: " = "파일 위치: ";
@@ -327,7 +327,7 @@
 "Originally Available" = "개봉(첫방송)일";
 
 /* Instruction text for the prompt to add directories manually */
-"Path of the directory you'd like to add:" = "Path of the directory you'd like to add:";
+"Path of the directory you'd like to add:" = "추가하고자 하는 디렉토리 경로:";
 
 /* Header title */
 "PLEX MEDIA MANAGER" = "PLEX 미디어 매니저";
@@ -360,7 +360,7 @@
 "Remove Section" = "섹션 삭제";
 
 /* Metadata item status message when its info is downloading */
-"Requesting metadata for '%@'" = "Requesting metadata for '%@'";
+"Requesting metadata for '%@'" = "'%@' 메타데이터 요청중";
 
 /* Saturday */
 "Saturday" = "토요일";
@@ -369,7 +369,7 @@
 "Save" = "저장";
 
 /* Metadata item status message when it is newly scanned/created */
-"Scanning '%@'" = "Scanning '%@'";
+"Scanning '%@'" = "'%@' 스캔중";
 
 /* Search */
 "Search" = "검색";

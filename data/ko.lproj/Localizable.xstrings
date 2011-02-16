@@ -151,13 +151,13 @@ Plex Media Server가 실행 중인지 확인하세요.</string>
 	<key>Library</key>
 	<string>라이브러리</string>
 	<key>Loading metadata for '%@'</key>
-	<string>Loading metadata for '%@'</string>
+	<string>%@' 메타데이터 로딩중</string>
 	<key>Manual Entry</key>
-	<string>Manual Entry</string>
+	<string>직접 입력</string>
 	<key>Matching '%@'</key>
-	<string>Matching '%@'</string>
+	<string>'%@' 매칭중</string>
 	<key>Media analysis on '%@'</key>
-	<string>Media analysis on '%@'</string>
+	<string>'%@' 미디어 분석</string>
 	<key>Media file: </key>
 	<string>파일 위치: </string>
 	<key>Media scanner:</key>
@@ -191,7 +191,7 @@ Plex Media Server가 실행 중인지 확인하세요.</string>
 	<key>PM</key>
 	<string>PM</string>
 	<key>Path of the directory you'd like to add:</key>
-	<string>Path of the directory you'd like to add:</string>
+	<string>추가하고자 하는 디렉토리 경로:</string>
 	<key>Primary metadata agent:</key>
 	<string>메타데이터 에이전트:</string>
 	<key>Rating</key>
@@ -209,13 +209,13 @@ Plex Media Server가 실행 중인지 확인하세요.</string>
 	<key>Remove Section</key>
 	<string>섹션 삭제</string>
 	<key>Requesting metadata for '%@'</key>
-	<string>Requesting metadata for '%@'</string>
+	<string>'%@' 메타데이터 요청중</string>
 	<key>Saturday</key>
 	<string>토요일</string>
 	<key>Save</key>
 	<string>저장</string>
 	<key>Scanning '%@'</key>
-	<string>Scanning '%@'</string>
+	<string>'%@' 스캔중</string>
 	<key>Search</key>
 	<string>검색</string>
 	<key>Search using:</key>
