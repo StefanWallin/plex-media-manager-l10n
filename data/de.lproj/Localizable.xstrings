@@ -117,7 +117,7 @@ Stellen Sie sicher, dass der Server läuft.</string>
 	<key>Done</key>
 	<string>Fertig</string>
 	<key>Drag folders into the list, or click the '+' button to browse.</key>
-	<string>Ziehen Sie Ordner in die Liste, oder nutzen Sie den '+' Knopf.</string>
+	<string>Ziehen Sie Ordner in die Liste oder nutzen Sie den '+' Knopf.</string>
 	<key>Edit Metadata</key>
 	<string>Metadaten bearbeiten</string>
 	<key>Edit Section</key>
@@ -139,7 +139,7 @@ Stellen Sie sicher, dass der Server läuft.</string>
 	<key>Got this error: %@. Are you sure Plex Media Server is running?</key>
 	<string>Fehler: %@. Stellen Sie sicher, dass der Plex Media Server läuft.</string>
 	<key>Include music sections in automatic updates</key>
-	<string>Musikbereich in automatische Updates mit einbeziehen</string>
+	<string>Musikbereich in automatische Updates einbeziehen</string>
 	<key>LIBRARY SECTIONS</key>
 	<string>BIBLIOTHEK SEKTIONEN</string>
 	<key>Language:</key>
@@ -181,7 +181,7 @@ Stellen Sie sicher, dass der Server läuft.</string>
 	<key>Name:</key>
 	<string>Name:</string>
 	<key>Offer higher bitrates over 3G connections</key>
-	<string>Höhere Datenraten über 3G-Verbindungen Anbieten.</string>
+	<string>Höhere Datenraten über 3G-Verbindungen anbieten.</string>
 	<key>Original Title</key>
 	<string>Originaltitel</string>
 	<key>Originally Available</key>
@@ -265,7 +265,7 @@ Stellen Sie sicher, dass der Server läuft.</string>
 	<key>This helps us improve your experience (for example, to help us match movies and TV shows).</key>
 	<string>Damit helfen Sie uns, Plex und das Plex-Benutzererlebnis zu Verbessern (z.B. Bessere Erkennung von Serien und Filmen).</string>
 	<key>This name will be used to identify this media server to other computers on your network. If you leave it blank, your computer's name will be used instead.</key>
-	<string>Dieser Name wird verwendet, um den Server in Ihrem Netzwerk eindeutig zu Identifizieren. Wenn Sie das Feld leer lassen, wird Ihr Computername verwendet.</string>
+	<string>Dieser Name wird verwendet, um den Server in Ihrem Netzwerk eindeutig zu identifizieren. Wenn Sie das Feld leer lassen, wird Ihr Computername verwendet.</string>
 	<key>This site does not support Internet Explorer. For the best experience, click here to install Google Chrome Frame.</key>
 	<string>Diese Seite funktioniert nicht mit Microsoft Internet Explorer. Klicken Sie hier, um Google Chrome Frame zu installieren.</string>
 	<key>Thursday</key>

@@ -175,7 +175,7 @@
 "Done" = "Fertig";
 
 /* Section settings secondary informative text */
-"Drag folders into the list, or click the '+' button to browse." = "Ziehen Sie Ordner in die Liste, oder nutzen Sie den '+' Knopf.";
+"Drag folders into the list, or click the '+' button to browse." = "Ziehen Sie Ordner in die Liste oder nutzen Sie den '+' Knopf.";
 
 /* Edit Metadata */
 "Edit Metadata" = "Metadaten bearbeiten";
@@ -229,7 +229,7 @@
 "hourly" = "Stündlich";
 
 /* Preference window setting */
-"Include music sections in automatic updates" = "Musikbereich in automatische Updates mit einbeziehen";
+"Include music sections in automatic updates" = "Musikbereich in automatische Updates einbeziehen";
 
 /* Preference window setting */
 "iPhoto Sharing Enabled" = "iPhoto Freigabe aktivieren";
@@ -318,7 +318,7 @@
 "no TV shows" = "keine Serien";
 
 /* Preference window setting */
-"Offer higher bitrates over 3G connections" = "Höhere Datenraten über 3G-Verbindungen Anbieten.";
+"Offer higher bitrates over 3G connections" = "Höhere Datenraten über 3G-Verbindungen anbieten.";
 
 /* Original Title */
 "Original Title" = "Originaltitel";
@@ -447,7 +447,7 @@
 "This helps us improve your experience (for example, to help us match movies and TV shows)." = "Damit helfen Sie uns, Plex und das Plex-Benutzererlebnis zu Verbessern (z.B. Bessere Erkennung von Serien und Filmen).";
 
 /* Summary info for friendly name */
-"This name will be used to identify this media server to other computers on your network. If you leave it blank, your computer's name will be used instead." = "Dieser Name wird verwendet, um den Server in Ihrem Netzwerk eindeutig zu Identifizieren. Wenn Sie das Feld leer lassen, wird Ihr Computername verwendet.";
+"This name will be used to identify this media server to other computers on your network. If you leave it blank, your computer's name will be used instead." = "Dieser Name wird verwendet, um den Server in Ihrem Netzwerk eindeutig zu identifizieren. Wenn Sie das Feld leer lassen, wird Ihr Computername verwendet.";
 
 /* Warning for IE users */
 "This site does not support Internet Explorer. For the best experience, click here to install Google Chrome Frame." = "Diese Seite funktioniert nicht mit Microsoft Internet Explorer. Klicken Sie hier, um Google Chrome Frame zu installieren.";
