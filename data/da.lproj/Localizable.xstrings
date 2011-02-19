@@ -152,6 +152,8 @@ Er du sikker på at den er startet?</string>
 	<string>Bibliotek</string>
 	<key>Loading metadata for '%@'</key>
 	<string>Henter metadata for '%@'</string>
+	<key>MEDIA MANAGER</key>
+	<string>MEDIA MANAGER</string>
 	<key>Manual Entry</key>
 	<string>Manuel indtastning</string>
 	<key>Matching '%@'</key>
@@ -186,12 +188,12 @@ Er du sikker på at den er startet?</string>
 	<string>Original Titel</string>
 	<key>Originally Available</key>
 	<string>Oprindeligt tilgængelig</string>
-	<key>PLEX MEDIA MANAGER</key>
-	<string>PLEX MEDIA MANAGER</string>
 	<key>PM</key>
 	<string>PM</string>
 	<key>Path of the directory you'd like to add:</key>
 	<string>Sti i den mappe du gerne vil tilføje:</string>
+	<key>Preferences</key>
+	<string>Indstillinger</string>
 	<key>Primary metadata agent:</key>
 	<string>Primær metadata agent:</string>
 	<key>Rating</key>
@@ -244,8 +246,6 @@ Er du sikker på at den er startet?</string>
 	<string>Vælg den rigtige film fra listen nedenfor:</string>
 	<key>Send anonymous usage data to Plex</key>
 	<string>Send anonyme brugerdata til Plex</string>
-	<key>Settings</key>
-	<string>Indstillinger</string>
 	<key>Sharing</key>
 	<string>Deling</string>
 	<key>Show</key>

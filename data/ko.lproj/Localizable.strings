@@ -267,6 +267,9 @@
 /* Label for the path to the file whose match is being fixed */
 "Media file: " = "파일 위치: ";
 
+/* Header title */
+"MEDIA MANAGER" = "MEDIA MANAGER";
+
 /* Media scanner label */
 "Media scanner:" = "미디어 스캐너:";
 
@@ -329,11 +332,11 @@
 /* Instruction text for the prompt to add directories manually */
 "Path of the directory you'd like to add:" = "추가하고자 하는 디렉토리 경로:";
 
-/* Header title */
-"PLEX MEDIA MANAGER" = "PLEX 미디어 매니저";
-
 /* PostMeridiem */
 "PM" = "PM";
+
+/* Preferences button in top-right */
+"Preferences" = "설정";
 
 /* Primary metadata agent label */
 "Primary metadata agent:" = "메타데이터 에이전트:";
@@ -415,9 +418,6 @@
 
 /* Send anonymous usage data to Plex */
 "Send anonymous usage data to Plex" = "Plex에 익명으로 사용 정보를 보냅니다.";
-
-/* Settings button at the top-right */
-"Settings" = "설정";
 
 /* Sharing */
 "Sharing" = "공유";

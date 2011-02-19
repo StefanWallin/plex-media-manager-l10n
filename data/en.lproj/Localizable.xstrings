@@ -152,6 +152,8 @@ Are you sure it's running?</string>
 	<string>Library</string>
 	<key>Loading metadata for '%@'</key>
 	<string>Loading metadata for '%@'</string>
+	<key>MEDIA MANAGER</key>
+	<string>MEDIA MANAGER</string>
 	<key>Manual Entry</key>
 	<string>Manual Entry</string>
 	<key>Matching '%@'</key>
@@ -186,12 +188,12 @@ Are you sure it's running?</string>
 	<string>Original Title</string>
 	<key>Originally Available</key>
 	<string>Originally Available</string>
-	<key>PLEX MEDIA MANAGER</key>
-	<string>PLEX MEDIA MANAGER</string>
 	<key>PM</key>
 	<string>PM</string>
 	<key>Path of the directory you'd like to add:</key>
 	<string>Path of the directory you'd like to add:</string>
+	<key>Preferences</key>
+	<string>Preferences</string>
 	<key>Primary metadata agent:</key>
 	<string>Primary metadata agent:</string>
 	<key>Rating</key>
@@ -244,8 +246,6 @@ Are you sure it's running?</string>
 	<string>Select the correct movie from the list below:</string>
 	<key>Send anonymous usage data to Plex</key>
 	<string>Send anonymous usage data to Plex</string>
-	<key>Settings</key>
-	<string>Settings</string>
 	<key>Sharing</key>
 	<string>Sharing</string>
 	<key>Show</key>

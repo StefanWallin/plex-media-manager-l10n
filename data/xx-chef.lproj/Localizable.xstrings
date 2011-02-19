@@ -152,6 +152,8 @@ Are yuoo soore-a it's roonneeng?</string>
 	<string>Leebrery</string>
 	<key>Loading metadata for '%@'</key>
 	<string>Luedeeng metedeta fur '%@'</string>
+	<key>MEDIA MANAGER</key>
+	<string>MEDIA MENEGER</string>
 	<key>Manual Entry</key>
 	<string>Munooel Intry</string>
 	<key>Matching '%@'</key>
@@ -186,12 +188,12 @@ Are yuoo soore-a it's roonneeng?</string>
 	<string>Oreeginel Teetle-a</string>
 	<key>Originally Available</key>
 	<string>Oreeginelly Efeeeleble-a</string>
-	<key>PLEX MEDIA MANAGER</key>
-	<string>PLEX MEDIA MENEGER</string>
 	<key>PM</key>
 	<string>PM</string>
 	<key>Path of the directory you'd like to add:</key>
 	<string>Pet ooff zee durectury yuoo'd leeke-a tu edd:</string>
+	<key>Preferences</key>
+	<string>Prefferences</string>
 	<key>Primary metadata agent:</key>
 	<string>Preemery metedeta egent:</string>
 	<key>Rating</key>
@@ -244,8 +246,6 @@ Are yuoo soore-a it's roonneeng?</string>
 	<string>Select zee currect mufeee-a frum zee leest beloo:</string>
 	<key>Send anonymous usage data to Plex</key>
 	<string>Send ununymuoos usege-a deta tu Plex</string>
-	<key>Settings</key>
-	<string>Setteengs</string>
 	<key>Sharing</key>
 	<string>Shereeng</string>
 	<key>Show</key>

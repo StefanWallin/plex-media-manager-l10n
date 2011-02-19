@@ -150,6 +150,8 @@ Are you sure it's running?</key>
 	<string>Library</string>
 	<key>Loading metadata for '%@'</key>
 	<string>Plundering infos for '%@'</string>
+	<key>MEDIA MANAGER</key>
+	<string>BOOTY KEEPER</string>
 	<key>Manual Entry</key>
 	<string>Take the wheel</string>
 	<key>Matching '%@'</key>
@@ -184,12 +186,12 @@ Are you sure it's running?</key>
 	<string>What 'twas called</string>
 	<key>Originally Available</key>
 	<string>When 'twas known</string>
-	<key>PLEX MEDIA MANAGER</key>
-	<string>PLEX BOOTY MANAGER</string>
 	<key>PM</key>
 	<string>o' the eve</string>
 	<key>Path of the directory you'd like to add:</key>
 	<string>Where d'ye keep yer booty, matey?</string>
+	<key>Preferences</key>
+	<string>Dock</string>
 	<key>Primary metadata agent:</key>
 	<string>First mate:</string>
 	<key>Rating</key>
@@ -242,8 +244,6 @@ Are you sure it's running?</key>
 	<string>Appoint the long story being the most true:</string>
 	<key>Send anonymous usage data to Plex</key>
 	<string>Let yet usage be known, but not who ye are</string>
-	<key>Settings</key>
-	<string>Dock</string>
 	<key>Sharing</key>
 	<string>Divvy</string>
 	<key>Show</key>

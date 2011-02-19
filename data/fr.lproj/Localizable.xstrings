@@ -152,6 +152,8 @@ Le Serveur est-il disponible?</string>
 	<string>Librairie</string>
 	<key>Loading metadata for '%@'</key>
 	<string>Chargement metadata pour '%@'</string>
+	<key>MEDIA MANAGER</key>
+	<string>MEDIA MANAGER</string>
 	<key>Manual Entry</key>
 	<string>Saisie Manuelle</string>
 	<key>Matching '%@'</key>
@@ -186,12 +188,12 @@ Le Serveur est-il disponible?</string>
 	<string>Titre Original</string>
 	<key>Originally Available</key>
 	<string>Disponible Originellement</string>
-	<key>PLEX MEDIA MANAGER</key>
-	<string>PLEX MEDIA MANAGER</string>
 	<key>PM</key>
 	<string>PM</string>
 	<key>Path of the directory you'd like to add:</key>
 	<string>Chemin du répertoire que vous souhaitez ajouter:</string>
+	<key>Preferences</key>
+	<string>Paramètres</string>
 	<key>Primary metadata agent:</key>
 	<string>Agent metadata prioritaire:</string>
 	<key>Rating</key>
@@ -244,8 +246,6 @@ Le Serveur est-il disponible?</string>
 	<string>Sélectionnez le film recherché dans la liste ci-dessous:</string>
 	<key>Send anonymous usage data to Plex</key>
 	<string>Envoi anonyme des données d'utilisations a Plex</string>
-	<key>Settings</key>
-	<string>Paramètres</string>
 	<key>Sharing</key>
 	<string>Partage</string>
 	<key>Show</key>

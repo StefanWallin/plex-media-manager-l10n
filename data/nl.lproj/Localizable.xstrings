@@ -152,6 +152,8 @@ Weet je zeker dat PMS aan staat?</string>
 	<string>Bibliotheek</string>
 	<key>Loading metadata for '%@'</key>
 	<string>Laden van metadata voor '%@'</string>
+	<key>MEDIA MANAGER</key>
+	<string>MEDIA MANAGER</string>
 	<key>Manual Entry</key>
 	<string>Handmatige invoer</string>
 	<key>Matching '%@'</key>
@@ -186,12 +188,12 @@ Weet je zeker dat PMS aan staat?</string>
 	<string>Originele Titel</string>
 	<key>Originally Available</key>
 	<string>Originally Available</string>
-	<key>PLEX MEDIA MANAGER</key>
-	<string>PLEX MEDIA MANAGER</string>
 	<key>PM</key>
 	<string>PM</string>
 	<key>Path of the directory you'd like to add:</key>
 	<string>Pad van de directory die je wilt toevoegen:</string>
+	<key>Preferences</key>
+	<string>Instellingen</string>
 	<key>Primary metadata agent:</key>
 	<string>Primaire metadata agent:</string>
 	<key>Rating</key>
@@ -244,8 +246,6 @@ Weet je zeker dat PMS aan staat?</string>
 	<string>Selecteer de juiste film uit onderstaande lijst:</string>
 	<key>Send anonymous usage data to Plex</key>
 	<string>Stuur anonieme gebruikersdata naar Plex</string>
-	<key>Settings</key>
-	<string>Instellingen</string>
 	<key>Sharing</key>
 	<string>Delen</string>
 	<key>Show</key>

@@ -267,6 +267,9 @@
 /* Label for the path to the file whose match is being fixed */
 "Media file: " = "Medeea feele-a: ";
 
+/* Header title */
+"MEDIA MANAGER" = "MEDIA MENEGER";
+
 /* Media scanner label */
 "Media scanner:" = "Medeea scunner:";
 
@@ -329,11 +332,11 @@
 /* Instruction text for the prompt to add directories manually */
 "Path of the directory you'd like to add:" = "Pet ooff zee durectury yuoo'd leeke-a tu edd:";
 
-/* Header title */
-"PLEX MEDIA MANAGER" = "PLEX MEDIA MENEGER";
-
 /* PostMeridiem */
 "PM" = "PM";
+
+/* Preferences button in top-right */
+"Preferences" = "Prefferences";
 
 /* Primary metadata agent label */
 "Primary metadata agent:" = "Preemery metedeta egent:";
@@ -415,9 +418,6 @@
 
 /* Send anonymous usage data to Plex */
 "Send anonymous usage data to Plex" = "Send ununymuoos usege-a deta tu Plex";
-
-/* Settings button at the top-right */
-"Settings" = "Setteengs";
 
 /* Sharing */
 "Sharing" = "Shereeng";

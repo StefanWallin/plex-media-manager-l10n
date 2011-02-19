@@ -152,6 +152,8 @@ Stellen Sie sicher, dass der Server läuft.</string>
 	<string>Bibliothek</string>
 	<key>Loading metadata for '%@'</key>
 	<string>Lade Metadaten für '%@'</string>
+	<key>MEDIA MANAGER</key>
+	<string>MEDIA MANAGER</string>
 	<key>Manual Entry</key>
 	<string>Manueller Eintrag</string>
 	<key>Matching '%@'</key>
@@ -186,12 +188,12 @@ Stellen Sie sicher, dass der Server läuft.</string>
 	<string>Originaltitel</string>
 	<key>Originally Available</key>
 	<string>Erscheinungsdatum</string>
-	<key>PLEX MEDIA MANAGER</key>
-	<string>PLEX MEDIA MANAGER</string>
 	<key>PM</key>
 	<string>PM</string>
 	<key>Path of the directory you'd like to add:</key>
 	<string>Pfad des hinzuzufügenden Ordners:</string>
+	<key>Preferences</key>
+	<string>Einstellungen</string>
 	<key>Primary metadata agent:</key>
 	<string>Primärer Metadaten Agent:</string>
 	<key>Rating</key>
@@ -244,8 +246,6 @@ Stellen Sie sicher, dass der Server läuft.</string>
 	<string>Wählen Sie den gewünschten Film aus der folgenden Liste:</string>
 	<key>Send anonymous usage data to Plex</key>
 	<string>Anonyme Benutzungsdaten an Plex senden</string>
-	<key>Settings</key>
-	<string>Einstellungen</string>
 	<key>Sharing</key>
 	<string>Freigabe</string>
 	<key>Show</key>

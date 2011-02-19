@@ -152,6 +152,8 @@ Sei sicuro che sia in funzione?</string>
 	<string>Libreria</string>
 	<key>Loading metadata for '%@'</key>
 	<string>Caricando i metadata per '%@'</string>
+	<key>MEDIA MANAGER</key>
+	<string>MEDIA MANAGER</string>
 	<key>Manual Entry</key>
 	<string>Inserimento manuale</string>
 	<key>Matching '%@'</key>
@@ -186,12 +188,12 @@ Sei sicuro che sia in funzione?</string>
 	<string>Titolo originale</string>
 	<key>Originally Available</key>
 	<string>Originariamente disponibile</string>
-	<key>PLEX MEDIA MANAGER</key>
-	<string>PLEX MEDIA MANAGER</string>
 	<key>PM</key>
 	<string>PM</string>
 	<key>Path of the directory you'd like to add:</key>
 	<string>Percorso della cartella che vorresti aggiungere:</string>
+	<key>Preferences</key>
+	<string>Impostazioni</string>
 	<key>Primary metadata agent:</key>
 	<string>Agente metadata primario:</string>
 	<key>Rating</key>
@@ -244,8 +246,6 @@ Sei sicuro che sia in funzione?</string>
 	<string>Seleziona il film corretto dalla lista seguente:</string>
 	<key>Send anonymous usage data to Plex</key>
 	<string>Manda dati relativi all'uso di Plex in via anonima</string>
-	<key>Settings</key>
-	<string>Impostazioni</string>
 	<key>Sharing</key>
 	<string>Condivisione</string>
 	<key>Show</key>

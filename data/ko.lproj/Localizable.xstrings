@@ -152,6 +152,8 @@ Plex Media Server가 실행 중인지 확인하세요.</string>
 	<string>라이브러리</string>
 	<key>Loading metadata for '%@'</key>
 	<string>%@' 메타데이터 로딩중</string>
+	<key>MEDIA MANAGER</key>
+	<string>MEDIA MANAGER</string>
 	<key>Manual Entry</key>
 	<string>직접 입력</string>
 	<key>Matching '%@'</key>
@@ -186,12 +188,12 @@ Plex Media Server가 실행 중인지 확인하세요.</string>
 	<string>원제</string>
 	<key>Originally Available</key>
 	<string>개봉(첫방송)일</string>
-	<key>PLEX MEDIA MANAGER</key>
-	<string>PLEX 미디어 매니저</string>
 	<key>PM</key>
 	<string>PM</string>
 	<key>Path of the directory you'd like to add:</key>
 	<string>추가하고자 하는 디렉토리 경로:</string>
+	<key>Preferences</key>
+	<string>설정</string>
 	<key>Primary metadata agent:</key>
 	<string>메타데이터 에이전트:</string>
 	<key>Rating</key>
@@ -244,8 +246,6 @@ Plex Media Server가 실행 중인지 확인하세요.</string>
 	<string>다음 목록에서 일치하는 영화를 선택하세요:</string>
 	<key>Send anonymous usage data to Plex</key>
 	<string>Plex에 익명으로 사용 정보를 보냅니다.</string>
-	<key>Settings</key>
-	<string>설정</string>
 	<key>Sharing</key>
 	<string>공유</string>
 	<key>Show</key>

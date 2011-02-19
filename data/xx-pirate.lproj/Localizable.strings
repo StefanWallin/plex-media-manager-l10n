@@ -267,6 +267,9 @@
 /* Label for the path to the file whose match is being fixed */
 "Media file: " = "X marks it: ";
 
+/* Header title */
+"MEDIA MANAGER" = "BOOTY KEEPER";
+
 /* Media scanner label */
 "Media scanner:" = "Booty monkey:";
 
@@ -329,11 +332,11 @@
 /* Instruction text for the prompt to add directories manually */
 "Path of the directory you'd like to add:" = "Where d'ye keep yer booty, matey?";
 
-/* Header title */
-"PLEX MEDIA MANAGER" = "PLEX BOOTY MANAGER";
-
 /* PostMeridiem */
 "PM" = "o' the eve";
+
+/* Preferences button in top-right */
+"Preferences" = "Dock";
 
 /* Primary metadata agent label */
 "Primary metadata agent:" = "First mate:";
@@ -415,9 +418,6 @@
 
 /* Send anonymous usage data to Plex */
 "Send anonymous usage data to Plex" = "Let yet usage be known, but not who ye are";
-
-/* Settings button at the top-right */
-"Settings" = "Dock";
 
 /* Sharing */
 "Sharing" = "Divvy";

@@ -267,6 +267,9 @@
 /* Label for the path to the file whose match is being fixed */
 "Media file: " = "Mediendatei: ";
 
+/* Header title */
+"MEDIA MANAGER" = "MEDIA MANAGER";
+
 /* Media scanner label */
 "Media scanner:" = "Medienscanner:";
 
@@ -329,11 +332,11 @@
 /* Instruction text for the prompt to add directories manually */
 "Path of the directory you'd like to add:" = "Pfad des hinzuzufügenden Ordners:";
 
-/* Header title */
-"PLEX MEDIA MANAGER" = "PLEX MEDIA MANAGER";
-
 /* PostMeridiem */
 "PM" = "PM";
+
+/* Preferences button in top-right */
+"Preferences" = "Einstellungen";
 
 /* Primary metadata agent label */
 "Primary metadata agent:" = "Primärer Metadaten Agent:";
@@ -415,9 +418,6 @@
 
 /* Send anonymous usage data to Plex */
 "Send anonymous usage data to Plex" = "Anonyme Benutzungsdaten an Plex senden";
-
-/* Settings button at the top-right */
-"Settings" = "Einstellungen";
 
 /* Sharing */
 "Sharing" = "Freigabe";
