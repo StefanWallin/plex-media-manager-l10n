@@ -1,0 +1,28 @@
+#!/usr/bin/env ruby
+
+original = ARGV[0]
+renamed  = ARGV[1]
+
+if original.nil? || renamed.nil?
+  abort <<-EOS
+usage: #{$0} "<original string>" "<new string>"
+
+<original string>  The old untranslated value.
+<new string>       The new untranslated value.
+
+This script renames the original untranslated value
+while preserving the translations.
+EOS
+end
+
+require File.expand_path('../../lib/l10n', __FILE__)
+require 'l10n/ui'
+
+L10n::Localization.all.each do |localization|
+  if translation = localization.data[original]
+    L10n::UI.status "Updating #{localization.code}"
+    translation.original = renamed
+    localization.data.sort!
+    localization.write
+  end
+end
