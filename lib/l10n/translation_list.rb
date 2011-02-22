@@ -9,7 +9,12 @@ module L10n
     end
 
     def [](index)
-      @translations[index]
+      case index
+      when String
+        find {|t| t.original == index }
+      else
+        @translations[index]
+      end
     end
 
     def <<(translation)
