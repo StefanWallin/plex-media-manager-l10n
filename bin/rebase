@@ -30,6 +30,8 @@ target.data.each do |ttranslation|
     puts %{~ rebase #{code}: Removing stale translation: "#{ttranslation.original}"}
     target.data.delete(ttranslation)
     removed << ttranslation
+  else
+    ttranslation.comment = source.data[ttranslation.original].comment
   end
 end
 
