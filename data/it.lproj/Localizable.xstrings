@@ -120,6 +120,8 @@ Sei sicuro che sia in funzione?</string>
 	<string>Trascina cartelle nella lista, o clicca il bottone '+' per sfogliare.</string>
 	<key>Edit Metadata</key>
 	<string>Modifica Metadata</string>
+	<key>Edit Metadata...</key>
+	<string>Modifica Metadata...</string>
 	<key>Edit Section</key>
 	<string>Modifica Sezione</string>
 	<key>Episode %d: %@</key>
@@ -198,7 +200,7 @@ Sei sicuro che sia in funzione?</string>
 	<string>Agente metadata primario:</string>
 	<key>Rating</key>
 	<string>Valutazione</string>
-	<key>Refresh Info</key>
+	<key>Refresh Metadata</key>
 	<string>Aggiorna informazioni</string>
 	<key>Refresh Section</key>
 	<string>Aggiorna Sezione</string>
@@ -284,6 +286,8 @@ Sei sicuro che sia in funzione?</string>
 	<string>Impossibile rimuovere la sezione "%@"</string>
 	<key>Unable to update library section</key>
 	<string>Impossibile aggionare le sezione della libreria</string>
+	<key>Unmatch</key>
+	<string>Unmatch</string>
 	<key>Update Section</key>
 	<string>Aggiorna Sezione</string>
 	<key>Update my library</key>

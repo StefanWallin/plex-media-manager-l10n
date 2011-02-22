@@ -120,6 +120,8 @@ Plex Media Server가 실행 중인지 확인하세요.</string>
 	<string>'+' 버튼을 클릭하여 폴더를 추가하세요.</string>
 	<key>Edit Metadata</key>
 	<string>메타데이터 편집</string>
+	<key>Edit Metadata...</key>
+	<string>메타데이터 편집...</string>
 	<key>Edit Section</key>
 	<string>섹션 편집</string>
 	<key>Episode %d: %@</key>
@@ -198,7 +200,7 @@ Plex Media Server가 실행 중인지 확인하세요.</string>
 	<string>메타데이터 에이전트:</string>
 	<key>Rating</key>
 	<string>평점</string>
-	<key>Refresh Info</key>
+	<key>Refresh Metadata</key>
 	<string>정보 새로고침</string>
 	<key>Refresh Section</key>
 	<string>섹션 새로고침</string>
@@ -284,6 +286,8 @@ Plex Media Server가 실행 중인지 확인하세요.</string>
 	<string>"%@" 섹션을 삭제할 수 없습니다.</string>
 	<key>Unable to update library section</key>
 	<string>라이브러리 섹션을 업데이트할 수 없습니다.</string>
+	<key>Unmatch</key>
+	<string>Unmatch</string>
 	<key>Update Section</key>
 	<string>섹션 업데이트</string>
 	<key>Update my library</key>

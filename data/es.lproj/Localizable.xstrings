@@ -120,6 +120,8 @@ Are you sure it's running?</key>
 	<string>Arrastre carpetas a la lista, o haga click en el botón '+' para explorar.</string>
 	<key>Edit Metadata</key>
 	<string>Editar Metadatos</string>
+	<key>Edit Metadata...</key>
+	<string>Editar Metadatos...</string>
 	<key>Edit Section</key>
 	<string>Editar Sección</string>
 	<key>Episode %d: %@</key>
@@ -198,7 +200,7 @@ Are you sure it's running?</key>
 	<string>Agente de metadatos principal:</string>
 	<key>Rating</key>
 	<string>Calificación</string>
-	<key>Refresh Info</key>
+	<key>Refresh Metadata</key>
 	<string>Refrescar Información</string>
 	<key>Refresh Section</key>
 	<string>Refrescar Sección</string>
@@ -284,6 +286,8 @@ Are you sure it's running?</key>
 	<string>Imposible eliminar la sección "%@"</string>
 	<key>Unable to update library section</key>
 	<string>Imposible actualizar la sección de la librería</string>
+	<key>Unmatch</key>
+	<string>Unmatch</string>
 	<key>Update Section</key>
 	<string>Actualizar Sección</string>
 	<key>Update my library</key>

@@ -180,6 +180,9 @@
 /* Edit Metadata */
 "Edit Metadata" = "Editar Metadatos";
 
+/* Context menu item for metadata items */
+"Edit Metadata..." = "Editar Metadatos...";
+
 /* Edit Section */
 "Edit Section" = "Editar Sección";
 
@@ -207,7 +210,7 @@
 /* Fix incorrect match */
 "Fix incorrect match" = "Corregir Correspondencia Incorrecta";
 
-/* Fix Incorrect Match... */
+/* Context menu item for metadata items */
 "Fix Incorrect Match..." = "Corregir Correspondencia Incorrecta...";
 
 /* Friday */
@@ -276,11 +279,11 @@
 /* Monday */
 "Monday" = "Lunes";
 
-/* Movie */
-"Movie" = "Película";
-
 /* A movie */
 "movie" = "película";
+
+/* Movie */
+"Movie" = "Película";
 
 /* Movies */
 "Movies" = "Películas";
@@ -344,8 +347,8 @@
 /* Rating */
 "Rating" = "Calificación";
 
-/* Refresh Info */
-"Refresh Info" = "Refrescar Información";
+/* Context menu item for metadata items */
+"Refresh Metadata" = "Refrescar Información";
 
 /* Refresh Section */
 "Refresh Section" = "Refrescar Sección";
@@ -484,6 +487,9 @@
 
 /* Unable to update library section */
 "Unable to update library section" = "Imposible actualizar la sección de la librería";
+
+/* Context menu item for metadata items */
+"Unmatch" = "Unmatch";
 
 /* Preference window setting - will have frequencies after it e.g. Update my library every two hours */
 "Update my library" = "Actualizar mi librería";

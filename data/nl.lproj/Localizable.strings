@@ -180,6 +180,9 @@
 /* Edit Metadata */
 "Edit Metadata" = "Bewerk Metadata";
 
+/* Context menu item for metadata items */
+"Edit Metadata..." = "Bewerk Metadata...";
+
 /* Edit Section */
 "Edit Section" = "Bewerk Sectie";
 
@@ -207,7 +210,7 @@
 /* Fix incorrect match */
 "Fix incorrect match" = "Corrigeer incorrecte match";
 
-/* Fix Incorrect Match... */
+/* Context menu item for metadata items */
 "Fix Incorrect Match..." = "Corrigeer Incorrecte Match...";
 
 /* Friday */
@@ -276,11 +279,11 @@
 /* Monday */
 "Monday" = "Maandag";
 
-/* Movie */
-"Movie" = "Film";
-
 /* A movie */
 "movie" = "film";
+
+/* Movie */
+"Movie" = "Film";
 
 /* Movies */
 "Movies" = "Films";
@@ -344,8 +347,8 @@
 /* Rating */
 "Rating" = "Waardering";
 
-/* Refresh Info */
-"Refresh Info" = "Ververs Info";
+/* Context menu item for metadata items */
+"Refresh Metadata" = "Ververs Info";
 
 /* Refresh Section */
 "Refresh Section" = "Ververs Sectie";
@@ -484,6 +487,9 @@
 
 /* Unable to update library section */
 "Unable to update library section" = "Kan de bibliotheeksectie niet bijwerken";
+
+/* Context menu item for metadata items */
+"Unmatch" = "Unmatch";
 
 /* Preference window setting - will have frequencies after it e.g. Update my library every two hours */
 "Update my library" = "Werk mijn bibliotheek bij";

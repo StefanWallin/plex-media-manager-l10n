@@ -120,6 +120,8 @@ Are yuoo soore-a it's roonneeng?</string>
 	<string>Dreg fulders intu zee leest, oor cleeck zee '+' boottun tu broose-a.</string>
 	<key>Edit Metadata</key>
 	<string>Edeet Metedeta</string>
+	<key>Edit Metadata...</key>
+	<string>Edeet Metedeta...</string>
 	<key>Edit Section</key>
 	<string>Edeet Secshun</string>
 	<key>Episode %d: %@</key>
@@ -198,8 +200,8 @@ Are yuoo soore-a it's roonneeng?</string>
 	<string>Preemery metedeta egent:</string>
 	<key>Rating</key>
 	<string>Reteeng</string>
-	<key>Refresh Info</key>
-	<string>Reffresh Inffu</string>
+	<key>Refresh Metadata</key>
+	<string>Reffresh Metedeta</string>
 	<key>Refresh Section</key>
 	<string>Reffresh Secshun</string>
 	<key>Refresh Section (force)</key>
@@ -284,6 +286,8 @@ Are yuoo soore-a it's roonneeng?</string>
 	<string>Uneble-a tu remufe-a secshun "%@"</string>
 	<key>Unable to update library section</key>
 	<string>Uneble-a tu updete-a leebrery secshun</string>
+	<key>Unmatch</key>
+	<string>Unmetch</string>
 	<key>Update Section</key>
 	<string>Updete-a Secshun</string>
 	<key>Update my library</key>

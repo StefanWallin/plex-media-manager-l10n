@@ -138,7 +138,7 @@
 /* Choose Icon */
 "Choose Icon" = "아이콘 변경";
 
-/* Choose Poster */
+/* Choose Poster menu item */
 "Choose Poster" = "포스터 변경";
 
 /* Choose Season Thumbnail menu item */
@@ -180,6 +180,9 @@
 /* Edit Metadata */
 "Edit Metadata" = "메타데이터 편집";
 
+/* Context menu item for metadata items */
+"Edit Metadata..." = "메타데이터 편집...";
+
 /* Edit Section */
 "Edit Section" = "섹션 편집";
 
@@ -207,7 +210,7 @@
 /* Fix incorrect match */
 "Fix incorrect match" = "메타데이터 재선택";
 
-/* Fix Incorrect Match... */
+/* Context menu item for metadata items */
 "Fix Incorrect Match..." = "메타데이터 재선택...";
 
 /* Friday */
@@ -276,11 +279,11 @@
 /* Monday */
 "Monday" = "월요일";
 
-/* Movie */
-"Movie" = "영화";
-
 /* A movie */
 "movie" = "영화";
+
+/* Movie */
+"Movie" = "영화";
 
 /* Movies */
 "Movies" = "영화";
@@ -344,8 +347,8 @@
 /* Rating */
 "Rating" = "평점";
 
-/* Refresh Info */
-"Refresh Info" = "정보 새로고침";
+/* Context menu item for metadata items */
+"Refresh Metadata" = "정보 새로고침";
 
 /* Refresh Section */
 "Refresh Section" = "섹션 새로고침";
@@ -484,6 +487,9 @@
 
 /* Unable to update library section */
 "Unable to update library section" = "라이브러리 섹션을 업데이트할 수 없습니다.";
+
+/* Context menu item for metadata items */
+"Unmatch" = "Unmatch";
 
 /* Preference window setting - will have frequencies after it e.g. Update my library every two hours */
 "Update my library" = "라이브러리 업데이트";

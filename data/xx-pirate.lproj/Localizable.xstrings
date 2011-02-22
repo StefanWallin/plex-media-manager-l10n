@@ -118,6 +118,8 @@ Are you sure it's running?</key>
 	<string>Walk yer folders off the plank into the list with the '+'.</string>
 	<key>Edit Metadata</key>
 	<string>Change yer infos</string>
+	<key>Edit Metadata...</key>
+	<string>Change yer infos...</string>
 	<key>Edit Section</key>
 	<string>Change yer infos</string>
 	<key>Episode %d: %@</key>
@@ -196,7 +198,7 @@ Are you sure it's running?</key>
 	<string>First mate:</string>
 	<key>Rating</key>
 	<string>Rating</string>
-	<key>Refresh Info</key>
+	<key>Refresh Metadata</key>
 	<string>Plunder again</string>
 	<key>Refresh Section</key>
 	<string>Plunder again</string>
@@ -282,6 +284,8 @@ Are you sure it's running?</key>
 	<string>'Twere impossible to hide yer plunder "%@"</string>
 	<key>Unable to update library section</key>
 	<string>'Twere impossible to plunder yer booty again</string>
+	<key>Unmatch</key>
+	<string>Unmatch</string>
 	<key>Update Section</key>
 	<string>Plunder me booty</string>
 	<key>Update my library</key>

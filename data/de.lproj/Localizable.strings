@@ -26,7 +26,7 @@
 /* Status label value for when there is one musical artist */
 "1 artist" = "1 Interpret";
 
-/* Status for list of episodes when there is one 
+/* Status for list of episodes when there is one
    Subtitle for a season thumbnail on a TV Show detail view */
 "1 episode" = "1 Episode";
 
@@ -180,6 +180,9 @@
 /* Edit Metadata */
 "Edit Metadata" = "Metadaten bearbeiten";
 
+/* Context menu item for metadata items */
+"Edit Metadata..." = "Metadaten bearbeiten...";
+
 /* Edit Section */
 "Edit Section" = "Sektion bearbeiten";
 
@@ -207,7 +210,7 @@
 /* Fix incorrect match */
 "Fix incorrect match" = "Fehlerhaften Eintrag korrigieren";
 
-/* Fix Incorrect Match... */
+/* Context menu item for metadata items */
 "Fix Incorrect Match..." = "Fehlerhaften Eintrag korrigieren...";
 
 /* Friday */
@@ -276,11 +279,11 @@
 /* Monday */
 "Monday" = "Montag";
 
-/* Movie */
-"Movie" = "Film";
-
 /* A movie */
 "movie" = "Film";
+
+/* Movie */
+"Movie" = "Film";
 
 /* Movies */
 "Movies" = "Filme";
@@ -344,8 +347,8 @@
 /* Rating */
 "Rating" = "Bewertung";
 
-/* Refresh Info */
-"Refresh Info" = "Informationen aktualisieren";
+/* Context menu item for metadata items */
+"Refresh Metadata" = "Informationen aktualisieren";
 
 /* Refresh Section */
 "Refresh Section" = "Sektion aktualisieren";
@@ -485,6 +488,9 @@
 /* Unable to update library section */
 "Unable to update library section" = "Konnte Sektion nicht aktualisieren";
 
+/* Context menu item for metadata items */
+"Unmatch" = "Unmatch";
+
 /* Preference window setting - will have frequencies after it e.g. Update my library every two hours */
 "Update my library" = "Bibliothek aktualisieren";
 
@@ -508,3 +514,4 @@
 
 /* yesterday */
 "yesterday" = "Gestern";
+

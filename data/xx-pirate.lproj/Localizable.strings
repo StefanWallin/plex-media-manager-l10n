@@ -180,6 +180,9 @@
 /* Edit Metadata */
 "Edit Metadata" = "Change yer infos";
 
+/* Context menu item for metadata items */
+"Edit Metadata..." = "Change yer infos...";
+
 /* Edit Section */
 "Edit Section" = "Change yer infos";
 
@@ -207,7 +210,7 @@
 /* Fix incorrect match */
 "Fix incorrect match" = "That be wrong";
 
-/* Fix Incorrect Match... */
+/* Context menu item for metadata items */
 "Fix Incorrect Match..." = "That be wrong...";
 
 /* Friday */
@@ -276,11 +279,11 @@
 /* Monday */
 "Monday" = "Monday";
 
-/* Movie */
-"Movie" = "Long Story";
-
 /* A movie */
 "movie" = "long story";
+
+/* Movie */
+"Movie" = "Long Story";
 
 /* Movies */
 "Movies" = "Long Stories";
@@ -344,8 +347,8 @@
 /* Rating */
 "Rating" = "Rating";
 
-/* Refresh Info */
-"Refresh Info" = "Plunder again";
+/* Context menu item for metadata items */
+"Refresh Metadata" = "Plunder again";
 
 /* Refresh Section */
 "Refresh Section" = "Plunder again";
@@ -484,6 +487,9 @@
 
 /* Unable to update library section */
 "Unable to update library section" = "'Twere impossible to plunder yer booty again";
+
+/* Context menu item for metadata items */
+"Unmatch" = "Unmatch";
 
 /* Preference window setting - will have frequencies after it e.g. Update my library every two hours */
 "Update my library" = "Plunder me booty";

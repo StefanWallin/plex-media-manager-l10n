@@ -120,6 +120,8 @@ Le Serveur est-il disponible?</string>
 	<string>Faites glisser vos dossiers dans la liste, ou cliquez sur le bouton '+' pour explorer.</string>
 	<key>Edit Metadata</key>
 	<string>Modification Metadata</string>
+	<key>Edit Metadata...</key>
+	<string>Modification Metadata...</string>
 	<key>Edit Section</key>
 	<string>Modification Section</string>
 	<key>Episode %d: %@</key>
@@ -198,7 +200,7 @@ Le Serveur est-il disponible?</string>
 	<string>Agent metadata prioritaire:</string>
 	<key>Rating</key>
 	<string>Classement</string>
-	<key>Refresh Info</key>
+	<key>Refresh Metadata</key>
 	<string>Rafraichir Info</string>
 	<key>Refresh Section</key>
 	<string>Rafraichir Section</string>
@@ -284,6 +286,8 @@ Le Serveur est-il disponible?</string>
 	<string>Impossible de supprimer la section "%@"</string>
 	<key>Unable to update library section</key>
 	<string>Impossible de mettre à jour la section</string>
+	<key>Unmatch</key>
+	<string>Unmatch</string>
 	<key>Update Section</key>
 	<string>Mettre à jour Section</string>
 	<key>Update my library</key>

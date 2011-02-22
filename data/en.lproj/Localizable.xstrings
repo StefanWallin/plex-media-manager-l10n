@@ -120,6 +120,8 @@ Are you sure it's running?</string>
 	<string>Drag folders into the list, or click the '+' button to browse.</string>
 	<key>Edit Metadata</key>
 	<string>Edit Metadata</string>
+	<key>Edit Metadata...</key>
+	<string>Edit Metadata...</string>
 	<key>Edit Section</key>
 	<string>Edit Section</string>
 	<key>Episode %d: %@</key>
@@ -198,8 +200,8 @@ Are you sure it's running?</string>
 	<string>Primary metadata agent:</string>
 	<key>Rating</key>
 	<string>Rating</string>
-	<key>Refresh Info</key>
-	<string>Refresh Info</string>
+	<key>Refresh Metadata</key>
+	<string>Refresh Metadata</string>
 	<key>Refresh Section</key>
 	<string>Refresh Section</string>
 	<key>Refresh Section (force)</key>
@@ -284,6 +286,8 @@ Are you sure it's running?</string>
 	<string>Unable to remove section "%@"</string>
 	<key>Unable to update library section</key>
 	<string>Unable to update library section</string>
+	<key>Unmatch</key>
+	<string>Unmatch</string>
 	<key>Update Section</key>
 	<string>Update Section</string>
 	<key>Update my library</key>

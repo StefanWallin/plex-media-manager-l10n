@@ -180,6 +180,9 @@
 /* Edit Metadata */
 "Edit Metadata" = "Rediger Metadata";
 
+/* Context menu item for metadata items */
+"Edit Metadata..." = "Rediger Metadata...";
+
 /* Edit Section */
 "Edit Section" = "Rediger Samling";
 
@@ -207,7 +210,7 @@
 /* Fix incorrect match */
 "Fix incorrect match" = "Ret forkert genkendelse";
 
-/* Fix Incorrect Match... */
+/* Context menu item for metadata items */
 "Fix Incorrect Match..." = "Ret Forkert Genkendelse...";
 
 /* Friday */
@@ -276,11 +279,11 @@
 /* Monday */
 "Monday" = "Mandag";
 
-/* Movie */
-"Movie" = "Film";
-
 /* A movie */
 "movie" = "film";
+
+/* Movie */
+"Movie" = "Film";
 
 /* Movies */
 "Movies" = "Film";
@@ -344,8 +347,8 @@
 /* Rating */
 "Rating" = "Bedømmelse";
 
-/* Refresh Info */
-"Refresh Info" = "Opdater Info";
+/* Context menu item for metadata items */
+"Refresh Metadata" = "Opdater Info";
 
 /* Refresh Section */
 "Refresh Section" = "Opdater Samling";
@@ -484,6 +487,9 @@
 
 /* Unable to update library section */
 "Unable to update library section" = "Kunne ikke opdatere biblioteks samlingen";
+
+/* Context menu item for metadata items */
+"Unmatch" = "Unmatch";
 
 /* Preference window setting - will have frequencies after it e.g. Update my library every two hours */
 "Update my library" = "Opdater mit bibliotek";

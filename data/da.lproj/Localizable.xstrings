@@ -120,6 +120,8 @@ Er du sikker på at den er startet?</string>
 	<string>Træk mapper til listen, eller klik på '+' knappen for at gennemse.</string>
 	<key>Edit Metadata</key>
 	<string>Rediger Metadata</string>
+	<key>Edit Metadata...</key>
+	<string>Rediger Metadata...</string>
 	<key>Edit Section</key>
 	<string>Rediger Samling</string>
 	<key>Episode %d: %@</key>
@@ -198,7 +200,7 @@ Er du sikker på at den er startet?</string>
 	<string>Primær metadata agent:</string>
 	<key>Rating</key>
 	<string>Bedømmelse</string>
-	<key>Refresh Info</key>
+	<key>Refresh Metadata</key>
 	<string>Opdater Info</string>
 	<key>Refresh Section</key>
 	<string>Opdater Samling</string>
@@ -284,6 +286,8 @@ Er du sikker på at den er startet?</string>
 	<string>Kunne ikke fjerne samlingen "%@"</string>
 	<key>Unable to update library section</key>
 	<string>Kunne ikke opdatere biblioteks samlingen</string>
+	<key>Unmatch</key>
+	<string>Unmatch</string>
 	<key>Update Section</key>
 	<string>Opdater Samling</string>
 	<key>Update my library</key>

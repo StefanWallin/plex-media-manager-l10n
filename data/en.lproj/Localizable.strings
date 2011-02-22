@@ -180,6 +180,9 @@
 /* Edit Metadata */
 "Edit Metadata" = "Edit Metadata";
 
+/* Context menu item for metadata items */
+"Edit Metadata..." = "Edit Metadata...";
+
 /* Edit Section */
 "Edit Section" = "Edit Section";
 
@@ -207,7 +210,7 @@
 /* Fix incorrect match */
 "Fix incorrect match" = "Fix incorrect match";
 
-/* Fix Incorrect Match... */
+/* Context menu item for metadata items */
 "Fix Incorrect Match..." = "Fix Incorrect Match...";
 
 /* Friday */
@@ -344,8 +347,8 @@
 /* Rating */
 "Rating" = "Rating";
 
-/* Refresh Info */
-"Refresh Info" = "Refresh Info";
+/* Context menu item for metadata items */
+"Refresh Metadata" = "Refresh Metadata";
 
 /* Refresh Section */
 "Refresh Section" = "Refresh Section";
@@ -484,6 +487,9 @@
 
 /* Unable to update library section */
 "Unable to update library section" = "Unable to update library section";
+
+/* Context menu item for metadata items */
+"Unmatch" = "Unmatch";
 
 /* Preference window setting - will have frequencies after it e.g. Update my library every two hours */
 "Update my library" = "Update my library";

@@ -180,6 +180,9 @@
 /* Edit Metadata */
 "Edit Metadata" = "Edeet Metedeta";
 
+/* Context menu item for metadata items */
+"Edit Metadata..." = "Edeet Metedeta...";
+
 /* Edit Section */
 "Edit Section" = "Edeet Secshun";
 
@@ -207,7 +210,7 @@
 /* Fix incorrect match */
 "Fix incorrect match" = "Feex incurrect metch";
 
-/* Fix Incorrect Match... */
+/* Context menu item for metadata items */
 "Fix Incorrect Match..." = "Feex Incurrect Metch...";
 
 /* Friday */
@@ -344,8 +347,8 @@
 /* Rating */
 "Rating" = "Reteeng";
 
-/* Refresh Info */
-"Refresh Info" = "Reffresh Inffu";
+/* Context menu item for metadata items */
+"Refresh Metadata" = "Reffresh Metedeta";
 
 /* Refresh Section */
 "Refresh Section" = "Reffresh Secshun";
@@ -484,6 +487,9 @@
 
 /* Unable to update library section */
 "Unable to update library section" = "Uneble-a tu updete-a leebrery secshun";
+
+/* Context menu item for metadata items */
+"Unmatch" = "Unmetch";
 
 /* Preference window setting - will have frequencies after it e.g. Update my library every two hours */
 "Update my library" = "Updete-a my leebrery";

@@ -120,6 +120,8 @@ Are you sure it's running?</key>
 	<string>Dra mappar in i listan, eller klicka på '+'-knappen för att bläddra.</string>
 	<key>Edit Metadata</key>
 	<string>Redigera metadata</string>
+	<key>Edit Metadata...</key>
+	<string>Redigera metadata...</string>
 	<key>Edit Section</key>
 	<string>Redigera sektion</string>
 	<key>Episode %d: %@</key>
@@ -198,7 +200,7 @@ Are you sure it's running?</key>
 	<string>Primär metadataagent:</string>
 	<key>Rating</key>
 	<string>Betyg</string>
-	<key>Refresh Info</key>
+	<key>Refresh Metadata</key>
 	<string>Uppdatera information</string>
 	<key>Refresh Section</key>
 	<string>Uppdatera sektion</string>
@@ -284,6 +286,8 @@ Are you sure it's running?</key>
 	<string>Kunde inte ta bort sektionen "%@"</string>
 	<key>Unable to update library section</key>
 	<string>Kunde inte uppdatera bibliotekssektionen</string>
+	<key>Unmatch</key>
+	<string>Unmatch</string>
 	<key>Update Section</key>
 	<string>Uppdatera sektion</string>
 	<key>Update my library</key>

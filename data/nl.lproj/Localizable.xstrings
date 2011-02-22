@@ -120,6 +120,8 @@ Weet je zeker dat PMS aan staat?</string>
 	<string>Sleep mappen naar de lijst of klik op de '+' knop om te bladeren.</string>
 	<key>Edit Metadata</key>
 	<string>Bewerk Metadata</string>
+	<key>Edit Metadata...</key>
+	<string>Bewerk Metadata...</string>
 	<key>Edit Section</key>
 	<string>Bewerk Sectie</string>
 	<key>Episode %d: %@</key>
@@ -198,7 +200,7 @@ Weet je zeker dat PMS aan staat?</string>
 	<string>Primaire metadata agent:</string>
 	<key>Rating</key>
 	<string>Waardering</string>
-	<key>Refresh Info</key>
+	<key>Refresh Metadata</key>
 	<string>Ververs Info</string>
 	<key>Refresh Section</key>
 	<string>Ververs Sectie</string>
@@ -284,6 +286,8 @@ Weet je zeker dat PMS aan staat?</string>
 	<string>Kan "%@" niet verwijderen</string>
 	<key>Unable to update library section</key>
 	<string>Kan de bibliotheeksectie niet bijwerken</string>
+	<key>Unmatch</key>
+	<string>Unmatch</string>
 	<key>Update Section</key>
 	<string>Sectie bijwerken</string>
 	<key>Update my library</key>

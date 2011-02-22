@@ -120,6 +120,8 @@ Stellen Sie sicher, dass der Server läuft.</string>
 	<string>Ziehen Sie Ordner in die Liste oder nutzen Sie den '+' Knopf.</string>
 	<key>Edit Metadata</key>
 	<string>Metadaten bearbeiten</string>
+	<key>Edit Metadata...</key>
+	<string>Metadaten bearbeiten...</string>
 	<key>Edit Section</key>
 	<string>Sektion bearbeiten</string>
 	<key>Episode %d: %@</key>
@@ -198,7 +200,7 @@ Stellen Sie sicher, dass der Server läuft.</string>
 	<string>Primärer Metadaten Agent:</string>
 	<key>Rating</key>
 	<string>Bewertung</string>
-	<key>Refresh Info</key>
+	<key>Refresh Metadata</key>
 	<string>Informationen aktualisieren</string>
 	<key>Refresh Section</key>
 	<string>Sektion aktualisieren</string>
@@ -284,6 +286,8 @@ Stellen Sie sicher, dass der Server läuft.</string>
 	<string>Konnte Sektion "%@" nicht entfernen</string>
 	<key>Unable to update library section</key>
 	<string>Konnte Sektion nicht aktualisieren</string>
+	<key>Unmatch</key>
+	<string>Unmatch</string>
 	<key>Update Section</key>
 	<string>Sektion aktualisieren</string>
 	<key>Update my library</key>
