@@ -1,5 +1,5 @@
 /* Season plus full episode title (e.g. Season 4, Episode 1 */
-"%@, Episode %d" = "%1$@, Episode %2$d";
+"%@, Episode %d" = "%1$@, Épisode %2$d";
 
 /* Status label value for when there is more than one musical artist */
 "%d artists" = "%d artistes";
@@ -85,7 +85,7 @@
 "Add Section" = "Ajouter une Section";
 
 /* Section settings primary informative text */
-"Add the folders containing media for this section below. Any media files found inside these folders will be scanned into your library using the above settings." = "Ajouter les dossiers contenant les médias pour cette section. Tous les fichiers médias trouvés dans ces dossiers seront rajoutés dans votre librairie avec les paramètres ci-dessus.";
+"Add the folders containing media for this section below. Any media files found inside these folders will be scanned into your library using the above settings." = "Ajouter les dossiers contenant les médias pour cette section. Tous les fichiers médias trouvés dans ces dossiers seront rajoutés dans votre médiatèque avec les paramètres ci-dessus.";
 
 /* First-run title for adding TV shows */
 "Add TV Shows Section" = "Ajouter une section Séries";
@@ -100,7 +100,7 @@
 "AM" = "AM";
 
 /* Informative text for removing a section */
-"Any content in this section will no longer be available in your library. The files on your computer will not be removed." = "Le contenu de cette section ne sera plus disponible dans votre librairie. Les fichiers seront préservés dans votre ordinateur.";
+"Any content in this section will no longer be available in your library. The files on your computer will not be removed." = "Le contenu de cette section ne sera plus disponible dans votre médiatèque. Les fichiers seront préservés dans votre ordinateur.";
 
 /* Preference window setting */
 "Aperture Sharing Enabled" = "Partage Aperture Activé";
@@ -133,7 +133,7 @@
 "Choose Banner" = "Sélectionner Bannière";
 
 /* Choose Episode Thumbnail menu item */
-"Choose Episode Thumbnail" = "Sélectionner Vignette Episode";
+"Choose Episode Thumbnail" = "Sélectionner Vignette Épisode";
 
 /* Choose Icon */
 "Choose Icon" = "Sélectionner Icône";
@@ -145,7 +145,7 @@
 "Choose Season Thumbnail" = "Sélectionner Vignette Saison";
 
 /* First-run help title */
-"Click the titles below to create library sections for your media and have it served to your Plex-enabled devices." = "Cliquez sur les titres ci-dessous pour créer des sections dans la librairie pour vos médias et les partager avec vos clients Plex.";
+"Click the titles below to create library sections for your media and have it served to your Plex-enabled devices." = "Cliquez sur les titres ci-dessous pour créer des sections dans la médiatèque pour vos médias et les partager avec vos clients Plex.";
 
 /* Collections */
 "Collections" = "Collections";
@@ -187,10 +187,10 @@
 "Edit Section" = "Modification Section";
 
 /* A TV Show episode */
-"episode" = "episode";
+"episode" = "épisode";
 
 /* Full episode title (e.g. Episode 1: Pilot */
-"Episode %d: %@" = "Episode %1$d: %2$@";
+"Episode %d: %@" = "Épisode %1$d: %2$@";
 
 /* Library scan interval (i.e. Update my library every 12 hours) */
 "every 12 hours" = "toutes les 12 heures";
@@ -250,10 +250,10 @@
 "Last refreshed %@ at %@" = "Dernière mise à jour %1$@ à %2$@";
 
 /* Library */
-"Library" = "Librairie";
+"Library" = "Médiatèque";
 
 /* Sidebar group title for library sections */
-"LIBRARY SECTIONS" = "SECTIONS LIBRAIRIE";
+"LIBRARY SECTIONS" = "SECTIONS MÉDIATÈQUE";
 
 /* Metadata item status message when its data is importing */
 "Loading metadata for '%@'" = "Chargement metadata pour '%@'";
@@ -311,7 +311,7 @@
 
 /* Status for list of episodes when there are none
    Subtitle for a season thumbnail on a TV Show detail view */
-"no episodes" = "aucuns episodes";
+"no episodes" = "aucuns épisodes";
 
 /* Status label value for when there are no movies */
 "no movies" = "aucuns films";
@@ -450,7 +450,7 @@
 "This helps us improve your experience (for example, to help us match movies and TV shows)." = "Ceci nous aide à améliorer votre expérience (par exemple, en nous aidant à associer vos fichiers aux bons films et séries).";
 
 /* Summary info for friendly name */
-"This name will be used to identify this media server to other computers on your network. If you leave it blank, your computer's name will be used instead." = "Ce nom sera utilisé pour identifier ce serveur aux autres ordinateurs de votre réseau. Si vous le laissez vide, le nom de votre ordinateur sera utilisé.";
+"This name will be used to identify this media server to other computers on your network. If you leave it blank, your computer's name will be used instead." = "Ce nom sera utilisé pour identifier ce serveur aux autres ordinateurs de votre réseau. Si vous laissez ce champ vide, le nom de votre ordinateur sera utilisé.";
 
 /* Warning for IE users */
 "This site does not support Internet Explorer. For the best experience, click here to install Google Chrome Frame." = "Ce site ne supporte pas Internet Explorer. Pour une meilleure expérience, cliquez ici pour installer Google Chrome Frame.";
@@ -480,7 +480,7 @@
 "Unable to connect to Plex Media Server" = "Impossible de se connecter à Plex Media Server";
 
 /* Unable to create library section */
-"Unable to create library section" = "Impossible de créer une section dans la librairie";
+"Unable to create library section" = "Impossible de créer une section dans la médiatèque";
 
 /* Error title for when we cannot remove a library section */
 "Unable to remove section \"%@\"" = "Impossible de supprimer la section \"%@\"";
@@ -489,13 +489,13 @@
 "Unable to update library section" = "Impossible de mettre à jour la section";
 
 /* Context menu item for metadata items */
-"Unmatch" = "Unmatch";
+"Unmatch" = "Dissocier";
 
 /* Preference window setting - will have frequencies after it e.g. Update my library every two hours */
-"Update my library" = "Mettre à jour ma librairie";
+"Update my library" = "Mettre à jour ma médiatèque";
 
 /* Preference window setting */
-"Update my library when changes to my folders are detected" = "Mettre à jour ma librairie quand mes dossiers sont modifiés";
+"Update my library when changes to my folders are detected" = "Mettre à jour ma médiatèque quand mes dossiers sont modifiés";
 
 /* Update section confirm button text */
 "Update Section" = "Mettre à jour Section";

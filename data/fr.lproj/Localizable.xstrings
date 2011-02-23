@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>%@, Episode %d</key>
-	<string>%1$@, Episode %2$d</string>
+	<string>%1$@, Épisode %2$d</string>
 	<key>%d TV shows</key>
 	<string>%d Séries</string>
 	<key>%d artists</key>
@@ -63,11 +63,11 @@
 	<key>Add TV Shows Section</key>
 	<string>Ajouter une section Séries</string>
 	<key>Add the folders containing media for this section below. Any media files found inside these folders will be scanned into your library using the above settings.</key>
-	<string>Ajouter les dossiers contenant les médias pour cette section. Tous les fichiers médias trouvés dans ces dossiers seront rajoutés dans votre librairie avec les paramètres ci-dessus.</string>
+	<string>Ajouter les dossiers contenant les médias pour cette section. Tous les fichiers médias trouvés dans ces dossiers seront rajoutés dans votre médiatèque avec les paramètres ci-dessus.</string>
 	<key>Advanced</key>
 	<string>Expert</string>
 	<key>Any content in this section will no longer be available in your library. The files on your computer will not be removed.</key>
-	<string>Le contenu de cette section ne sera plus disponible dans votre librairie. Les fichiers seront préservés dans votre ordinateur.</string>
+	<string>Le contenu de cette section ne sera plus disponible dans votre médiatèque. Les fichiers seront préservés dans votre ordinateur.</string>
 	<key>Aperture Sharing Enabled</key>
 	<string>Partage Aperture Activé</string>
 	<key>Are you sure you want to remove the section named "%@"?</key>
@@ -87,7 +87,7 @@
 	<key>Choose Banner</key>
 	<string>Sélectionner Bannière</string>
 	<key>Choose Episode Thumbnail</key>
-	<string>Sélectionner Vignette Episode</string>
+	<string>Sélectionner Vignette Épisode</string>
 	<key>Choose Icon</key>
 	<string>Sélectionner Icône</string>
 	<key>Choose Poster</key>
@@ -95,7 +95,7 @@
 	<key>Choose Season Thumbnail</key>
 	<string>Sélectionner Vignette Saison</string>
 	<key>Click the titles below to create library sections for your media and have it served to your Plex-enabled devices.</key>
-	<string>Cliquez sur les titres ci-dessous pour créer des sections dans la librairie pour vos médias et les partager avec vos clients Plex.</string>
+	<string>Cliquez sur les titres ci-dessous pour créer des sections dans la médiatèque pour vos médias et les partager avec vos clients Plex.</string>
 	<key>Collections</key>
 	<string>Collections</string>
 	<key>Connecting to Plex Media Server failed with this error: %@.
@@ -125,7 +125,7 @@ Le Serveur est-il disponible?</string>
 	<key>Edit Section</key>
 	<string>Modification Section</string>
 	<key>Episode %d: %@</key>
-	<string>Episode %1$d: %2$@</string>
+	<string>Épisode %1$d: %2$@</string>
 	<key>Fix Incorrect Match...</key>
 	<string>Réparer infos incorrectes...</string>
 	<key>Fix incorrect match</key>
@@ -143,7 +143,7 @@ Le Serveur est-il disponible?</string>
 	<key>Include music sections in automatic updates</key>
 	<string>Inclure la section musique dans les mises à jours automatiques</string>
 	<key>LIBRARY SECTIONS</key>
-	<string>SECTIONS LIBRAIRIE</string>
+	<string>SECTIONS MÉDIATÈQUE</string>
 	<key>Language:</key>
 	<string>Langue:</string>
 	<key>Large music sections may take a long time to scan</key>
@@ -151,7 +151,7 @@ Le Serveur est-il disponible?</string>
 	<key>Last refreshed %@ at %@</key>
 	<string>Dernière mise à jour %1$@ à %2$@</string>
 	<key>Library</key>
-	<string>Librairie</string>
+	<string>Médiatèque</string>
 	<key>Loading metadata for '%@'</key>
 	<string>Chargement metadata pour '%@'</string>
 	<key>MEDIA MANAGER</key>
@@ -267,7 +267,7 @@ Le Serveur est-il disponible?</string>
 	<key>This helps us improve your experience (for example, to help us match movies and TV shows).</key>
 	<string>Ceci nous aide à améliorer votre expérience (par exemple, en nous aidant à associer vos fichiers aux bons films et séries).</string>
 	<key>This name will be used to identify this media server to other computers on your network. If you leave it blank, your computer's name will be used instead.</key>
-	<string>Ce nom sera utilisé pour identifier ce serveur aux autres ordinateurs de votre réseau. Si vous le laissez vide, le nom de votre ordinateur sera utilisé.</string>
+	<string>Ce nom sera utilisé pour identifier ce serveur aux autres ordinateurs de votre réseau. Si vous laissez ce champ vide, le nom de votre ordinateur sera utilisé.</string>
 	<key>This site does not support Internet Explorer. For the best experience, click here to install Google Chrome Frame.</key>
 	<string>Ce site ne supporte pas Internet Explorer. Pour une meilleure expérience, cliquez ici pour installer Google Chrome Frame.</string>
 	<key>Thursday</key>
@@ -281,19 +281,19 @@ Le Serveur est-il disponible?</string>
 	<key>Unable to connect to Plex Media Server</key>
 	<string>Impossible de se connecter à Plex Media Server</string>
 	<key>Unable to create library section</key>
-	<string>Impossible de créer une section dans la librairie</string>
+	<string>Impossible de créer une section dans la médiatèque</string>
 	<key>Unable to remove section "%@"</key>
 	<string>Impossible de supprimer la section "%@"</string>
 	<key>Unable to update library section</key>
 	<string>Impossible de mettre à jour la section</string>
 	<key>Unmatch</key>
-	<string>Unmatch</string>
+	<string>Dissocier</string>
 	<key>Update Section</key>
 	<string>Mettre à jour Section</string>
 	<key>Update my library</key>
-	<string>Mettre à jour ma librairie</string>
+	<string>Mettre à jour ma médiatèque</string>
 	<key>Update my library when changes to my folders are detected</key>
-	<string>Mettre à jour ma librairie quand mes dossiers sont modifiés</string>
+	<string>Mettre à jour ma médiatèque quand mes dossiers sont modifiés</string>
 	<key>Wednesday</key>
 	<string>Mercredi</string>
 	<key>Writers</key>
@@ -309,7 +309,7 @@ Le Serveur est-il disponible?</string>
 	<key>daily</key>
 	<string>quotidien</string>
 	<key>episode</key>
-	<string>episode</string>
+	<string>épisode</string>
 	<key>every 12 hours</key>
 	<string>toutes les 12 heures</string>
 	<key>every 15 minutes</key>
@@ -333,7 +333,7 @@ Le Serveur est-il disponible?</string>
 	<key>no artists</key>
 	<string>aucuns artistes</string>
 	<key>no episodes</key>
-	<string>aucuns episodes</string>
+	<string>aucuns épisodes</string>
 	<key>no movies</key>
 	<string>aucuns films</string>
 	<key>no tracks</key>
