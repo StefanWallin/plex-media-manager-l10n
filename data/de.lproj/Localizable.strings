@@ -489,7 +489,7 @@
 "Unable to update library section" = "Konnte Sektion nicht aktualisieren";
 
 /* Context menu item for metadata items */
-"Unmatch" = "Unmatch";
+"Unmatch" = "Metadaten verwerfen";
 
 /* Preference window setting - will have frequencies after it e.g. Update my library every two hours */
 "Update my library" = "Bibliothek aktualisieren";
