@@ -120,6 +120,8 @@ Are you sure it's running?</key>
 	<string>Dra mappar in i listan, eller klicka på '+'-knappen för att bläddra.</string>
 	<key>Edit Metadata</key>
 	<string>Redigera metadata</string>
+	<key>Edit Metadata...</key>
+	<string>Redigera metadata...</string>
 	<key>Edit Section</key>
 	<string>Redigera sektion</string>
 	<key>Episode %d: %@</key>
@@ -152,6 +154,8 @@ Are you sure it's running?</key>
 	<string>Bibliotek</string>
 	<key>Loading metadata for '%@'</key>
 	<string>Laddar metadata för '%@'</string>
+	<key>MEDIA MANAGER</key>
+	<string>mediahanterare</string>
 	<key>Manual Entry</key>
 	<string>Skriv in manuellt</string>
 	<key>Matching '%@'</key>
@@ -186,17 +190,17 @@ Are you sure it's running?</key>
 	<string>Originaltitel</string>
 	<key>Originally Available</key>
 	<string>Ursprungligen tillgänglig</string>
-	<key>PLEX MEDIA MANAGER</key>
-	<string>PLEX mediahanterare</string>
 	<key>PM</key>
 	<string>PM</string>
 	<key>Path of the directory you'd like to add:</key>
 	<string>Sökvägen till mappen du vill lägga till:</string>
+	<key>Preferences</key>
+	<string>Inställningar</string>
 	<key>Primary metadata agent:</key>
 	<string>Primär metadataagent:</string>
 	<key>Rating</key>
 	<string>Betyg</string>
-	<key>Refresh Info</key>
+	<key>Refresh Metadata</key>
 	<string>Uppdatera information</string>
 	<key>Refresh Section</key>
 	<string>Uppdatera sektion</string>
@@ -244,8 +248,6 @@ Are you sure it's running?</key>
 	<string>Välj rätt film från listan nedan:</string>
 	<key>Send anonymous usage data to Plex</key>
 	<string>Sänd anonym användningsdata till Plex</string>
-	<key>Settings</key>
-	<string>Inställningar</string>
 	<key>Sharing</key>
 	<string>Delning</string>
 	<key>Show</key>
@@ -284,6 +286,8 @@ Are you sure it's running?</key>
 	<string>Kunde inte ta bort sektionen "%@"</string>
 	<key>Unable to update library section</key>
 	<string>Kunde inte uppdatera bibliotekssektionen</string>
+	<key>Unmatch</key>
+	<string>Radera metadatamatching</string>
 	<key>Update Section</key>
 	<string>Uppdatera sektion</string>
 	<key>Update my library</key>

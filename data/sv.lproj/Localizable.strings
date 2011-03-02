@@ -180,6 +180,9 @@
 /* Edit Metadata */
 "Edit Metadata" = "Redigera metadata";
 
+/* Context menu item for metadata items */
+"Edit Metadata..." = "Redigera metadata...";
+
 /* Edit Section */
 "Edit Section" = "Redigera sektion";
 
@@ -207,7 +210,7 @@
 /* Fix incorrect match */
 "Fix incorrect match" = "Korrigera inkorrekt matching";
 
-/* Fix Incorrect Match... */
+/* Context menu item for metadata items */
 "Fix Incorrect Match..." = "Korrigera inkorrekt matching...";
 
 /* Friday */
@@ -267,17 +270,20 @@
 /* Label for the path to the file whose match is being fixed */
 "Media file: " = "Mediafil: ";
 
+/* Header title */
+"MEDIA MANAGER" = "mediahanterare";
+
 /* Media scanner label */
 "Media scanner:" = "Mediasökare:";
 
 /* Monday */
 "Monday" = "Måndag";
 
-/* Movie */
-"Movie" = "Film";
-
 /* A movie */
 "movie" = "film";
+
+/* Movie */
+"Movie" = "Film";
 
 /* Movies */
 "Movies" = "Filmer";
@@ -306,15 +312,15 @@
 /* Status for list of episodes when there are none
    Subtitle for a season thumbnail on a TV Show detail view */
 "no episodes" = "inga avsnitt";
-              
-/* Status label valu  e for when there are no movies */
+
+/* Status label value for when there are no movies */
 "no movies" = "inga filmer";
-              
-/* Status label for   when there are no tracks in an album
-   Subtitle for a al  bum thumbnail on an artist detail view */
+
+/* Status label for when there are no tracks in an album
+   Subtitle for a album thumbnail on an artist detail view */
 "no tracks" = "inga spår";
-              
-/* Status label valu  e when there are no TV shows */
+
+/* Status label value when there are no TV shows */
 "no TV shows" = "inga TV-serier";
 
 /* Preference window setting */
@@ -329,11 +335,11 @@
 /* Instruction text for the prompt to add directories manually */
 "Path of the directory you'd like to add:" = "Sökvägen till mappen du vill lägga till:";
 
-/* Header title */
-"PLEX MEDIA MANAGER" = "PLEX mediahanterare";
-
 /* PostMeridiem */
 "PM" = "PM";
+
+/* Preferences button in top-right */
+"Preferences" = "Inställningar";
 
 /* Primary metadata agent label */
 "Primary metadata agent:" = "Primär metadataagent:";
@@ -341,8 +347,8 @@
 /* Rating */
 "Rating" = "Betyg";
 
-/* Refresh Info */
-"Refresh Info" = "Uppdatera information";
+/* Context menu item for metadata items */
+"Refresh Metadata" = "Uppdatera information";
 
 /* Refresh Section */
 "Refresh Section" = "Uppdatera sektion";
@@ -416,9 +422,6 @@
 /* Send anonymous usage data to Plex */
 "Send anonymous usage data to Plex" = "Sänd anonym användningsdata till Plex";
 
-/* Settings button at the top-right */
-"Settings" = "Inställningar";
-
 /* Sharing */
 "Sharing" = "Delning";
 
@@ -484,6 +487,9 @@
 
 /* Unable to update library section */
 "Unable to update library section" = "Kunde inte uppdatera bibliotekssektionen";
+
+/* Context menu item for metadata items */
+"Unmatch" = "Radera metadatamatching";
 
 /* Preference window setting - will have frequencies after it e.g. Update my library every two hours */
 "Update my library" = "Uppdatera mitt bibliotek";
