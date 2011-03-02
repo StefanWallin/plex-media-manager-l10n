@@ -301,7 +301,7 @@ Are you sure it's running?</key>
 	<key>Unable to update library section</key>
 	<string>Kunde inte uppdatera bibliotekssektionen</string>
 	<key>Unmatch</key>
-	<string>Unmatch</string>
+	<string>Radera metadatamatching</string>
 	<key>Update Section</key>
 	<string>Uppdatera sektion</string>
 	<key>Update my library</key>
