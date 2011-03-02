@@ -114,6 +114,12 @@
 /* Artist */
 "Artist" = "Erteest";
 
+/* Authenticate */
+"Authenticate" = "Oozeenteecete-a";
+
+/* Login prompt title */
+"Authentication Required" = "Oozeenteeceshun Reqooured";
+
 /* Cancel */
 "Cancel" = "Cuncel";
 
@@ -231,6 +237,9 @@
 /* Library scan interval (i.e. Update my library hourly) */
 "hourly" = "huoorly";
 
+/* Security preference pane explanation */
+"If you want to share your media over the Internet, you can turn on Secure Server Access to prevent unauthorized access to your server." = "Iff yuoo vunt tu shere-a yuoor medeea oofer zee Internet, yuoo cun toorn oon Secoore-a Serfer Eccess tu prefent unoothureezed eccess tu yuoor serfer.";
+
 /* Preference window setting */
 "Include music sections in automatic updates" = "Incloode-a mooseec secshuns in ootumeteec updetes";
 
@@ -332,8 +341,14 @@
 /* Originally Available */
 "Originally Available" = "Oreeginelly Efeeeleble-a";
 
+/* Password field placeholder */
+"Password" = "Pessvurd";
+
 /* Instruction text for the prompt to add directories manually */
 "Path of the directory you'd like to add:" = "Pet ooff zee durectury yuoo'd leeke-a tu edd:";
+
+/* Login prompt message */
+"Plex Media Server requires a username and password:" = "Plex Medeea Serfer reqooures a userneme-a und pessvurd:";
 
 /* PostMeridiem */
 "PM" = "PM";
@@ -368,6 +383,9 @@
 /* Metadata item status message when its info is downloading */
 "Requesting metadata for '%@'" = "Reqooesteeng metedeta fur '%@'";
 
+/* Check box label for turning security on and off */
+"Require a username and password to access Plex Media Server" = "Reqooure-a a userneme-a und pessvurd tu eccess Plex Medeea Serfer";
+
 /* Saturday */
 "Saturday" = "Setoordey";
 
@@ -391,6 +409,9 @@
 
 /* Section type label */
 "Section type:" = "Secshun type-a:";
+
+/* Security preference pane title */
+"Secure Server Access" = "Secoore-a Serfer Eccess";
 
 /* Security */
 "Security" = "Secooreety";
@@ -499,6 +520,9 @@
 
 /* Update section confirm button text */
 "Update Section" = "Updete-a Secshun";
+
+/* Username field placeholder */
+"Username" = "Userneme-a";
 
 /* Wednesday */
 "Wednesday" = "Vednesdey";

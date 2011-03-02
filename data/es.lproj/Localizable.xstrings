@@ -74,6 +74,10 @@
 	<string>¿Está seguro de que quiere eliminar la sección llamada "%@"?</string>
 	<key>Artist</key>
 	<string>Artista</string>
+	<key>Authenticate</key>
+	<string>Authenticate</string>
+	<key>Authentication Required</key>
+	<string>Authentication Required</string>
 	<key>Cancel</key>
 	<string>Cancelar</string>
 	<key>Capability checking ensures that plug-ins that are incompatible with this version of the server or the current client application you are using are hidden. Disabling capability checking is useful during development, but will enable access to plug-ins that may perform unreliably with certain client applications.</key>
@@ -140,6 +144,8 @@ Are you sure it's running?</key>
 	<string>Géneros</string>
 	<key>Got this error: %@. Are you sure Plex Media Server is running?</key>
 	<string>Se obtuvo este error: %@. ¿Está seguro de que Plex Media Server está abierto?</string>
+	<key>If you want to share your media over the Internet, you can turn on Secure Server Access to prevent unauthorized access to your server.</key>
+	<string>If you want to share your media over the Internet, you can turn on Secure Server Access to prevent unauthorized access to your server.</string>
 	<key>Include music sections in automatic updates</key>
 	<string>Incluir secciones de música en las actualizaciones automáticas</string>
 	<key>LIBRARY SECTIONS</key>
@@ -192,8 +198,12 @@ Are you sure it's running?</key>
 	<string>Disponible Originalmente</string>
 	<key>PM</key>
 	<string>PM</string>
+	<key>Password</key>
+	<string>Password</string>
 	<key>Path of the directory you'd like to add:</key>
 	<string>Ruta del directorio que desea añadir:</string>
+	<key>Plex Media Server requires a username and password:</key>
+	<string>Plex Media Server requires a username and password:</string>
 	<key>Preferences</key>
 	<string>Ajustes</string>
 	<key>Primary metadata agent:</key>
@@ -214,6 +224,8 @@ Are you sure it's running?</key>
 	<string>Eliminar Sección</string>
 	<key>Requesting metadata for '%@'</key>
 	<string>Solicitando metadatos para '%@'</string>
+	<key>Require a username and password to access Plex Media Server</key>
+	<string>Require a username and password to access Plex Media Server</string>
 	<key>Saturday</key>
 	<string>Sábado</string>
 	<key>Save</key>
@@ -228,6 +240,8 @@ Are you sure it's running?</key>
 	<string>Nombre de sección:</string>
 	<key>Section type:</key>
 	<string>Tipo de sección:</string>
+	<key>Secure Server Access</key>
+	<string>Secure Server Access</string>
 	<key>Security</key>
 	<string>Seguridad</string>
 	<key>Select</key>
@@ -294,6 +308,8 @@ Are you sure it's running?</key>
 	<string>Actualizar mi librería</string>
 	<key>Update my library when changes to my folders are detected</key>
 	<string>Actualizar mi librería cuando se detecten cambios en mis carpetas</string>
+	<key>Username</key>
+	<string>Username</string>
 	<key>Wednesday</key>
 	<string>Miércoles</string>
 	<key>Writers</key>

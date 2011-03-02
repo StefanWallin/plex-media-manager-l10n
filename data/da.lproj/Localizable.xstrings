@@ -74,6 +74,10 @@
 	<string>Er du sikker på du vil fjerne samlingen som hedder "%@"?</string>
 	<key>Artist</key>
 	<string>Artist</string>
+	<key>Authenticate</key>
+	<string>Authenticate</string>
+	<key>Authentication Required</key>
+	<string>Authentication Required</string>
 	<key>Cancel</key>
 	<string>Annuller</string>
 	<key>Capability checking ensures that plug-ins that are incompatible with this version of the server or the current client application you are using are hidden. Disabling capability checking is useful during development, but will enable access to plug-ins that may perform unreliably with certain client applications.</key>
@@ -140,6 +144,8 @@ Er du sikker på at den er startet?</string>
 	<string>Genrer</string>
 	<key>Got this error: %@. Are you sure Plex Media Server is running?</key>
 	<string>Fik denne fejl: %@. Er du sikker på at Plex Media Server er startet?</string>
+	<key>If you want to share your media over the Internet, you can turn on Secure Server Access to prevent unauthorized access to your server.</key>
+	<string>If you want to share your media over the Internet, you can turn on Secure Server Access to prevent unauthorized access to your server.</string>
 	<key>Include music sections in automatic updates</key>
 	<string>Medtag musik samlinger i automatiske opdateringer</string>
 	<key>LIBRARY SECTIONS</key>
@@ -192,8 +198,12 @@ Er du sikker på at den er startet?</string>
 	<string>Oprindeligt tilgængelig</string>
 	<key>PM</key>
 	<string>PM</string>
+	<key>Password</key>
+	<string>Password</string>
 	<key>Path of the directory you'd like to add:</key>
 	<string>Sti i den mappe du gerne vil tilføje:</string>
+	<key>Plex Media Server requires a username and password:</key>
+	<string>Plex Media Server requires a username and password:</string>
 	<key>Preferences</key>
 	<string>Indstillinger</string>
 	<key>Primary metadata agent:</key>
@@ -214,6 +224,8 @@ Er du sikker på at den er startet?</string>
 	<string>Fjern Samling</string>
 	<key>Requesting metadata for '%@'</key>
 	<string>Anmoder om metadata for '%@'</string>
+	<key>Require a username and password to access Plex Media Server</key>
+	<string>Require a username and password to access Plex Media Server</string>
 	<key>Saturday</key>
 	<string>Lørdag</string>
 	<key>Save</key>
@@ -228,6 +240,8 @@ Er du sikker på at den er startet?</string>
 	<string>Samlingens navn:</string>
 	<key>Section type:</key>
 	<string>Type af samling:</string>
+	<key>Secure Server Access</key>
+	<string>Secure Server Access</string>
 	<key>Security</key>
 	<string>Sikkerhed</string>
 	<key>Select</key>
@@ -294,6 +308,8 @@ Er du sikker på at den er startet?</string>
 	<string>Opdater mit bibliotek</string>
 	<key>Update my library when changes to my folders are detected</key>
 	<string>Opdater mit bibliotek, når der er ændringer i mine mapper</string>
+	<key>Username</key>
+	<string>Username</string>
 	<key>Wednesday</key>
 	<string>Onsdag</string>
 	<key>Writers</key>

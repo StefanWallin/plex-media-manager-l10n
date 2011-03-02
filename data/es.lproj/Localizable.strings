@@ -114,6 +114,12 @@
 /* Artist */
 "Artist" = "Artista";
 
+/* Authenticate */
+"Authenticate" = "Authenticate";
+
+/* Login prompt title */
+"Authentication Required" = "Authentication Required";
+
 /* Cancel */
 "Cancel" = "Cancelar";
 
@@ -231,6 +237,9 @@
 /* Library scan interval (i.e. Update my library hourly) */
 "hourly" = "cada hora";
 
+/* Security preference pane explanation */
+"If you want to share your media over the Internet, you can turn on Secure Server Access to prevent unauthorized access to your server." = "If you want to share your media over the Internet, you can turn on Secure Server Access to prevent unauthorized access to your server.";
+
 /* Preference window setting */
 "Include music sections in automatic updates" = "Incluir secciones de música en las actualizaciones automáticas";
 
@@ -279,11 +288,11 @@
 /* Monday */
 "Monday" = "Lunes";
 
-/* A movie */
-"movie" = "película";
-
 /* Movie */
 "Movie" = "Película";
+
+/* A movie */
+"movie" = "película";
 
 /* Movies */
 "Movies" = "Películas";
@@ -332,8 +341,14 @@
 /* Originally Available */
 "Originally Available" = "Disponible Originalmente";
 
+/* Password field placeholder */
+"Password" = "Password";
+
 /* Instruction text for the prompt to add directories manually */
 "Path of the directory you'd like to add:" = "Ruta del directorio que desea añadir:";
+
+/* Login prompt message */
+"Plex Media Server requires a username and password:" = "Plex Media Server requires a username and password:";
 
 /* PostMeridiem */
 "PM" = "PM";
@@ -368,6 +383,9 @@
 /* Metadata item status message when its info is downloading */
 "Requesting metadata for '%@'" = "Solicitando metadatos para '%@'";
 
+/* Check box label for turning security on and off */
+"Require a username and password to access Plex Media Server" = "Require a username and password to access Plex Media Server";
+
 /* Saturday */
 "Saturday" = "Sábado";
 
@@ -391,6 +409,9 @@
 
 /* Section type label */
 "Section type:" = "Tipo de sección:";
+
+/* Security preference pane title */
+"Secure Server Access" = "Secure Server Access";
 
 /* Security */
 "Security" = "Seguridad";
@@ -425,11 +446,11 @@
 /* Sharing */
 "Sharing" = "Compartir";
 
-/* Show */
-"Show" = "Mostrar";
-
 /* A TV Show */
 "show" = "serie";
+
+/* Show */
+"Show" = "Mostrar";
 
 /* Sort Title */
 "Sort Title" = "Ordenar título";
@@ -499,6 +520,9 @@
 
 /* Update section confirm button text */
 "Update Section" = "Actualizar Sección";
+
+/* Username field placeholder */
+"Username" = "Username";
 
 /* Wednesday */
 "Wednesday" = "Miércoles";

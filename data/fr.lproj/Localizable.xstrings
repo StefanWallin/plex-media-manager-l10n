@@ -74,6 +74,10 @@
 	<string>Etes vous sur de vouloir supprimer la section "%@"?</string>
 	<key>Artist</key>
 	<string>Artiste</string>
+	<key>Authenticate</key>
+	<string>Authenticate</string>
+	<key>Authentication Required</key>
+	<string>Authentication Required</string>
 	<key>Cancel</key>
 	<string>Annuler</string>
 	<key>Capability checking ensures that plug-ins that are incompatible with this version of the server or the current client application you are using are hidden. Disabling capability checking is useful during development, but will enable access to plug-ins that may perform unreliably with certain client applications.</key>
@@ -140,6 +144,8 @@ Le Serveur est-il disponible?</string>
 	<string>Genres</string>
 	<key>Got this error: %@. Are you sure Plex Media Server is running?</key>
 	<string>Erreur: %@. Plex Media Server est-il disponible?</string>
+	<key>If you want to share your media over the Internet, you can turn on Secure Server Access to prevent unauthorized access to your server.</key>
+	<string>If you want to share your media over the Internet, you can turn on Secure Server Access to prevent unauthorized access to your server.</string>
 	<key>Include music sections in automatic updates</key>
 	<string>Inclure la section musique dans les mises à jours automatiques</string>
 	<key>LIBRARY SECTIONS</key>
@@ -192,8 +198,12 @@ Le Serveur est-il disponible?</string>
 	<string>Disponible Originellement</string>
 	<key>PM</key>
 	<string>PM</string>
+	<key>Password</key>
+	<string>Password</string>
 	<key>Path of the directory you'd like to add:</key>
 	<string>Chemin du répertoire que vous souhaitez ajouter:</string>
+	<key>Plex Media Server requires a username and password:</key>
+	<string>Plex Media Server requires a username and password:</string>
 	<key>Preferences</key>
 	<string>Paramètres</string>
 	<key>Primary metadata agent:</key>
@@ -214,6 +224,8 @@ Le Serveur est-il disponible?</string>
 	<string>Supprimer Section</string>
 	<key>Requesting metadata for '%@'</key>
 	<string>Requête metadata en cours pour '%@'</string>
+	<key>Require a username and password to access Plex Media Server</key>
+	<string>Require a username and password to access Plex Media Server</string>
 	<key>Saturday</key>
 	<string>Samedi</string>
 	<key>Save</key>
@@ -228,6 +240,8 @@ Le Serveur est-il disponible?</string>
 	<string>Nom section:</string>
 	<key>Section type:</key>
 	<string>Type section:</string>
+	<key>Secure Server Access</key>
+	<string>Secure Server Access</string>
 	<key>Security</key>
 	<string>Sécurité</string>
 	<key>Select</key>
@@ -294,6 +308,8 @@ Le Serveur est-il disponible?</string>
 	<string>Mettre à jour ma médiatèque</string>
 	<key>Update my library when changes to my folders are detected</key>
 	<string>Mettre à jour ma médiatèque quand mes dossiers sont modifiés</string>
+	<key>Username</key>
+	<string>Username</string>
 	<key>Wednesday</key>
 	<string>Mercredi</string>
 	<key>Writers</key>

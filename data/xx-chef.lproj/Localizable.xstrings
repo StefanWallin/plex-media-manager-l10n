@@ -74,6 +74,10 @@
 	<string>Ere-a yuoo soore-a yuoo vunt tu remufe-a zee secshun nemed "%@"?</string>
 	<key>Artist</key>
 	<string>Erteest</string>
+	<key>Authenticate</key>
+	<string>Oozeenteecete-a</string>
+	<key>Authentication Required</key>
+	<string>Oozeenteeceshun Reqooured</string>
 	<key>Cancel</key>
 	<string>Cuncel</string>
 	<key>Capability checking ensures that plug-ins that are incompatible with this version of the server or the current client application you are using are hidden. Disabling capability checking is useful during development, but will enable access to plug-ins that may perform unreliably with certain client applications.</key>
@@ -140,6 +144,8 @@ Are yuoo soore-a it's roonneeng?</string>
 	<string>Genres</string>
 	<key>Got this error: %@. Are you sure Plex Media Server is running?</key>
 	<string>Gut thees irrur: %@. Ere-a yuoo soore-a Plex Medeea Serfer is roonneeng?</string>
+	<key>If you want to share your media over the Internet, you can turn on Secure Server Access to prevent unauthorized access to your server.</key>
+	<string>Iff yuoo vunt tu shere-a yuoor medeea oofer zee Internet, yuoo cun toorn oon Secoore-a Serfer Eccess tu prefent unoothureezed eccess tu yuoor serfer.</string>
 	<key>Include music sections in automatic updates</key>
 	<string>Incloode-a mooseec secshuns in ootumeteec updetes</string>
 	<key>LIBRARY SECTIONS</key>
@@ -192,8 +198,12 @@ Are yuoo soore-a it's roonneeng?</string>
 	<string>Oreeginelly Efeeeleble-a</string>
 	<key>PM</key>
 	<string>PM</string>
+	<key>Password</key>
+	<string>Pessvurd</string>
 	<key>Path of the directory you'd like to add:</key>
 	<string>Pet ooff zee durectury yuoo'd leeke-a tu edd:</string>
+	<key>Plex Media Server requires a username and password:</key>
+	<string>Plex Medeea Serfer reqooures a userneme-a und pessvurd:</string>
 	<key>Preferences</key>
 	<string>Prefferences</string>
 	<key>Primary metadata agent:</key>
@@ -214,6 +224,8 @@ Are yuoo soore-a it's roonneeng?</string>
 	<string>Remufe-a Secshun</string>
 	<key>Requesting metadata for '%@'</key>
 	<string>Reqooesteeng metedeta fur '%@'</string>
+	<key>Require a username and password to access Plex Media Server</key>
+	<string>Reqooure-a a userneme-a und pessvurd tu eccess Plex Medeea Serfer</string>
 	<key>Saturday</key>
 	<string>Setoordey</string>
 	<key>Save</key>
@@ -228,6 +240,8 @@ Are yuoo soore-a it's roonneeng?</string>
 	<string>Secshun neme-a:</string>
 	<key>Section type:</key>
 	<string>Secshun type-a:</string>
+	<key>Secure Server Access</key>
+	<string>Secoore-a Serfer Eccess</string>
 	<key>Security</key>
 	<string>Secooreety</string>
 	<key>Select</key>
@@ -294,6 +308,8 @@ Are yuoo soore-a it's roonneeng?</string>
 	<string>Updete-a my leebrery</string>
 	<key>Update my library when changes to my folders are detected</key>
 	<string>Updete-a my leebrery vhee chunges tu my fulders ere-a detected</string>
+	<key>Username</key>
+	<string>Userneme-a</string>
 	<key>Wednesday</key>
 	<string>Vednesdey</string>
 	<key>Writers</key>

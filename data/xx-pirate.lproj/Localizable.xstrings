@@ -74,6 +74,10 @@
 	<string>Forever hide your booty in "%@"?</string>
 	<key>Artist</key>
 	<string>Arrrtist</string>
+	<key>Authenticate</key>
+	<string>Authenticate</string>
+	<key>Authentication Required</key>
+	<string>Authentication Required</string>
 	<key>Cancel</key>
 	<string>Belay that!</string>
 	<key>Capability checking ensures that plug-ins that are incompatible with this version of the server or the current client application you are using are hidden. Disabling capability checking is useful during development, but will enable access to plug-ins that may perform unreliably with certain client applications.</key>
@@ -138,6 +142,8 @@ Are you sure it's running?</key>
 	<string>Genres</string>
 	<key>Got this error: %@. Are you sure Plex Media Server is running?</key>
 	<string>We've run aground: %@.</string>
+	<key>If you want to share your media over the Internet, you can turn on Secure Server Access to prevent unauthorized access to your server.</key>
+	<string>If you want to share your media over the Internet, you can turn on Secure Server Access to prevent unauthorized access to your server.</string>
 	<key>Include music sections in automatic updates</key>
 	<string>Plunder musical booty regularly</string>
 	<key>LIBRARY SECTIONS</key>
@@ -190,8 +196,12 @@ Are you sure it's running?</key>
 	<string>When 'twas known</string>
 	<key>PM</key>
 	<string>o' the eve</string>
+	<key>Password</key>
+	<string>Password</string>
 	<key>Path of the directory you'd like to add:</key>
 	<string>Where d'ye keep yer booty, matey?</string>
+	<key>Plex Media Server requires a username and password:</key>
+	<string>Plex Media Server requires a username and password:</string>
 	<key>Preferences</key>
 	<string>Dock</string>
 	<key>Primary metadata agent:</key>
@@ -212,6 +222,8 @@ Are you sure it's running?</key>
 	<string>Throw overboard</string>
 	<key>Requesting metadata for '%@'</key>
 	<string>Askin' about '%@'</string>
+	<key>Require a username and password to access Plex Media Server</key>
+	<string>Require a username and password to access Plex Media Server</string>
 	<key>Saturday</key>
 	<string>Saturday</string>
 	<key>Save</key>
@@ -226,6 +238,8 @@ Are you sure it's running?</key>
 	<string>Booty name:</string>
 	<key>Section type:</key>
 	<string>Booty type:</string>
+	<key>Secure Server Access</key>
+	<string>Secure Server Access</string>
 	<key>Security</key>
 	<string>Pirate's Code</string>
 	<key>Select</key>
@@ -292,6 +306,8 @@ Are you sure it's running?</key>
 	<string>Plunder me booty</string>
 	<key>Update my library when changes to my folders are detected</key>
 	<string>Plunder me booty when something begins to stir</string>
+	<key>Username</key>
+	<string>Username</string>
 	<key>Wednesday</key>
 	<string>Wednesday</string>
 	<key>Writers</key>

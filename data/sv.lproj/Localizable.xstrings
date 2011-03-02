@@ -74,6 +74,10 @@
 	<string>Är du säker på att du vill ta bort sektionen som heter "%@"?</string>
 	<key>Artist</key>
 	<string>Artist</string>
+	<key>Authenticate</key>
+	<string>Authenticate</string>
+	<key>Authentication Required</key>
+	<string>Authentication Required</string>
 	<key>Cancel</key>
 	<string>Avbryt</string>
 	<key>Capability checking ensures that plug-ins that are incompatible with this version of the server or the current client application you are using are hidden. Disabling capability checking is useful during development, but will enable access to plug-ins that may perform unreliably with certain client applications.</key>
@@ -140,6 +144,8 @@ Are you sure it's running?</key>
 	<string>Genrer</string>
 	<key>Got this error: %@. Are you sure Plex Media Server is running?</key>
 	<string>Fick följande fel: %@. Är du säker att Plex Media Server är påslagen?</string>
+	<key>If you want to share your media over the Internet, you can turn on Secure Server Access to prevent unauthorized access to your server.</key>
+	<string>If you want to share your media over the Internet, you can turn on Secure Server Access to prevent unauthorized access to your server.</string>
 	<key>Include music sections in automatic updates</key>
 	<string>Inkludera musiksektioner i automatiska uppdateringar</string>
 	<key>LIBRARY SECTIONS</key>
@@ -192,8 +198,12 @@ Are you sure it's running?</key>
 	<string>Ursprungligen tillgänglig</string>
 	<key>PM</key>
 	<string>PM</string>
+	<key>Password</key>
+	<string>Password</string>
 	<key>Path of the directory you'd like to add:</key>
 	<string>Sökvägen till mappen du vill lägga till:</string>
+	<key>Plex Media Server requires a username and password:</key>
+	<string>Plex Media Server requires a username and password:</string>
 	<key>Preferences</key>
 	<string>Inställningar</string>
 	<key>Primary metadata agent:</key>
@@ -214,6 +224,8 @@ Are you sure it's running?</key>
 	<string>Radera sektion</string>
 	<key>Requesting metadata for '%@'</key>
 	<string>Begär metadata för '%@'</string>
+	<key>Require a username and password to access Plex Media Server</key>
+	<string>Require a username and password to access Plex Media Server</string>
 	<key>Saturday</key>
 	<string>Lördag</string>
 	<key>Save</key>
@@ -228,6 +240,8 @@ Are you sure it's running?</key>
 	<string>Sektionsnamn:</string>
 	<key>Section type:</key>
 	<string>Sektionstyp:</string>
+	<key>Secure Server Access</key>
+	<string>Secure Server Access</string>
 	<key>Security</key>
 	<string>Säkerhet</string>
 	<key>Select</key>
@@ -294,6 +308,8 @@ Are you sure it's running?</key>
 	<string>Uppdatera mitt bibliotek</string>
 	<key>Update my library when changes to my folders are detected</key>
 	<string>Uppdatera mitt bibliotek när ändringar i mina mappar upptäcks</string>
+	<key>Username</key>
+	<string>Username</string>
 	<key>Wednesday</key>
 	<string>Onsdag</string>
 	<key>Writers</key>

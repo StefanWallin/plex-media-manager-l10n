@@ -114,6 +114,12 @@
 /* Artist */
 "Artist" = "아티스트";
 
+/* Authenticate */
+"Authenticate" = "Authenticate";
+
+/* Login prompt title */
+"Authentication Required" = "Authentication Required";
+
 /* Cancel */
 "Cancel" = "취소";
 
@@ -231,6 +237,9 @@
 /* Library scan interval (i.e. Update my library hourly) */
 "hourly" = "매시간";
 
+/* Security preference pane explanation */
+"If you want to share your media over the Internet, you can turn on Secure Server Access to prevent unauthorized access to your server." = "If you want to share your media over the Internet, you can turn on Secure Server Access to prevent unauthorized access to your server.";
+
 /* Preference window setting */
 "Include music sections in automatic updates" = "자동 업데이트에 음악 섹션 포함";
 
@@ -279,11 +288,11 @@
 /* Monday */
 "Monday" = "월요일";
 
-/* A movie */
-"movie" = "영화";
-
 /* Movie */
 "Movie" = "영화";
+
+/* A movie */
+"movie" = "영화";
 
 /* Movies */
 "Movies" = "영화";
@@ -332,8 +341,14 @@
 /* Originally Available */
 "Originally Available" = "개봉(첫방송)일";
 
+/* Password field placeholder */
+"Password" = "Password";
+
 /* Instruction text for the prompt to add directories manually */
 "Path of the directory you'd like to add:" = "추가하고자 하는 디렉토리 경로:";
+
+/* Login prompt message */
+"Plex Media Server requires a username and password:" = "Plex Media Server requires a username and password:";
 
 /* PostMeridiem */
 "PM" = "PM";
@@ -368,6 +383,9 @@
 /* Metadata item status message when its info is downloading */
 "Requesting metadata for '%@'" = "'%@' 메타데이터 요청중";
 
+/* Check box label for turning security on and off */
+"Require a username and password to access Plex Media Server" = "Require a username and password to access Plex Media Server";
+
 /* Saturday */
 "Saturday" = "토요일";
 
@@ -391,6 +409,9 @@
 
 /* Section type label */
 "Section type:" = "섹션 타입:";
+
+/* Security preference pane title */
+"Secure Server Access" = "Secure Server Access";
 
 /* Security */
 "Security" = "보안";
@@ -425,11 +446,11 @@
 /* Sharing */
 "Sharing" = "공유";
 
-/* Show */
-"Show" = "쇼";
-
 /* A TV Show */
 "show" = "쇼";
+
+/* Show */
+"Show" = "쇼";
 
 /* Sort Title */
 "Sort Title" = "기타 제목";
@@ -499,6 +520,9 @@
 
 /* Update section confirm button text */
 "Update Section" = "섹션 업데이트";
+
+/* Username field placeholder */
+"Username" = "Username";
 
 /* Wednesday */
 "Wednesday" = "수요일";

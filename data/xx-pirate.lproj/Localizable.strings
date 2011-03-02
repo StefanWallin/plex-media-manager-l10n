@@ -114,6 +114,12 @@
 /* Artist */
 "Artist" = "Arrrtist";
 
+/* Authenticate */
+"Authenticate" = "Authenticate";
+
+/* Login prompt title */
+"Authentication Required" = "Authentication Required";
+
 /* Cancel */
 "Cancel" = "Belay that!";
 
@@ -231,6 +237,9 @@
 /* Library scan interval (i.e. Update my library hourly) */
 "hourly" = "on the chime of the hour";
 
+/* Security preference pane explanation */
+"If you want to share your media over the Internet, you can turn on Secure Server Access to prevent unauthorized access to your server." = "If you want to share your media over the Internet, you can turn on Secure Server Access to prevent unauthorized access to your server.";
+
 /* Preference window setting */
 "Include music sections in automatic updates" = "Plunder musical booty regularly";
 
@@ -279,11 +288,11 @@
 /* Monday */
 "Monday" = "Monday";
 
-/* A movie */
-"movie" = "long story";
-
 /* Movie */
 "Movie" = "Long Story";
+
+/* A movie */
+"movie" = "long story";
 
 /* Movies */
 "Movies" = "Long Stories";
@@ -332,8 +341,14 @@
 /* Originally Available */
 "Originally Available" = "When 'twas known";
 
+/* Password field placeholder */
+"Password" = "Password";
+
 /* Instruction text for the prompt to add directories manually */
 "Path of the directory you'd like to add:" = "Where d'ye keep yer booty, matey?";
+
+/* Login prompt message */
+"Plex Media Server requires a username and password:" = "Plex Media Server requires a username and password:";
 
 /* PostMeridiem */
 "PM" = "o' the eve";
@@ -368,6 +383,9 @@
 /* Metadata item status message when its info is downloading */
 "Requesting metadata for '%@'" = "Askin' about '%@'";
 
+/* Check box label for turning security on and off */
+"Require a username and password to access Plex Media Server" = "Require a username and password to access Plex Media Server";
+
 /* Saturday */
 "Saturday" = "Saturday";
 
@@ -391,6 +409,9 @@
 
 /* Section type label */
 "Section type:" = "Booty type:";
+
+/* Security preference pane title */
+"Secure Server Access" = "Secure Server Access";
 
 /* Security */
 "Security" = "Pirate's Code";
@@ -425,11 +446,11 @@
 /* Sharing */
 "Sharing" = "Divvy";
 
-/* Show */
-"Show" = "Troupe";
-
 /* A TV Show */
 "show" = "troupe";
+
+/* Show */
+"Show" = "Troupe";
 
 /* Sort Title */
 "Sort Title" = "Placement name";
@@ -499,6 +520,9 @@
 
 /* Update section confirm button text */
 "Update Section" = "Plunder me booty";
+
+/* Username field placeholder */
+"Username" = "Username";
 
 /* Wednesday */
 "Wednesday" = "Wednesday";

@@ -74,6 +74,10 @@
 	<string>Weet je zeker dat je de sectie  "%@" wilt verwijderen?</string>
 	<key>Artist</key>
 	<string>Artiest</string>
+	<key>Authenticate</key>
+	<string>Authenticate</string>
+	<key>Authentication Required</key>
+	<string>Authentication Required</string>
 	<key>Cancel</key>
 	<string>Annuleer</string>
 	<key>Capability checking ensures that plug-ins that are incompatible with this version of the server or the current client application you are using are hidden. Disabling capability checking is useful during development, but will enable access to plug-ins that may perform unreliably with certain client applications.</key>
@@ -140,6 +144,8 @@ Weet je zeker dat PMS aan staat?</string>
 	<string>Genres</string>
 	<key>Got this error: %@. Are you sure Plex Media Server is running?</key>
 	<string>Krijg deze foutmelding: %@. Weet je zeker dat de Plex Media Server aan staat?</string>
+	<key>If you want to share your media over the Internet, you can turn on Secure Server Access to prevent unauthorized access to your server.</key>
+	<string>If you want to share your media over the Internet, you can turn on Secure Server Access to prevent unauthorized access to your server.</string>
 	<key>Include music sections in automatic updates</key>
 	<string>Update ook muzieksecties tijdens automatische updates</string>
 	<key>LIBRARY SECTIONS</key>
@@ -192,8 +198,12 @@ Weet je zeker dat PMS aan staat?</string>
 	<string>Originally Available</string>
 	<key>PM</key>
 	<string>PM</string>
+	<key>Password</key>
+	<string>Password</string>
 	<key>Path of the directory you'd like to add:</key>
 	<string>Pad van de directory die je wilt toevoegen:</string>
+	<key>Plex Media Server requires a username and password:</key>
+	<string>Plex Media Server requires a username and password:</string>
 	<key>Preferences</key>
 	<string>Instellingen</string>
 	<key>Primary metadata agent:</key>
@@ -214,6 +224,8 @@ Weet je zeker dat PMS aan staat?</string>
 	<string>Verwijder Sectie</string>
 	<key>Requesting metadata for '%@'</key>
 	<string>Metadata opvragen voor '%@'</string>
+	<key>Require a username and password to access Plex Media Server</key>
+	<string>Require a username and password to access Plex Media Server</string>
 	<key>Saturday</key>
 	<string>Zaterdag</string>
 	<key>Save</key>
@@ -228,6 +240,8 @@ Weet je zeker dat PMS aan staat?</string>
 	<string>Sectienaam:</string>
 	<key>Section type:</key>
 	<string>Sectietype:</string>
+	<key>Secure Server Access</key>
+	<string>Secure Server Access</string>
 	<key>Security</key>
 	<string>Beveiliging</string>
 	<key>Select</key>
@@ -294,6 +308,8 @@ Weet je zeker dat PMS aan staat?</string>
 	<string>Werk mijn bibliotheek bij</string>
 	<key>Update my library when changes to my folders are detected</key>
 	<string>Werk mijn bibliotheek bij wanneer wijzigingen in deze mappen worden gedetecteerd</string>
+	<key>Username</key>
+	<string>Username</string>
 	<key>Wednesday</key>
 	<string>Woensdag</string>
 	<key>Writers</key>

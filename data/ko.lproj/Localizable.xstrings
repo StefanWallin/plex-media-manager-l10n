@@ -74,6 +74,10 @@
 	<string>"%@" 섹션을 삭제하시겠습니까?</string>
 	<key>Artist</key>
 	<string>아티스트</string>
+	<key>Authenticate</key>
+	<string>Authenticate</string>
+	<key>Authentication Required</key>
+	<string>Authentication Required</string>
 	<key>Cancel</key>
 	<string>취소</string>
 	<key>Capability checking ensures that plug-ins that are incompatible with this version of the server or the current client application you are using are hidden. Disabling capability checking is useful during development, but will enable access to plug-ins that may perform unreliably with certain client applications.</key>
@@ -140,6 +144,8 @@ Plex Media Server가 실행 중인지 확인하세요.</string>
 	<string>장르</string>
 	<key>Got this error: %@. Are you sure Plex Media Server is running?</key>
 	<string>에러 발생: %@. Plex Media Server가 실행 중인지 확인하세요.</string>
+	<key>If you want to share your media over the Internet, you can turn on Secure Server Access to prevent unauthorized access to your server.</key>
+	<string>If you want to share your media over the Internet, you can turn on Secure Server Access to prevent unauthorized access to your server.</string>
 	<key>Include music sections in automatic updates</key>
 	<string>자동 업데이트에 음악 섹션 포함</string>
 	<key>LIBRARY SECTIONS</key>
@@ -192,8 +198,12 @@ Plex Media Server가 실행 중인지 확인하세요.</string>
 	<string>개봉(첫방송)일</string>
 	<key>PM</key>
 	<string>PM</string>
+	<key>Password</key>
+	<string>Password</string>
 	<key>Path of the directory you'd like to add:</key>
 	<string>추가하고자 하는 디렉토리 경로:</string>
+	<key>Plex Media Server requires a username and password:</key>
+	<string>Plex Media Server requires a username and password:</string>
 	<key>Preferences</key>
 	<string>설정</string>
 	<key>Primary metadata agent:</key>
@@ -214,6 +224,8 @@ Plex Media Server가 실행 중인지 확인하세요.</string>
 	<string>섹션 삭제</string>
 	<key>Requesting metadata for '%@'</key>
 	<string>'%@' 메타데이터 요청중</string>
+	<key>Require a username and password to access Plex Media Server</key>
+	<string>Require a username and password to access Plex Media Server</string>
 	<key>Saturday</key>
 	<string>토요일</string>
 	<key>Save</key>
@@ -228,6 +240,8 @@ Plex Media Server가 실행 중인지 확인하세요.</string>
 	<string>섹션 이름:</string>
 	<key>Section type:</key>
 	<string>섹션 타입:</string>
+	<key>Secure Server Access</key>
+	<string>Secure Server Access</string>
 	<key>Security</key>
 	<string>보안</string>
 	<key>Select</key>
@@ -294,6 +308,8 @@ Plex Media Server가 실행 중인지 확인하세요.</string>
 	<string>라이브러리 업데이트</string>
 	<key>Update my library when changes to my folders are detected</key>
 	<string>폴더에 변경 발생시 라이브러리 업데이트</string>
+	<key>Username</key>
+	<string>Username</string>
 	<key>Wednesday</key>
 	<string>수요일</string>
 	<key>Writers</key>
