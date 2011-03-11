@@ -66,10 +66,14 @@
 	<string>Voeg hieronder mappen met media toe voor deze sectie. De mediabestanden die gevonden worden in deze mappen zullen met bovenstaande instellingen gescand en toegevoegd worden aan de bibliotheek.</string>
 	<key>Advanced</key>
 	<string>Geavanceerd</string>
+	<key>All deleted items will be permanently removed from your library. No files on your computer will be removed.</key>
+	<string>All deleted items will be permanently removed from your library. No files on your computer will be removed.</string>
 	<key>Any content in this section will no longer be available in your library. The files on your computer will not be removed.</key>
 	<string>Alle inhoud van deze sectie zal niet langer beschikbaar zijn in de bibliotheek. De bestanden zelf worden niet verwijderd.</string>
 	<key>Aperture Sharing Enabled</key>
 	<string>Aperture Delen ingeschakeld</string>
+	<key>Are you sure you want to empty the trash in "%@"?</key>
+	<string>Are you sure you want to empty the trash in "%@"?</string>
 	<key>Are you sure you want to remove the section named "%@"?</key>
 	<string>Weet je zeker dat je de sectie  "%@" wilt verwijderen?</string>
 	<key>Artist</key>
@@ -128,6 +132,14 @@ Weet je zeker dat PMS aan staat?</string>
 	<string>Bewerk Metadata...</string>
 	<key>Edit Section</key>
 	<string>Bewerk Sectie</string>
+	<key>Empty Trash</key>
+	<string>Empty Trash</string>
+	<key>Empty Trash (%d items)</key>
+	<string>Empty Trash (%d items)</string>
+	<key>Empty Trash (1 item)</key>
+	<string>Empty Trash (1 item)</string>
+	<key>Empty trash automatically after every scan</key>
+	<string>Empty trash automatically after every scan</string>
 	<key>Episode %d: %@</key>
 	<string>Aflevering %1$d: %2$@</string>
 	<key>Fix Incorrect Match...</key>
@@ -212,14 +224,14 @@ Weet je zeker dat PMS aan staat?</string>
 	<string>Waardering</string>
 	<key>Refresh Metadata</key>
 	<string>Ververs Info</string>
-	<key>Refresh Section</key>
-	<string>Ververs Sectie</string>
 	<key>Refresh Section (force)</key>
 	<string>Ververs Sectie (forceer)</string>
 	<key>Refreshing info for %d items</key>
 	<string>Ververs info voor %d items</string>
 	<key>Refreshing info for one item</key>
 	<string>Ververs info voor één item</string>
+	<key>Remember me on this computer</key>
+	<string>Remember me on this computer</string>
 	<key>Remove Section</key>
 	<string>Verwijder Sectie</string>
 	<key>Requesting metadata for '%@'</key>

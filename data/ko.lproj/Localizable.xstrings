@@ -66,10 +66,14 @@
 	<string>미디어를 포함하는 폴더를 추가하세요. 해당 폴더 내의 미디어 파일들은 위의 설정에 따라 자동으로 사용자의 라이브러리에 추가됩니다.</string>
 	<key>Advanced</key>
 	<string>고급</string>
+	<key>All deleted items will be permanently removed from your library. No files on your computer will be removed.</key>
+	<string>All deleted items will be permanently removed from your library. No files on your computer will be removed.</string>
 	<key>Any content in this section will no longer be available in your library. The files on your computer will not be removed.</key>
 	<string>이 섹션의 모든 컨텐츠는 더 이상 라이브러리에서 사용되지 않습니다. 사용자의 컴퓨터에 있는 파일은 제거되지 않습니다.</string>
 	<key>Aperture Sharing Enabled</key>
 	<string>Aperture Sharing Enabled</string>
+	<key>Are you sure you want to empty the trash in "%@"?</key>
+	<string>Are you sure you want to empty the trash in "%@"?</string>
 	<key>Are you sure you want to remove the section named "%@"?</key>
 	<string>"%@" 섹션을 삭제하시겠습니까?</string>
 	<key>Artist</key>
@@ -128,6 +132,14 @@ Plex Media Server가 실행 중인지 확인하세요.</string>
 	<string>메타데이터 편집...</string>
 	<key>Edit Section</key>
 	<string>섹션 편집</string>
+	<key>Empty Trash</key>
+	<string>Empty Trash</string>
+	<key>Empty Trash (%d items)</key>
+	<string>Empty Trash (%d items)</string>
+	<key>Empty Trash (1 item)</key>
+	<string>Empty Trash (1 item)</string>
+	<key>Empty trash automatically after every scan</key>
+	<string>Empty trash automatically after every scan</string>
 	<key>Episode %d: %@</key>
 	<string>Episode %1$d: %2$@</string>
 	<key>Fix Incorrect Match...</key>
@@ -212,14 +224,14 @@ Plex Media Server가 실행 중인지 확인하세요.</string>
 	<string>평점</string>
 	<key>Refresh Metadata</key>
 	<string>정보 새로고침</string>
-	<key>Refresh Section</key>
-	<string>섹션 새로고침</string>
 	<key>Refresh Section (force)</key>
 	<string>섹션 새로고침 (강제)</string>
 	<key>Refreshing info for %d items</key>
 	<string>%d 아이템의 정보를 갱신하고 있습니다.</string>
 	<key>Refreshing info for one item</key>
 	<string>아이템의 정보를 갱신하고 있습니다.</string>
+	<key>Remember me on this computer</key>
+	<string>Remember me on this computer</string>
 	<key>Remove Section</key>
 	<string>섹션 삭제</string>
 	<key>Requesting metadata for '%@'</key>

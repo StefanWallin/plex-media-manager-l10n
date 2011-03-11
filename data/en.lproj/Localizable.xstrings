@@ -66,10 +66,14 @@
 	<string>Add the folders containing media for this section below. Any media files found inside these folders will be scanned into your library using the above settings.</string>
 	<key>Advanced</key>
 	<string>Advanced</string>
+	<key>All deleted items will be permanently removed from your library. No files on your computer will be removed.</key>
+	<string>All deleted items will be permanently removed from your library. No files on your computer will be removed.</string>
 	<key>Any content in this section will no longer be available in your library. The files on your computer will not be removed.</key>
 	<string>Any content in this section will no longer be available in your library. The files on your computer will not be removed.</string>
 	<key>Aperture Sharing Enabled</key>
 	<string>Aperture Sharing Enabled</string>
+	<key>Are you sure you want to empty the trash in "%@"?</key>
+	<string>Are you sure you want to empty the trash in "%@"?</string>
 	<key>Are you sure you want to remove the section named "%@"?</key>
 	<string>Are you sure you want to remove the section named "%@"?</string>
 	<key>Artist</key>
@@ -128,6 +132,14 @@ Are you sure it's running?</string>
 	<string>Edit Metadata...</string>
 	<key>Edit Section</key>
 	<string>Edit Section</string>
+	<key>Empty Trash</key>
+	<string>Empty Trash</string>
+	<key>Empty Trash (%d items)</key>
+	<string>Empty Trash (%d items)</string>
+	<key>Empty Trash (1 item)</key>
+	<string>Empty Trash (1 item)</string>
+	<key>Empty trash automatically after every scan</key>
+	<string>Empty trash automatically after every scan</string>
 	<key>Episode %d: %@</key>
 	<string>Episode %1$d: %2$@</string>
 	<key>Fix Incorrect Match...</key>
@@ -212,14 +224,12 @@ Are you sure it's running?</string>
 	<string>Rating</string>
 	<key>Refresh Metadata</key>
 	<string>Refresh Metadata</string>
-	<key>Refresh Section</key>
-	<string>Refresh Section</string>
-	<key>Refresh Section (force)</key>
-	<string>Refresh Section (force)</string>
 	<key>Refreshing info for %d items</key>
 	<string>Refreshing info for %d items</string>
 	<key>Refreshing info for one item</key>
 	<string>Refreshing info for one item</string>
+	<key>Remember me on this computer</key>
+	<string>Remember me on this computer</string>
 	<key>Remove Section</key>
 	<string>Remove Section</string>
 	<key>Requesting metadata for '%@'</key>

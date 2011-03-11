@@ -96,6 +96,9 @@
 /* A recording album */
 "album" = "앨범";
 
+/* Explanation text for the empty trash confirmation dialog */
+"All deleted items will be permanently removed from your library. No files on your computer will be removed." = "All deleted items will be permanently removed from your library. No files on your computer will be removed.";
+
 /* AnteMeridiem */
 "AM" = "AM";
 
@@ -104,6 +107,9 @@
 
 /* Preference window setting */
 "Aperture Sharing Enabled" = "Aperture Sharing Enabled";
+
+/* Confirmation text for the empty trash confirmation dialog */
+"Are you sure you want to empty the trash in \"%@\"?" = "Are you sure you want to empty the trash in \"%@\"?";
 
 /* Confirmation message for removing a section */
 "Are you sure you want to remove the section named \"%@\"?" = "\"%@\" 섹션을 삭제하시겠습니까?";
@@ -191,6 +197,19 @@
 
 /* Edit Section */
 "Edit Section" = "섹션 편집";
+
+/* Confirmation button for the empty trash confirmation dialog
+   Menu item title in the library section action menu when there is nothing in the trash */
+"Empty Trash" = "Empty Trash";
+
+/* Menu item title in the library section action menu when there is more than one item in the trash */
+"Empty Trash (%d items)" = "Empty Trash (%d items)";
+
+/* Menu item title in the library section action menu when there is one item in the trash */
+"Empty Trash (1 item)" = "Empty Trash (1 item)";
+
+/* Preference window setting */
+"Empty trash automatically after every scan" = "Empty trash automatically after every scan";
 
 /* A TV Show episode */
 "episode" = "에피소드";
@@ -365,9 +384,6 @@
 /* Context menu item for metadata items */
 "Refresh Metadata" = "정보 새로고침";
 
-/* Refresh Section */
-"Refresh Section" = "섹션 새로고침";
-
 /* Refresh Section (force) */
 "Refresh Section (force)" = "섹션 새로고침 (강제)";
 
@@ -376,6 +392,9 @@
 
 /* Status label for refreshing sections with one remaining item */
 "Refreshing info for one item" = "아이템의 정보를 갱신하고 있습니다.";
+
+/* Check box label for the login prompt */
+"Remember me on this computer" = "Remember me on this computer";
 
 /* Remove section confirmation button */
 "Remove Section" = "섹션 삭제";
@@ -446,11 +465,11 @@
 /* Sharing */
 "Sharing" = "공유";
 
-/* A TV Show */
-"show" = "쇼";
-
 /* Show */
 "Show" = "쇼";
+
+/* A TV Show */
+"show" = "쇼";
 
 /* Sort Title */
 "Sort Title" = "기타 제목";

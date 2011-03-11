@@ -96,6 +96,9 @@
 /* A recording album */
 "album" = "album";
 
+/* Explanation text for the empty trash confirmation dialog */
+"All deleted items will be permanently removed from your library. No files on your computer will be removed." = "All deleted items will be permanently removed from your library. No files on your computer will be removed.";
+
 /* AnteMeridiem */
 "AM" = "AM";
 
@@ -104,6 +107,9 @@
 
 /* Preference window setting */
 "Aperture Sharing Enabled" = "Partage Aperture Activé";
+
+/* Confirmation text for the empty trash confirmation dialog */
+"Are you sure you want to empty the trash in \"%@\"?" = "Are you sure you want to empty the trash in \"%@\"?";
 
 /* Confirmation message for removing a section */
 "Are you sure you want to remove the section named \"%@\"?" = "Etes vous sur de vouloir supprimer la section \"%@\"?";
@@ -191,6 +197,19 @@
 
 /* Edit Section */
 "Edit Section" = "Modification Section";
+
+/* Confirmation button for the empty trash confirmation dialog
+   Menu item title in the library section action menu when there is nothing in the trash */
+"Empty Trash" = "Empty Trash";
+
+/* Menu item title in the library section action menu when there is more than one item in the trash */
+"Empty Trash (%d items)" = "Empty Trash (%d items)";
+
+/* Menu item title in the library section action menu when there is one item in the trash */
+"Empty Trash (1 item)" = "Empty Trash (1 item)";
+
+/* Preference window setting */
+"Empty trash automatically after every scan" = "Empty trash automatically after every scan";
 
 /* A TV Show episode */
 "episode" = "épisode";
@@ -365,9 +384,6 @@
 /* Context menu item for metadata items */
 "Refresh Metadata" = "Rafraichir Info";
 
-/* Refresh Section */
-"Refresh Section" = "Rafraichir Section";
-
 /* Refresh Section (force) */
 "Refresh Section (force)" = "Rafraichir Section (forcer)";
 
@@ -376,6 +392,9 @@
 
 /* Status label for refreshing sections with one remaining item */
 "Refreshing info for one item" = "Rafraichissement infos pour un objet";
+
+/* Check box label for the login prompt */
+"Remember me on this computer" = "Remember me on this computer";
 
 /* Remove section confirmation button */
 "Remove Section" = "Supprimer Section";
@@ -446,11 +465,11 @@
 /* Sharing */
 "Sharing" = "Partage";
 
-/* A TV Show */
-"show" = "série";
-
 /* Show */
 "Show" = "Série";
+
+/* A TV Show */
+"show" = "série";
 
 /* Sort Title */
 "Sort Title" = "Trier par titre";

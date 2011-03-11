@@ -66,10 +66,14 @@
 	<string>Tell us where ye keep yer booty that we may plunder it!</string>
 	<key>Advanced</key>
 	<string>Skilled</string>
+	<key>All deleted items will be permanently removed from your library. No files on your computer will be removed.</key>
+	<string>All yer missing booty be joinin' Davey Jones if ye agree, but yer files shant be hurt.</string>
 	<key>Any content in this section will no longer be available in your library. The files on your computer will not be removed.</key>
 	<string>Yer booty will be buried and hidden from the view of man and the gods!</string>
 	<key>Aperture Sharing Enabled</key>
 	<string>Let Aperture be seen</string>
+	<key>Are you sure you want to empty the trash in "%@"?</key>
+	<string>Throw the wastes of "%@" overboard?</string>
 	<key>Are you sure you want to remove the section named "%@"?</key>
 	<string>Forever hide your booty in "%@"?</string>
 	<key>Artist</key>
@@ -126,6 +130,14 @@ Are you sure it's running?</key>
 	<string>Change yer infos...</string>
 	<key>Edit Section</key>
 	<string>Change yer infos</string>
+	<key>Empty Trash</key>
+	<string>Dump Wastes</string>
+	<key>Empty Trash (%d items)</key>
+	<string>Dump Wastes (%d items)</string>
+	<key>Empty Trash (1 item)</key>
+	<string>Dump Wastes (1 item)</string>
+	<key>Empty trash automatically after every scan</key>
+	<string>Dump wastes with each plunderin'</string>
 	<key>Episode %d: %@</key>
 	<string>Story %1$d: %2$@</string>
 	<key>Fix Incorrect Match...</key>
@@ -201,7 +213,7 @@ Are you sure it's running?</key>
 	<key>Path of the directory you'd like to add:</key>
 	<string>Where d'ye keep yer booty, matey?</string>
 	<key>Plex Media Server requires a username and password:</key>
-	<string>Plex Media Server requires a username and password:</string>
+	<string>Plex Media Server ain't be trustin' ya:</string>
 	<key>Preferences</key>
 	<string>Dock</string>
 	<key>Primary metadata agent:</key>
@@ -210,20 +222,20 @@ Are you sure it's running?</key>
 	<string>Rating</string>
 	<key>Refresh Metadata</key>
 	<string>Plunder again</string>
-	<key>Refresh Section</key>
-	<string>Plunder again</string>
 	<key>Refresh Section (force)</key>
 	<string>Plunder again (with swords slashing)</string>
 	<key>Refreshing info for %d items</key>
 	<string>Plundering info for %d pieces of booty</string>
 	<key>Refreshing info for one item</key>
 	<string>Plundering info for one piece of booty</string>
+	<key>Remember me on this computer</key>
+	<string>I am who I am, trouble me no more!</string>
 	<key>Remove Section</key>
 	<string>Throw overboard</string>
 	<key>Requesting metadata for '%@'</key>
 	<string>Askin' about '%@'</string>
 	<key>Require a username and password to access Plex Media Server</key>
-	<string>Require a username and password to access Plex Media Server</string>
+	<string>Make all who enter utter the password</string>
 	<key>Saturday</key>
 	<string>Saturday</string>
 	<key>Save</key>
@@ -307,7 +319,7 @@ Are you sure it's running?</key>
 	<key>Update my library when changes to my folders are detected</key>
 	<string>Plunder me booty when something begins to stir</string>
 	<key>Username</key>
-	<string>Username</string>
+	<string>Who y'are</string>
 	<key>Wednesday</key>
 	<string>Wednesday</string>
 	<key>Writers</key>

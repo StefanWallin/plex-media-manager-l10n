@@ -66,10 +66,14 @@
 	<string>Fügen Sie Ordner mit Mediendaten in den untenstehenden Bereich ein. Jede gefundene Mediendatei wird entsprechend der oben gemachten Einstellungen in die Bibliothek aufgenommen.</string>
 	<key>Advanced</key>
 	<string>Erweitert</string>
+	<key>All deleted items will be permanently removed from your library. No files on your computer will be removed.</key>
+	<string>All deleted items will be permanently removed from your library. No files on your computer will be removed.</string>
 	<key>Any content in this section will no longer be available in your library. The files on your computer will not be removed.</key>
 	<string>Alle Inhalte dieser Sektionen werden aus Ihrer Bibliothek entfernt. Die Mediendateien auf Ihrem Rechner werden nicht gelöscht.</string>
 	<key>Aperture Sharing Enabled</key>
 	<string>Aperture Freigabe aktivieren</string>
+	<key>Are you sure you want to empty the trash in "%@"?</key>
+	<string>Are you sure you want to empty the trash in "%@"?</string>
 	<key>Are you sure you want to remove the section named "%@"?</key>
 	<string>Wollen Sie die Sektion "%@" wirklich löschen?</string>
 	<key>Artist</key>
@@ -128,6 +132,14 @@ Stellen Sie sicher, dass der Server läuft.</string>
 	<string>Metadaten bearbeiten...</string>
 	<key>Edit Section</key>
 	<string>Sektion bearbeiten</string>
+	<key>Empty Trash</key>
+	<string>Empty Trash</string>
+	<key>Empty Trash (%d items)</key>
+	<string>Empty Trash (%d items)</string>
+	<key>Empty Trash (1 item)</key>
+	<string>Empty Trash (1 item)</string>
+	<key>Empty trash automatically after every scan</key>
+	<string>Empty trash automatically after every scan</string>
 	<key>Episode %d: %@</key>
 	<string>Episode %1$d: %2$@</string>
 	<key>Fix Incorrect Match...</key>
@@ -212,14 +224,14 @@ Stellen Sie sicher, dass der Server läuft.</string>
 	<string>Bewertung</string>
 	<key>Refresh Metadata</key>
 	<string>Informationen aktualisieren</string>
-	<key>Refresh Section</key>
-	<string>Sektion aktualisieren</string>
 	<key>Refresh Section (force)</key>
 	<string>Sektion aktualisieren erzwingen</string>
 	<key>Refreshing info for %d items</key>
 	<string>Aktualisiere Informationen für %d Einträge</string>
 	<key>Refreshing info for one item</key>
 	<string>Aktualisiere Informationen für einen Eintrag</string>
+	<key>Remember me on this computer</key>
+	<string>Remember me on this computer</string>
 	<key>Remove Section</key>
 	<string>Sektion entfernen</string>
 	<key>Requesting metadata for '%@'</key>
@@ -301,7 +313,7 @@ Stellen Sie sicher, dass der Server läuft.</string>
 	<key>Unable to update library section</key>
 	<string>Konnte Sektion nicht aktualisieren</string>
 	<key>Unmatch</key>
-	<string>Unmatch</string>
+	<string>Metadaten verwerfen</string>
 	<key>Update Section</key>
 	<string>Sektion aktualisieren</string>
 	<key>Update my library</key>

@@ -66,10 +66,14 @@
 	<string>Edd zee fulders cunteeening medeea fur thees secshun beloo. Uny medeea feeles fuoond inseede-a zeese-a fulders veell be-a scunned intu yuoor leebrery useeng zee ebufe-a setteengs.</string>
 	<key>Advanced</key>
 	<string>Edfunced</string>
+	<key>All deleted items will be permanently removed from your library. No files on your computer will be removed.</key>
+	<string>Ell deleted items veell be-a permunently remufed frum yuoor leebrery. Nu feeles oon yuoor cumpooter veell be-a remufed.</string>
 	<key>Any content in this section will no longer be available in your library. The files on your computer will not be removed.</key>
 	<string>Uny cuntent in thees secshun veell nu lunger be-a efeeeleble-a in yuoor leebrery. Zee feeles oon yuoor cumpooter veell nut be-a remufed.</string>
 	<key>Aperture Sharing Enabled</key>
 	<string>Epertoore-a Shereeng Inebled</string>
+	<key>Are you sure you want to empty the trash in "%@"?</key>
+	<string>Ere-a yuoo soore-a yuoo vunt tu impty zee tresh in "%@"?</string>
 	<key>Are you sure you want to remove the section named "%@"?</key>
 	<string>Ere-a yuoo soore-a yuoo vunt tu remufe-a zee secshun nemed "%@"?</string>
 	<key>Artist</key>
@@ -128,6 +132,14 @@ Are yuoo soore-a it's roonneeng?</string>
 	<string>Edeet Metedeta...</string>
 	<key>Edit Section</key>
 	<string>Edeet Secshun</string>
+	<key>Empty Trash</key>
+	<string>Empty Tresh</string>
+	<key>Empty Trash (%d items)</key>
+	<string>Empty Tresh (%d items)</string>
+	<key>Empty Trash (1 item)</key>
+	<string>Empty Tresh (1 item)</string>
+	<key>Empty trash automatically after every scan</key>
+	<string>Empty tresh ootumeteecelly effter ifery scun</string>
 	<key>Episode %d: %@</key>
 	<string>Epeesude-a %d: %@</string>
 	<key>Fix Incorrect Match...</key>
@@ -212,14 +224,12 @@ Are yuoo soore-a it's roonneeng?</string>
 	<string>Reteeng</string>
 	<key>Refresh Metadata</key>
 	<string>Reffresh Metedeta</string>
-	<key>Refresh Section</key>
-	<string>Reffresh Secshun</string>
-	<key>Refresh Section (force)</key>
-	<string>Reffresh Secshun (furce-a)</string>
 	<key>Refreshing info for %d items</key>
 	<string>Reffresheeng inffu fur %d items</string>
 	<key>Refreshing info for one item</key>
 	<string>Reffresheeng inffu fur oone-a item</string>
+	<key>Remember me on this computer</key>
+	<string>Remember me-a oon thees cumpooter</string>
 	<key>Remove Section</key>
 	<string>Remufe-a Secshun</string>
 	<key>Requesting metadata for '%@'</key>

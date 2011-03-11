@@ -96,6 +96,9 @@
 /* A recording album */
 "album" = "musical story";
 
+/* Explanation text for the empty trash confirmation dialog */
+"All deleted items will be permanently removed from your library. No files on your computer will be removed." = "All yer missing booty be joinin' Davey Jones if ye agree, but yer files shant be hurt.";
+
 /* AnteMeridiem */
 "AM" = "o' the morn";
 
@@ -104,6 +107,9 @@
 
 /* Preference window setting */
 "Aperture Sharing Enabled" = "Let Aperture be seen";
+
+/* Confirmation text for the empty trash confirmation dialog */
+"Are you sure you want to empty the trash in \"%@\"?" = "Throw the wastes of \"%@\" overboard?";
 
 /* Confirmation message for removing a section */
 "Are you sure you want to remove the section named \"%@\"?" = "Forever hide your booty in \"%@\"?";
@@ -191,6 +197,19 @@
 
 /* Edit Section */
 "Edit Section" = "Change yer infos";
+
+/* Confirmation button for the empty trash confirmation dialog
+   Menu item title in the library section action menu when there is nothing in the trash */
+"Empty Trash" = "Dump Wastes";
+
+/* Menu item title in the library section action menu when there is more than one item in the trash */
+"Empty Trash (%d items)" = "Dump Wastes (%d items)";
+
+/* Menu item title in the library section action menu when there is one item in the trash */
+"Empty Trash (1 item)" = "Dump Wastes (1 item)";
+
+/* Preference window setting */
+"Empty trash automatically after every scan" = "Dump wastes with each plunderin'";
 
 /* A TV Show episode */
 "episode" = "story";
@@ -348,7 +367,7 @@
 "Path of the directory you'd like to add:" = "Where d'ye keep yer booty, matey?";
 
 /* Login prompt message */
-"Plex Media Server requires a username and password:" = "Plex Media Server requires a username and password:";
+"Plex Media Server requires a username and password:" = "Plex Media Server ain't be trustin' ya:";
 
 /* PostMeridiem */
 "PM" = "o' the eve";
@@ -365,9 +384,6 @@
 /* Context menu item for metadata items */
 "Refresh Metadata" = "Plunder again";
 
-/* Refresh Section */
-"Refresh Section" = "Plunder again";
-
 /* Refresh Section (force) */
 "Refresh Section (force)" = "Plunder again (with swords slashing)";
 
@@ -377,6 +393,9 @@
 /* Status label for refreshing sections with one remaining item */
 "Refreshing info for one item" = "Plundering info for one piece of booty";
 
+/* Check box label for the login prompt */
+"Remember me on this computer" = "I am who I am, trouble me no more!";
+
 /* Remove section confirmation button */
 "Remove Section" = "Throw overboard";
 
@@ -384,7 +403,7 @@
 "Requesting metadata for '%@'" = "Askin' about '%@'";
 
 /* Check box label for turning security on and off */
-"Require a username and password to access Plex Media Server" = "Require a username and password to access Plex Media Server";
+"Require a username and password to access Plex Media Server" = "Make all who enter utter the password";
 
 /* Saturday */
 "Saturday" = "Saturday";
@@ -446,11 +465,11 @@
 /* Sharing */
 "Sharing" = "Divvy";
 
-/* A TV Show */
-"show" = "troupe";
-
 /* Show */
 "Show" = "Troupe";
+
+/* A TV Show */
+"show" = "troupe";
 
 /* Sort Title */
 "Sort Title" = "Placement name";
@@ -522,7 +541,7 @@
 "Update Section" = "Plunder me booty";
 
 /* Username field placeholder */
-"Username" = "Username";
+"Username" = "Who y'are";
 
 /* Wednesday */
 "Wednesday" = "Wednesday";

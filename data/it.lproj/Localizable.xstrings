@@ -66,10 +66,14 @@
 	<string>Aggiungi sotto le cartelle contenenti i files per questa sezione. Qualsiasi file trovato in queste cartelle verra' aggiunto alla tua libreria usando i settaggi indicati sotto</string>
 	<key>Advanced</key>
 	<string>Avanzato</string>
+	<key>All deleted items will be permanently removed from your library. No files on your computer will be removed.</key>
+	<string>All deleted items will be permanently removed from your library. No files on your computer will be removed.</string>
 	<key>Any content in this section will no longer be available in your library. The files on your computer will not be removed.</key>
 	<string>Qualsiasi contenuto di questa sezione non sara' piu' disponibile per la tua libreria. I files non saranno rimossi dal tuo computer</string>
 	<key>Aperture Sharing Enabled</key>
 	<string>Condivisione Aperture abilitata</string>
+	<key>Are you sure you want to empty the trash in "%@"?</key>
+	<string>Are you sure you want to empty the trash in "%@"?</string>
 	<key>Are you sure you want to remove the section named "%@"?</key>
 	<string>Sei sicuro di voler rimuovere la sezione "%@"?</string>
 	<key>Artist</key>
@@ -128,6 +132,14 @@ Sei sicuro che sia in funzione?</string>
 	<string>Modifica Metadata...</string>
 	<key>Edit Section</key>
 	<string>Modifica Sezione</string>
+	<key>Empty Trash</key>
+	<string>Empty Trash</string>
+	<key>Empty Trash (%d items)</key>
+	<string>Empty Trash (%d items)</string>
+	<key>Empty Trash (1 item)</key>
+	<string>Empty Trash (1 item)</string>
+	<key>Empty trash automatically after every scan</key>
+	<string>Empty trash automatically after every scan</string>
 	<key>Episode %d: %@</key>
 	<string>Episodio %1$d: %2$@</string>
 	<key>Fix Incorrect Match...</key>
@@ -212,14 +224,14 @@ Sei sicuro che sia in funzione?</string>
 	<string>Valutazione</string>
 	<key>Refresh Metadata</key>
 	<string>Aggiorna informazioni</string>
-	<key>Refresh Section</key>
-	<string>Aggiorna Sezione</string>
 	<key>Refresh Section (force)</key>
 	<string>Aggiorna Sezione (forzata)</string>
 	<key>Refreshing info for %d items</key>
 	<string>Aggiornando info per %d oggetti</string>
 	<key>Refreshing info for one item</key>
 	<string>Aggiornando info per un oggetto</string>
+	<key>Remember me on this computer</key>
+	<string>Remember me on this computer</string>
 	<key>Remove Section</key>
 	<string>Rimuovi sezione</string>
 	<key>Requesting metadata for '%@'</key>

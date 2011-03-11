@@ -66,10 +66,14 @@
 	<string>Tilføj mapper, som indeholder medierne til samlingen nedenfor. Alle mediefiler i disse mapper vil blive scannet og tilføjet dit bibliotek ved hjælp af ovenstående indstillinger.</string>
 	<key>Advanced</key>
 	<string>Avanceret</string>
+	<key>All deleted items will be permanently removed from your library. No files on your computer will be removed.</key>
+	<string>All deleted items will be permanently removed from your library. No files on your computer will be removed.</string>
 	<key>Any content in this section will no longer be available in your library. The files on your computer will not be removed.</key>
 	<string>Alt indhold i denne samling vil ikke længere være til rådighed i dit bibliotek. Mediefilerne på din computer vil ikke blive slettet.</string>
 	<key>Aperture Sharing Enabled</key>
 	<string>Aperture Deling Aktiveret</string>
+	<key>Are you sure you want to empty the trash in "%@"?</key>
+	<string>Are you sure you want to empty the trash in "%@"?</string>
 	<key>Are you sure you want to remove the section named "%@"?</key>
 	<string>Er du sikker på du vil fjerne samlingen som hedder "%@"?</string>
 	<key>Artist</key>
@@ -128,6 +132,14 @@ Er du sikker på at den er startet?</string>
 	<string>Rediger Metadata...</string>
 	<key>Edit Section</key>
 	<string>Rediger Samling</string>
+	<key>Empty Trash</key>
+	<string>Empty Trash</string>
+	<key>Empty Trash (%d items)</key>
+	<string>Empty Trash (%d items)</string>
+	<key>Empty Trash (1 item)</key>
+	<string>Empty Trash (1 item)</string>
+	<key>Empty trash automatically after every scan</key>
+	<string>Empty trash automatically after every scan</string>
 	<key>Episode %d: %@</key>
 	<string>Episode %1$d: %2$@</string>
 	<key>Fix Incorrect Match...</key>
@@ -212,14 +224,14 @@ Er du sikker på at den er startet?</string>
 	<string>Bedømmelse</string>
 	<key>Refresh Metadata</key>
 	<string>Opdater Info</string>
-	<key>Refresh Section</key>
-	<string>Opdater Samling</string>
 	<key>Refresh Section (force)</key>
 	<string>Opdater Samling (tvunget)</string>
 	<key>Refreshing info for %d items</key>
 	<string>Opdaterer info for %d items</string>
 	<key>Refreshing info for one item</key>
 	<string>Opdaterer info for et emne</string>
+	<key>Remember me on this computer</key>
+	<string>Remember me on this computer</string>
 	<key>Remove Section</key>
 	<string>Fjern Samling</string>
 	<key>Requesting metadata for '%@'</key>

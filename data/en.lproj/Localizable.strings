@@ -96,6 +96,9 @@
 /* A recording album */
 "album" = "album";
 
+/* Explanation text for the empty trash confirmation dialog */
+"All deleted items will be permanently removed from your library. No files on your computer will be removed." = "All deleted items will be permanently removed from your library. No files on your computer will be removed.";
+
 /* AnteMeridiem */
 "AM" = "AM";
 
@@ -104,6 +107,9 @@
 
 /* Preference window setting */
 "Aperture Sharing Enabled" = "Aperture Sharing Enabled";
+
+/* Confirmation text for the empty trash confirmation dialog */
+"Are you sure you want to empty the trash in \"%@\"?" = "Are you sure you want to empty the trash in \"%@\"?";
 
 /* Confirmation message for removing a section */
 "Are you sure you want to remove the section named \"%@\"?" = "Are you sure you want to remove the section named \"%@\"?";
@@ -192,6 +198,18 @@
 /* Edit Section */
 "Edit Section" = "Edit Section";
 
+/* Confirmation button for the empty trash confirmation dialog
+   Menu item title in the library section action menu when there is nothing in the trash */
+"Empty Trash" = "Empty Trash";
+
+/* Menu item title in the library section action menu when there is more than one item in the trash */
+"Empty Trash (%d items)" = "Empty Trash (%d items)";
+
+/* Menu item title in the library section action menu when there is one item in the trash */
+"Empty Trash (1 item)" = "Empty Trash (1 item)";
+
+/* Preference window setting */
+"Empty trash automatically after every scan" = "Empty trash automatically after every scan";
 /* A TV Show episode */
 "episode" = "episode";
 
@@ -365,17 +383,14 @@
 /* Context menu item for metadata items */
 "Refresh Metadata" = "Refresh Metadata";
 
-/* Refresh Section */
-"Refresh Section" = "Refresh Section";
-
-/* Refresh Section (force) */
-"Refresh Section (force)" = "Refresh Section (force)";
-
 /* Status label for refreshing sections */
 "Refreshing info for %d items" = "Refreshing info for %d items";
 
 /* Status label for refreshing sections with one remaining item */
 "Refreshing info for one item" = "Refreshing info for one item";
+
+/* Check box label for the login prompt */
+"Remember me on this computer" = "Remember me on this computer";
 
 /* Remove section confirmation button */
 "Remove Section" = "Remove Section";

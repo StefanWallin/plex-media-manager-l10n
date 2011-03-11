@@ -96,6 +96,9 @@
 /* A recording album */
 "album" = "elboom";
 
+/* Explanation text for the empty trash confirmation dialog */
+"All deleted items will be permanently removed from your library. No files on your computer will be removed." = "Ell deleted items veell be-a permunently remufed frum yuoor leebrery. Nu feeles oon yuoor cumpooter veell be-a remufed.";
+
 /* AnteMeridiem */
 "AM" = "EM";
 
@@ -104,6 +107,9 @@
 
 /* Preference window setting */
 "Aperture Sharing Enabled" = "Epertoore-a Shereeng Inebled";
+
+/* Confirmation text for the empty trash confirmation dialog */
+"Are you sure you want to empty the trash in \"%@\"?" = "Ere-a yuoo soore-a yuoo vunt tu impty zee tresh in \"%@\"?";
 
 /* Confirmation message for removing a section */
 "Are you sure you want to remove the section named \"%@\"?" = "Ere-a yuoo soore-a yuoo vunt tu remufe-a zee secshun nemed \"%@\"?";
@@ -191,6 +197,19 @@
 
 /* Edit Section */
 "Edit Section" = "Edeet Secshun";
+
+/* Confirmation button for the empty trash confirmation dialog
+   Menu item title in the library section action menu when there is nothing in the trash */
+"Empty Trash" = "Empty Tresh";
+
+/* Menu item title in the library section action menu when there is more than one item in the trash */
+"Empty Trash (%d items)" = "Empty Tresh (%d items)";
+
+/* Menu item title in the library section action menu when there is one item in the trash */
+"Empty Trash (1 item)" = "Empty Tresh (1 item)";
+
+/* Preference window setting */
+"Empty trash automatically after every scan" = "Empty tresh ootumeteecelly effter ifery scun";
 
 /* A TV Show episode */
 "episode" = "epeesude-a";
@@ -365,17 +384,14 @@
 /* Context menu item for metadata items */
 "Refresh Metadata" = "Reffresh Metedeta";
 
-/* Refresh Section */
-"Refresh Section" = "Reffresh Secshun";
-
-/* Refresh Section (force) */
-"Refresh Section (force)" = "Reffresh Secshun (furce-a)";
-
 /* Status label for refreshing sections */
 "Refreshing info for %d items" = "Reffresheeng inffu fur %d items";
 
 /* Status label for refreshing sections with one remaining item */
 "Refreshing info for one item" = "Reffresheeng inffu fur oone-a item";
+
+/* Check box label for the login prompt */
+"Remember me on this computer" = "Remember me-a oon thees cumpooter";
 
 /* Remove section confirmation button */
 "Remove Section" = "Remufe-a Secshun";
