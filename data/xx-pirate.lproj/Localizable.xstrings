@@ -72,6 +72,8 @@
 	<string>Yer booty will be buried and hidden from the view of man and the gods!</string>
 	<key>Aperture Sharing Enabled</key>
 	<string>Let Aperture be seen</string>
+	<key>Are you sure you want to disable secure access to your server?</key>
+	<string>Ye be sure ye want them scurvy scum to be let in without a password?</string>
 	<key>Are you sure you want to empty the trash in "%@"?</key>
 	<string>Throw the wastes of "%@" overboard?</string>
 	<key>Are you sure you want to remove the section named "%@"?</key>
@@ -86,8 +88,16 @@
 	<string>Belay that!</string>
 	<key>Capability checking ensures that plug-ins that are incompatible with this version of the server or the current client application you are using are hidden. Disabling capability checking is useful during development, but will enable access to plug-ins that may perform unreliably with certain client applications.</key>
 	<string>Yer plug-ins will be shown, no matter the cost, no matter whether they'll work. Ye developers can use this to check yer codes. But beware, here be tigers.</string>
+	<key>Change</key>
+	<string>Change</string>
 	<key>Change Artwork</key>
 	<string>Change Portraits</string>
+	<key>Change Password</key>
+	<string>Change Password</string>
+	<key>Change Username</key>
+	<string>Change Username</string>
+	<key>Change your username, and enter your password to authenticate.</key>
+	<string>Change what yer called, and enter yer password to bind it.</string>
 	<key>Choose Album Thumbnail</key>
 	<string>Choose Musical Story Portrait</string>
 	<key>Choose Background Art</key>
@@ -112,12 +122,16 @@ Are you sure it's running?</key>
 	<string>Plex Media Server has gone to sleep with the fishes, or mayhap we have: %@</string>
 	<key>Content Rating</key>
 	<string>Allowed personages</string>
+	<key>Current Password:</key>
+	<string>Current Password:</string>
 	<key>Custom Search</key>
 	<string>Telescope Findin'</string>
 	<key>Customize Section</key>
 	<string>Have it yer way</string>
 	<key>Directors</key>
 	<string>Captains</string>
+	<key>Disable Secure Access</key>
+	<string>Disable Secure Access</string>
 	<key>Disable capability checking</key>
 	<string>Stop yer checkin'</string>
 	<key>Done</key>
@@ -138,6 +152,14 @@ Are you sure it's running?</key>
 	<string>Dump Wastes (1 item)</string>
 	<key>Empty trash automatically after every scan</key>
 	<string>Dump wastes with each plunderin'</string>
+	<key>Enable</key>
+	<string>Enable</string>
+	<key>Enable Secure Access</key>
+	<string>Enable Secure Access</string>
+	<key>Enter a password to enable secure access to your server:</key>
+	<string>Scrawl yer password to keep out the scurvy scum:</string>
+	<key>Enter your current password to authenticate, then enter and verify your new password.</key>
+	<string>Enter yer current password, then enter twice the password of yer liking.</string>
 	<key>Episode %d: %@</key>
 	<string>Story %1$d: %2$@</string>
 	<key>Fix Incorrect Match...</key>
@@ -174,6 +196,8 @@ Are you sure it's running?</key>
 	<string>BOOTY KEEPER</string>
 	<key>Manual Entry</key>
 	<string>Take the wheel</string>
+	<key>Match Using</key>
+	<string>Match Using</string>
 	<key>Matching '%@'</key>
 	<string>Identifyin' '%@'</string>
 	<key>Media analysis on '%@'</key>
@@ -200,6 +224,12 @@ Are you sure it's running?</key>
 	<string>Name</string>
 	<key>Name:</key>
 	<string>Name:</string>
+	<key>New Password:</key>
+	<string>New Password:</string>
+	<key>No Match Found</key>
+	<string>No Match Found</string>
+	<key>OK</key>
+	<string>Yar</string>
 	<key>Offer higher bitrates over 3G connections</key>
 	<string>Give 'em more pixels on the high seas of 3G</string>
 	<key>Original Title</key>
@@ -210,6 +240,8 @@ Are you sure it's running?</key>
 	<string>o' the eve</string>
 	<key>Password</key>
 	<string>Password</string>
+	<key>Password:</key>
+	<string>Password:</string>
 	<key>Path of the directory you'd like to add:</key>
 	<string>Where d'ye keep yer booty, matey?</string>
 	<key>Plex Media Server requires a username and password:</key>
@@ -222,8 +254,6 @@ Are you sure it's running?</key>
 	<string>Rating</string>
 	<key>Refresh Metadata</key>
 	<string>Plunder again</string>
-	<key>Refresh Section (force)</key>
-	<string>Plunder again (with swords slashing)</string>
 	<key>Refreshing info for %d items</key>
 	<string>Plundering info for %d pieces of booty</string>
 	<key>Refreshing info for one item</key>
@@ -234,8 +264,6 @@ Are you sure it's running?</key>
 	<string>Throw overboard</string>
 	<key>Requesting metadata for '%@'</key>
 	<string>Askin' about '%@'</string>
-	<key>Require a username and password to access Plex Media Server</key>
-	<string>Make all who enter utter the password</string>
 	<key>Saturday</key>
 	<string>Saturday</string>
 	<key>Save</key>
@@ -288,6 +316,8 @@ Are you sure it's running?</key>
 	<string>Troupes</string>
 	<key>Tagline</key>
 	<string>Quip</string>
+	<key>There was no acceptable match using the specified agent.</key>
+	<string>Nothin' be found by that agent, mayhap he be a lazy dog.</string>
 	<key>This helps us improve your experience (for example, to help us match movies and TV shows).</key>
 	<string>This be helping us identify yer booty with deadly precision.</string>
 	<key>This name will be used to identify this media server to other computers on your network. If you leave it blank, your computer's name will be used instead.</key>
@@ -302,6 +332,8 @@ Are you sure it's running?</key>
 	<string>Transmogrifying</string>
 	<key>Tuesday</key>
 	<string>Tuesday</string>
+	<key>Turning off secure server access will allow incoming connections from any computer.</key>
+	<string>Yer port'll be open to all who travel on the 'lectric seaways.</string>
 	<key>Unable to connect to Plex Media Server</key>
 	<string>'Twere impossible to signal land</string>
 	<key>Unable to create library section</key>
@@ -320,6 +352,10 @@ Are you sure it's running?</key>
 	<string>Plunder me booty when something begins to stir</string>
 	<key>Username</key>
 	<string>Who y'are</string>
+	<key>Username:</key>
+	<string>Username:</string>
+	<key>Verify:</key>
+	<string>Verify:</string>
 	<key>Wednesday</key>
 	<string>Wednesday</string>
 	<key>Writers</key>

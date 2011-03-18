@@ -108,6 +108,9 @@
 /* Preference window setting */
 "Aperture Sharing Enabled" = "Epertoore-a Shereeng Inebled";
 
+/* Disable secure server access confirmation */
+"Are you sure you want to disable secure access to your server?" = "Ere-a yuoo soore-a yuoo vunt tu deeseble-a secoore-a eccess tu yuoor serfer?";
+
 /* Confirmation text for the empty trash confirmation dialog */
 "Are you sure you want to empty the trash in \"%@\"?" = "Ere-a yuoo soore-a yuoo vunt tu impty zee tresh in \"%@\"?";
 
@@ -132,8 +135,20 @@
 /* Preference window setting detail */
 "Capability checking ensures that plug-ins that are incompatible with this version of the server or the current client application you are using are hidden. Disabling capability checking is useful during development, but will enable access to plug-ins that may perform unreliably with certain client applications." = "Cepebeelity checkeeng insoores thet ploog-ins thet ere-a incumpeteeble-a veet thees ferseeun ooff zee serfer oor zee coorrent cleeent eppleeceshun yuoo ere-a useeng ere-a heeddee. Deesebling cepebeelity checkeeng is useffool dooreeng defelupment, boot veell ineble-a eccess tu ploog-ins thet mey perffurm unreleeebly veet certeeen cleeent eppleeceshuns.";
 
+/* Change */
+"Change" = "Chunge-a";
+
 /* Change Artwork */
 "Change Artwork" = "Chunge-a Ertvurk";
+
+/* Security preferences button to change the main account password */
+"Change Password" = "Chunge-a Pessvurd";
+
+/* Security preferences button to change the main account username */
+"Change Username" = "Chunge-a Userneme-a";
+
+/* Change username prompt message */
+"Change your username, and enter your password to authenticate." = "Chunge-a yuoor userneme-a, und inter yuoor pessvurd tu oozeenteecete-a.";
 
 /* Choose Album Thumbnail menu item */
 "Choose Album Thumbnail" = "Chuuse-a Elboom Thoombneeel";
@@ -168,6 +183,9 @@
 /* Content Rating */
 "Content Rating" = "Cuntent Reteeng";
 
+/* Password label */
+"Current Password:" = "Coorrent Pessvurd:";
+
 /* Custom Search */
 "Custom Search" = "Coostum Seerch";
 
@@ -182,6 +200,9 @@
 
 /* Preference window setting */
 "Disable capability checking" = "Deeseble-a cepebeelity checkeeng";
+
+/* Disable secure server confirmation button */
+"Disable Secure Access" = "Deeseble-a Secoore-a Eccess";
 
 /* Done */
 "Done" = "Dune-a";
@@ -210,6 +231,18 @@
 
 /* Preference window setting */
 "Empty trash automatically after every scan" = "Empty tresh ootumeteecelly effter ifery scun";
+
+/* Enable */
+"Enable" = "Eneble-a";
+
+/* Check box label to enable secure server access */
+"Enable Secure Access" = "Eneble-a Secoore-a Eccess";
+
+/* Enable security prompt message */
+"Enter a password to enable secure access to your server:" = "Enter a pessvurd tu ineble-a secoore-a eccess tu yuoor serfer:";
+
+/* Change password prompt message */
+"Enter your current password to authenticate, then enter and verify your new password." = "Enter yuoor coorrent pessvurd tu oozeenteecete-a, zeen inter und fereeffy yuoor noo pessvurd.";
 
 /* A TV Show episode */
 "episode" = "epeesude-a";
@@ -289,6 +322,9 @@
 /* Button text for the directory browser to allow the user to type in a path manually */
 "Manual Entry" = "Munooel Intry";
 
+/* Context menu item for metadata items */
+"Match Using" = "Metch Useeng";
+
 /* Metadata item status message when it is being matched to a canonical item */
 "Matching '%@'" = "Metcheeng '%@'";
 
@@ -334,12 +370,18 @@
 /* Name label */
 "Name:" = "Neme-a:";
 
+/* Password label */
+"New Password:" = "Noo Pessvurd:";
+
 /* Status label value when there are no musical artists */
 "no artists" = "nu erteests";
 
 /* Status for list of episodes when there are none
    Subtitle for a season thumbnail on a TV Show detail view */
 "no episodes" = "nu ipeesudes";
+
+/* 'Match Using' error title */
+"No Match Found" = "Nu Metch Fuoond";
 
 /* Status label value for when there are no movies */
 "no movies" = "nu mufeees";
@@ -354,6 +396,9 @@
 /* Preference window setting */
 "Offer higher bitrates over 3G connections" = "Offffer heegher beetretes oofer 3G cunnecshuns";
 
+/* OK */
+"OK" = "OK";
+
 /* Original Title */
 "Original Title" = "Oreeginel Teetle-a";
 
@@ -362,6 +407,9 @@
 
 /* Password field placeholder */
 "Password" = "Pessvurd";
+
+/* Password label */
+"Password:" = "Pessvurd:";
 
 /* Instruction text for the prompt to add directories manually */
 "Path of the directory you'd like to add:" = "Pet ooff zee durectury yuoo'd leeke-a tu edd:";
@@ -398,9 +446,6 @@
 
 /* Metadata item status message when its info is downloading */
 "Requesting metadata for '%@'" = "Reqooesteeng metedeta fur '%@'";
-
-/* Check box label for turning security on and off */
-"Require a username and password to access Plex Media Server" = "Reqooure-a a userneme-a und pessvurd tu eccess Plex Medeea Serfer";
 
 /* Saturday */
 "Saturday" = "Setoordey";
@@ -483,6 +528,9 @@
 /* Tagline */
 "Tagline" = "Tegleene-a";
 
+/* 'Match Using' error message */
+"There was no acceptable match using the specified agent." = "Zeere-a ves nu eccepteble-a metch useeng zee speceeffied egent.";
+
 /* Summary info for collecting usage data */
 "This helps us improve your experience (for example, to help us match movies and TV shows)." = "Thees helps us imprufe-a yuoor ixpereeence-a (fur ixemple-a, tu help us metch mufeees und TF shoos).";
 
@@ -509,6 +557,9 @@
 
 /* Tuesday */
 "Tuesday" = "Tooesdey";
+
+/* Disable secure server access confirmation info */
+"Turning off secure server access will allow incoming connections from any computer." = "Toorneeng ooffff secoore-a serfer eccess veell elloo incumeeng cunnecshuns frum uny cumpooter.";
 
 /* TV Shows */
 "TV Shows" = "TF Shoos";
@@ -539,6 +590,12 @@
 
 /* Username field placeholder */
 "Username" = "Userneme-a";
+
+/* Username label */
+"Username:" = "Userneme-a:";
+
+/* Verify password label */
+"Verify:" = "Fereeffy:";
 
 /* Wednesday */
 "Wednesday" = "Vednesdey";

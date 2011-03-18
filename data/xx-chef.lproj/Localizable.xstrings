@@ -72,6 +72,8 @@
 	<string>Uny cuntent in thees secshun veell nu lunger be-a efeeeleble-a in yuoor leebrery. Zee feeles oon yuoor cumpooter veell nut be-a remufed.</string>
 	<key>Aperture Sharing Enabled</key>
 	<string>Epertoore-a Shereeng Inebled</string>
+	<key>Are you sure you want to disable secure access to your server?</key>
+	<string>Ere-a yuoo soore-a yuoo vunt tu deeseble-a secoore-a eccess tu yuoor serfer?</string>
 	<key>Are you sure you want to empty the trash in "%@"?</key>
 	<string>Ere-a yuoo soore-a yuoo vunt tu impty zee tresh in "%@"?</string>
 	<key>Are you sure you want to remove the section named "%@"?</key>
@@ -86,8 +88,16 @@
 	<string>Cuncel</string>
 	<key>Capability checking ensures that plug-ins that are incompatible with this version of the server or the current client application you are using are hidden. Disabling capability checking is useful during development, but will enable access to plug-ins that may perform unreliably with certain client applications.</key>
 	<string>Cepebeelity checkeeng insoores thet ploog-ins thet ere-a incumpeteeble-a veet thees ferseeun ooff zee serfer oor zee coorrent cleeent eppleeceshun yuoo ere-a useeng ere-a heeddee. Deesebling cepebeelity checkeeng is useffool dooreeng defelupment, boot veell ineble-a eccess tu ploog-ins thet mey perffurm unreleeebly veet certeeen cleeent eppleeceshuns.</string>
+	<key>Change</key>
+	<string>Chunge-a</string>
 	<key>Change Artwork</key>
 	<string>Chunge-a Ertvurk</string>
+	<key>Change Password</key>
+	<string>Chunge-a Pessvurd</string>
+	<key>Change Username</key>
+	<string>Chunge-a Userneme-a</string>
+	<key>Change your username, and enter your password to authenticate.</key>
+	<string>Chunge-a yuoor userneme-a, und inter yuoor pessvurd tu oozeenteecete-a.</string>
 	<key>Choose Album Thumbnail</key>
 	<string>Chuuse-a Elboom Thoombneeel</string>
 	<key>Choose Background Art</key>
@@ -114,12 +124,16 @@ Are you sure it's running?</key>
 Are yuoo soore-a it's roonneeng?</string>
 	<key>Content Rating</key>
 	<string>Cuntent Reteeng</string>
+	<key>Current Password:</key>
+	<string>Coorrent Pessvurd:</string>
 	<key>Custom Search</key>
 	<string>Coostum Seerch</string>
 	<key>Customize Section</key>
 	<string>Coostumeeze-a Secshun</string>
 	<key>Directors</key>
 	<string>Durecturs</string>
+	<key>Disable Secure Access</key>
+	<string>Deeseble-a Secoore-a Eccess</string>
 	<key>Disable capability checking</key>
 	<string>Deeseble-a cepebeelity checkeeng</string>
 	<key>Done</key>
@@ -140,6 +154,14 @@ Are yuoo soore-a it's roonneeng?</string>
 	<string>Empty Tresh (1 item)</string>
 	<key>Empty trash automatically after every scan</key>
 	<string>Empty tresh ootumeteecelly effter ifery scun</string>
+	<key>Enable</key>
+	<string>Eneble-a</string>
+	<key>Enable Secure Access</key>
+	<string>Eneble-a Secoore-a Eccess</string>
+	<key>Enter a password to enable secure access to your server:</key>
+	<string>Enter a pessvurd tu ineble-a secoore-a eccess tu yuoor serfer:</string>
+	<key>Enter your current password to authenticate, then enter and verify your new password.</key>
+	<string>Enter yuoor coorrent pessvurd tu oozeenteecete-a, zeen inter und fereeffy yuoor noo pessvurd.</string>
 	<key>Episode %d: %@</key>
 	<string>Epeesude-a %d: %@</string>
 	<key>Fix Incorrect Match...</key>
@@ -176,6 +198,8 @@ Are yuoo soore-a it's roonneeng?</string>
 	<string>MEDIA MENEGER</string>
 	<key>Manual Entry</key>
 	<string>Munooel Intry</string>
+	<key>Match Using</key>
+	<string>Metch Useeng</string>
 	<key>Matching '%@'</key>
 	<string>Metcheeng '%@'</string>
 	<key>Media analysis on '%@'</key>
@@ -202,6 +226,12 @@ Are yuoo soore-a it's roonneeng?</string>
 	<string>Neme-a</string>
 	<key>Name:</key>
 	<string>Neme-a:</string>
+	<key>New Password:</key>
+	<string>Noo Pessvurd:</string>
+	<key>No Match Found</key>
+	<string>Nu Metch Fuoond</string>
+	<key>OK</key>
+	<string>OK</string>
 	<key>Offer higher bitrates over 3G connections</key>
 	<string>Offffer heegher beetretes oofer 3G cunnecshuns</string>
 	<key>Original Title</key>
@@ -212,6 +242,8 @@ Are yuoo soore-a it's roonneeng?</string>
 	<string>PM</string>
 	<key>Password</key>
 	<string>Pessvurd</string>
+	<key>Password:</key>
+	<string>Pessvurd:</string>
 	<key>Path of the directory you'd like to add:</key>
 	<string>Pet ooff zee durectury yuoo'd leeke-a tu edd:</string>
 	<key>Plex Media Server requires a username and password:</key>
@@ -234,8 +266,6 @@ Are yuoo soore-a it's roonneeng?</string>
 	<string>Remufe-a Secshun</string>
 	<key>Requesting metadata for '%@'</key>
 	<string>Reqooesteeng metedeta fur '%@'</string>
-	<key>Require a username and password to access Plex Media Server</key>
-	<string>Reqooure-a a userneme-a und pessvurd tu eccess Plex Medeea Serfer</string>
 	<key>Saturday</key>
 	<string>Setoordey</string>
 	<key>Save</key>
@@ -288,6 +318,8 @@ Are yuoo soore-a it's roonneeng?</string>
 	<string>TF Shoos</string>
 	<key>Tagline</key>
 	<string>Tegleene-a</string>
+	<key>There was no acceptable match using the specified agent.</key>
+	<string>Zeere-a ves nu eccepteble-a metch useeng zee speceeffied egent.</string>
 	<key>This helps us improve your experience (for example, to help us match movies and TV shows).</key>
 	<string>Thees helps us imprufe-a yuoor ixpereeence-a (fur ixemple-a, tu help us metch mufeees und TF shoos).</string>
 	<key>This name will be used to identify this media server to other computers on your network. If you leave it blank, your computer's name will be used instead.</key>
@@ -302,6 +334,8 @@ Are yuoo soore-a it's roonneeng?</string>
 	<string>Trunscudeeng</string>
 	<key>Tuesday</key>
 	<string>Tooesdey</string>
+	<key>Turning off secure server access will allow incoming connections from any computer.</key>
+	<string>Toorneeng ooffff secoore-a serfer eccess veell elloo incumeeng cunnecshuns frum uny cumpooter.</string>
 	<key>Unable to connect to Plex Media Server</key>
 	<string>Uneble-a tu cunnect tu Plex Medeea Serfer</string>
 	<key>Unable to create library section</key>
@@ -320,6 +354,10 @@ Are yuoo soore-a it's roonneeng?</string>
 	<string>Updete-a my leebrery vhee chunges tu my fulders ere-a detected</string>
 	<key>Username</key>
 	<string>Userneme-a</string>
+	<key>Username:</key>
+	<string>Userneme-a:</string>
+	<key>Verify:</key>
+	<string>Fereeffy:</string>
 	<key>Wednesday</key>
 	<string>Vednesdey</string>
 	<key>Writers</key>

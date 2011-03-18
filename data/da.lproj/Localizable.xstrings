@@ -72,6 +72,8 @@
 	<string>Alt indhold i denne samling vil ikke længere være til rådighed i dit bibliotek. Mediefilerne på din computer vil ikke blive slettet.</string>
 	<key>Aperture Sharing Enabled</key>
 	<string>Aperture Deling Aktiveret</string>
+	<key>Are you sure you want to disable secure access to your server?</key>
+	<string>Are you sure you want to disable secure access to your server?</string>
 	<key>Are you sure you want to empty the trash in "%@"?</key>
 	<string>Are you sure you want to empty the trash in "%@"?</string>
 	<key>Are you sure you want to remove the section named "%@"?</key>
@@ -86,8 +88,16 @@
 	<string>Annuller</string>
 	<key>Capability checking ensures that plug-ins that are incompatible with this version of the server or the current client application you are using are hidden. Disabling capability checking is useful during development, but will enable access to plug-ins that may perform unreliably with certain client applications.</key>
 	<string>Kompatibilitets kontrol sikrer, at plug-ins, der er ukompatible med denne version af serveren eller den aktuelle klient-software du bruger, er skjult. Deaktivering af kompatibilitets kontrol er nyttigt for udviklere, men vil give adgang til plug-ins, der kan opføre sig ustabilt med visse klient applikationer.</string>
+	<key>Change</key>
+	<string>Change</string>
 	<key>Change Artwork</key>
 	<string>Skift Cover</string>
+	<key>Change Password</key>
+	<string>Change Password</string>
+	<key>Change Username</key>
+	<string>Change Username</string>
+	<key>Change your username, and enter your password to authenticate.</key>
+	<string>Change your username, and enter your password to authenticate.</string>
 	<key>Choose Album Thumbnail</key>
 	<string>Vælg Album Cover</string>
 	<key>Choose Background Art</key>
@@ -114,12 +124,16 @@ Are you sure it's running?</key>
 Er du sikker på at den er startet?</string>
 	<key>Content Rating</key>
 	<string>Indholds Bedømmelse</string>
+	<key>Current Password:</key>
+	<string>Current Password:</string>
 	<key>Custom Search</key>
 	<string>Brugerdefineret Søgning</string>
 	<key>Customize Section</key>
 	<string>Tilpas Samling</string>
 	<key>Directors</key>
 	<string>Instruktører</string>
+	<key>Disable Secure Access</key>
+	<string>Disable Secure Access</string>
 	<key>Disable capability checking</key>
 	<string>Deaktiver kompatibilitets kontrol</string>
 	<key>Done</key>
@@ -140,6 +154,14 @@ Er du sikker på at den er startet?</string>
 	<string>Empty Trash (1 item)</string>
 	<key>Empty trash automatically after every scan</key>
 	<string>Empty trash automatically after every scan</string>
+	<key>Enable</key>
+	<string>Enable</string>
+	<key>Enable Secure Access</key>
+	<string>Enable Secure Access</string>
+	<key>Enter a password to enable secure access to your server:</key>
+	<string>Enter a password to enable secure access to your server:</string>
+	<key>Enter your current password to authenticate, then enter and verify your new password.</key>
+	<string>Enter your current password to authenticate, then enter and verify your new password.</string>
 	<key>Episode %d: %@</key>
 	<string>Episode %1$d: %2$@</string>
 	<key>Fix Incorrect Match...</key>
@@ -176,6 +198,8 @@ Er du sikker på at den er startet?</string>
 	<string>MEDIA MANAGER</string>
 	<key>Manual Entry</key>
 	<string>Manuel indtastning</string>
+	<key>Match Using</key>
+	<string>Match Using</string>
 	<key>Matching '%@'</key>
 	<string>Genkender '%@'</string>
 	<key>Media analysis on '%@'</key>
@@ -202,6 +226,12 @@ Er du sikker på at den er startet?</string>
 	<string>Navn</string>
 	<key>Name:</key>
 	<string>Navn:</string>
+	<key>New Password:</key>
+	<string>New Password:</string>
+	<key>No Match Found</key>
+	<string>No Match Found</string>
+	<key>OK</key>
+	<string>OK</string>
 	<key>Offer higher bitrates over 3G connections</key>
 	<string>Tillad højere bithastigheder over 3G-forbindelser</string>
 	<key>Original Title</key>
@@ -212,6 +242,8 @@ Er du sikker på at den er startet?</string>
 	<string>PM</string>
 	<key>Password</key>
 	<string>Password</string>
+	<key>Password:</key>
+	<string>Password:</string>
 	<key>Path of the directory you'd like to add:</key>
 	<string>Sti i den mappe du gerne vil tilføje:</string>
 	<key>Plex Media Server requires a username and password:</key>
@@ -224,8 +256,6 @@ Er du sikker på at den er startet?</string>
 	<string>Bedømmelse</string>
 	<key>Refresh Metadata</key>
 	<string>Opdater Info</string>
-	<key>Refresh Section (force)</key>
-	<string>Opdater Samling (tvunget)</string>
 	<key>Refreshing info for %d items</key>
 	<string>Opdaterer info for %d items</string>
 	<key>Refreshing info for one item</key>
@@ -236,8 +266,6 @@ Er du sikker på at den er startet?</string>
 	<string>Fjern Samling</string>
 	<key>Requesting metadata for '%@'</key>
 	<string>Anmoder om metadata for '%@'</string>
-	<key>Require a username and password to access Plex Media Server</key>
-	<string>Require a username and password to access Plex Media Server</string>
 	<key>Saturday</key>
 	<string>Lørdag</string>
 	<key>Save</key>
@@ -290,6 +318,8 @@ Er du sikker på at den er startet?</string>
 	<string>TV Serier</string>
 	<key>Tagline</key>
 	<string>Slogan</string>
+	<key>There was no acceptable match using the specified agent.</key>
+	<string>There was no acceptable match using the specified agent.</string>
 	<key>This helps us improve your experience (for example, to help us match movies and TV shows).</key>
 	<string>Dette hjælper os med at forbedre din brugeroplevelse (for eksempel til at hjælpe os med at genkende film og TV serier).</string>
 	<key>This name will be used to identify this media server to other computers on your network. If you leave it blank, your computer's name will be used instead.</key>
@@ -304,6 +334,8 @@ Er du sikker på at den er startet?</string>
 	<string>Transcoding</string>
 	<key>Tuesday</key>
 	<string>Tirsdag</string>
+	<key>Turning off secure server access will allow incoming connections from any computer.</key>
+	<string>Turning off secure server access will allow incoming connections from any computer.</string>
 	<key>Unable to connect to Plex Media Server</key>
 	<string>Kunne ikke tilslutte til Plex Media Server</string>
 	<key>Unable to create library section</key>
@@ -322,6 +354,10 @@ Er du sikker på at den er startet?</string>
 	<string>Opdater mit bibliotek, når der er ændringer i mine mapper</string>
 	<key>Username</key>
 	<string>Username</string>
+	<key>Username:</key>
+	<string>Username:</string>
+	<key>Verify:</key>
+	<string>Verify:</string>
 	<key>Wednesday</key>
 	<string>Onsdag</string>
 	<key>Writers</key>

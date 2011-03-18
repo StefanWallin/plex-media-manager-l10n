@@ -108,6 +108,9 @@
 /* Preference window setting */
 "Aperture Sharing Enabled" = "Aperture Delen ingeschakeld";
 
+/* Disable secure server access confirmation */
+"Are you sure you want to disable secure access to your server?" = "Are you sure you want to disable secure access to your server?";
+
 /* Confirmation text for the empty trash confirmation dialog */
 "Are you sure you want to empty the trash in \"%@\"?" = "Are you sure you want to empty the trash in \"%@\"?";
 
@@ -132,8 +135,20 @@
 /* Preference window setting detail */
 "Capability checking ensures that plug-ins that are incompatible with this version of the server or the current client application you are using are hidden. Disabling capability checking is useful during development, but will enable access to plug-ins that may perform unreliably with certain client applications." = "Capability checking ensures that plug-ins that are incompatible with this version of the server or the current client application you are using are hidden. Disabling capability checking is useful during development, but will enable access to plug-ins that may perform unreliably with certain client applications.";
 
+/* Change */
+"Change" = "Change";
+
 /* Change Artwork */
 "Change Artwork" = "Verander Artwork";
+
+/* Security preferences button to change the main account password */
+"Change Password" = "Change Password";
+
+/* Security preferences button to change the main account username */
+"Change Username" = "Change Username";
+
+/* Change username prompt message */
+"Change your username, and enter your password to authenticate." = "Change your username, and enter your password to authenticate.";
 
 /* Choose Album Thumbnail menu item */
 "Choose Album Thumbnail" = "Kies Album Thumbnail";
@@ -168,6 +183,9 @@
 /* Content Rating */
 "Content Rating" = "Beoordeling";
 
+/* Password label */
+"Current Password:" = "Current Password:";
+
 /* Custom Search */
 "Custom Search" = "Aangepast zoeken";
 
@@ -182,6 +200,9 @@
 
 /* Preference window setting */
 "Disable capability checking" = "Schakel Compatibiliteitscontrole uit";
+
+/* Disable secure server confirmation button */
+"Disable Secure Access" = "Disable Secure Access";
 
 /* Done */
 "Done" = "Klaar";
@@ -210,6 +231,18 @@
 
 /* Preference window setting */
 "Empty trash automatically after every scan" = "Empty trash automatically after every scan";
+
+/* Enable */
+"Enable" = "Enable";
+
+/* Check box label to enable secure server access */
+"Enable Secure Access" = "Enable Secure Access";
+
+/* Enable security prompt message */
+"Enter a password to enable secure access to your server:" = "Enter a password to enable secure access to your server:";
+
+/* Change password prompt message */
+"Enter your current password to authenticate, then enter and verify your new password." = "Enter your current password to authenticate, then enter and verify your new password.";
 
 /* A TV Show episode */
 "episode" = "aflevering";
@@ -289,6 +322,9 @@
 /* Button text for the directory browser to allow the user to type in a path manually */
 "Manual Entry" = "Handmatige invoer";
 
+/* Context menu item for metadata items */
+"Match Using" = "Match Using";
+
 /* Metadata item status message when it is being matched to a canonical item */
 "Matching '%@'" = "Matching '%@'";
 
@@ -334,12 +370,18 @@
 /* Name label */
 "Name:" = "Naam:";
 
+/* Password label */
+"New Password:" = "New Password:";
+
 /* Status label value when there are no musical artists */
 "no artists" = "geen artiesten";
 
 /* Status for list of episodes when there are none
    Subtitle for a season thumbnail on a TV Show detail view */
 "no episodes" = "geen afleveringen";
+
+/* 'Match Using' error title */
+"No Match Found" = "No Match Found";
 
 /* Status label value for when there are no movies */
 "no movies" = "geen films";
@@ -354,6 +396,9 @@
 /* Preference window setting */
 "Offer higher bitrates over 3G connections" = "Verhoog bitrates over 3G connecties";
 
+/* OK */
+"OK" = "OK";
+
 /* Original Title */
 "Original Title" = "Originele Titel";
 
@@ -362,6 +407,9 @@
 
 /* Password field placeholder */
 "Password" = "Password";
+
+/* Password label */
+"Password:" = "Password:";
 
 /* Instruction text for the prompt to add directories manually */
 "Path of the directory you'd like to add:" = "Pad van de directory die je wilt toevoegen:";
@@ -384,9 +432,6 @@
 /* Context menu item for metadata items */
 "Refresh Metadata" = "Ververs Info";
 
-/* Refresh Section (force) */
-"Refresh Section (force)" = "Ververs Sectie (forceer)";
-
 /* Status label for refreshing sections */
 "Refreshing info for %d items" = "Ververs info voor %d items";
 
@@ -401,9 +446,6 @@
 
 /* Metadata item status message when its info is downloading */
 "Requesting metadata for '%@'" = "Metadata opvragen voor '%@'";
-
-/* Check box label for turning security on and off */
-"Require a username and password to access Plex Media Server" = "Require a username and password to access Plex Media Server";
 
 /* Saturday */
 "Saturday" = "Zaterdag";
@@ -465,11 +507,11 @@
 /* Sharing */
 "Sharing" = "Delen";
 
-/* Show */
-"Show" = "Serie";
-
 /* A TV Show */
 "show" = "serie";
+
+/* Show */
+"Show" = "Serie";
 
 /* Sort Title */
 "Sort Title" = "Sorteer Titel";
@@ -485,6 +527,9 @@
 
 /* Tagline */
 "Tagline" = "Tagline";
+
+/* 'Match Using' error message */
+"There was no acceptable match using the specified agent." = "There was no acceptable match using the specified agent.";
 
 /* Summary info for collecting usage data */
 "This helps us improve your experience (for example, to help us match movies and TV shows)." = "Dit helpt ons de gebruikerservaring te verbeteren (bv. bij het matchen van films en TV series).";
@@ -512,6 +557,9 @@
 
 /* Tuesday */
 "Tuesday" = "Dinsdag";
+
+/* Disable secure server access confirmation info */
+"Turning off secure server access will allow incoming connections from any computer." = "Turning off secure server access will allow incoming connections from any computer.";
 
 /* TV Shows */
 "TV Shows" = "TV Series";
@@ -542,6 +590,12 @@
 
 /* Username field placeholder */
 "Username" = "Username";
+
+/* Username label */
+"Username:" = "Username:";
+
+/* Verify password label */
+"Verify:" = "Verify:";
 
 /* Wednesday */
 "Wednesday" = "Woensdag";

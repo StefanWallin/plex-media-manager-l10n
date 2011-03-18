@@ -72,6 +72,8 @@
 	<string>이 섹션의 모든 컨텐츠는 더 이상 라이브러리에서 사용되지 않습니다. 사용자의 컴퓨터에 있는 파일은 제거되지 않습니다.</string>
 	<key>Aperture Sharing Enabled</key>
 	<string>Aperture Sharing Enabled</string>
+	<key>Are you sure you want to disable secure access to your server?</key>
+	<string>Are you sure you want to disable secure access to your server?</string>
 	<key>Are you sure you want to empty the trash in "%@"?</key>
 	<string>Are you sure you want to empty the trash in "%@"?</string>
 	<key>Are you sure you want to remove the section named "%@"?</key>
@@ -86,8 +88,16 @@
 	<string>취소</string>
 	<key>Capability checking ensures that plug-ins that are incompatible with this version of the server or the current client application you are using are hidden. Disabling capability checking is useful during development, but will enable access to plug-ins that may perform unreliably with certain client applications.</key>
 	<string>이 옵션을 선택 하면 서버의 버전과 호환되지 않는 플러그 인이나 클라이언트 응용 프로그램도 보여줍니다. 이 옵션은 개발 중일 때 유용하지만, 플러그 인의 접근이 클라이언트 응용 프로그램에 대해 신뢰할 수 없는 동작을 야기할 수 있습니다.</string>
+	<key>Change</key>
+	<string>Change</string>
 	<key>Change Artwork</key>
 	<string>이미지 변경</string>
+	<key>Change Password</key>
+	<string>Change Password</string>
+	<key>Change Username</key>
+	<string>Change Username</string>
+	<key>Change your username, and enter your password to authenticate.</key>
+	<string>Change your username, and enter your password to authenticate.</string>
 	<key>Choose Album Thumbnail</key>
 	<string>앨범 썸네일 선택</string>
 	<key>Choose Background Art</key>
@@ -114,12 +124,16 @@ Are you sure it's running?</key>
 Plex Media Server가 실행 중인지 확인하세요.</string>
 	<key>Content Rating</key>
 	<string>등급</string>
+	<key>Current Password:</key>
+	<string>Current Password:</string>
 	<key>Custom Search</key>
 	<string>상세 검색</string>
 	<key>Customize Section</key>
 	<string>사용자 정의 섹션</string>
 	<key>Directors</key>
 	<string>감독</string>
+	<key>Disable Secure Access</key>
+	<string>Disable Secure Access</string>
 	<key>Disable capability checking</key>
 	<string>호환성 체크 비활성화</string>
 	<key>Done</key>
@@ -140,6 +154,14 @@ Plex Media Server가 실행 중인지 확인하세요.</string>
 	<string>Empty Trash (1 item)</string>
 	<key>Empty trash automatically after every scan</key>
 	<string>Empty trash automatically after every scan</string>
+	<key>Enable</key>
+	<string>Enable</string>
+	<key>Enable Secure Access</key>
+	<string>Enable Secure Access</string>
+	<key>Enter a password to enable secure access to your server:</key>
+	<string>Enter a password to enable secure access to your server:</string>
+	<key>Enter your current password to authenticate, then enter and verify your new password.</key>
+	<string>Enter your current password to authenticate, then enter and verify your new password.</string>
 	<key>Episode %d: %@</key>
 	<string>Episode %1$d: %2$@</string>
 	<key>Fix Incorrect Match...</key>
@@ -176,6 +198,8 @@ Plex Media Server가 실행 중인지 확인하세요.</string>
 	<string>MEDIA MANAGER</string>
 	<key>Manual Entry</key>
 	<string>직접 입력</string>
+	<key>Match Using</key>
+	<string>Match Using</string>
 	<key>Matching '%@'</key>
 	<string>'%@' 매칭중</string>
 	<key>Media analysis on '%@'</key>
@@ -202,6 +226,12 @@ Plex Media Server가 실행 중인지 확인하세요.</string>
 	<string>제목</string>
 	<key>Name:</key>
 	<string>제목:</string>
+	<key>New Password:</key>
+	<string>New Password:</string>
+	<key>No Match Found</key>
+	<string>No Match Found</string>
+	<key>OK</key>
+	<string>OK</string>
 	<key>Offer higher bitrates over 3G connections</key>
 	<string>3G 연결에서 하이 비트레이트 제공</string>
 	<key>Original Title</key>
@@ -212,6 +242,8 @@ Plex Media Server가 실행 중인지 확인하세요.</string>
 	<string>PM</string>
 	<key>Password</key>
 	<string>Password</string>
+	<key>Password:</key>
+	<string>Password:</string>
 	<key>Path of the directory you'd like to add:</key>
 	<string>추가하고자 하는 디렉토리 경로:</string>
 	<key>Plex Media Server requires a username and password:</key>
@@ -224,8 +256,6 @@ Plex Media Server가 실행 중인지 확인하세요.</string>
 	<string>평점</string>
 	<key>Refresh Metadata</key>
 	<string>정보 새로고침</string>
-	<key>Refresh Section (force)</key>
-	<string>섹션 새로고침 (강제)</string>
 	<key>Refreshing info for %d items</key>
 	<string>%d 아이템의 정보를 갱신하고 있습니다.</string>
 	<key>Refreshing info for one item</key>
@@ -236,8 +266,6 @@ Plex Media Server가 실행 중인지 확인하세요.</string>
 	<string>섹션 삭제</string>
 	<key>Requesting metadata for '%@'</key>
 	<string>'%@' 메타데이터 요청중</string>
-	<key>Require a username and password to access Plex Media Server</key>
-	<string>Require a username and password to access Plex Media Server</string>
 	<key>Saturday</key>
 	<string>토요일</string>
 	<key>Save</key>
@@ -290,6 +318,8 @@ Plex Media Server가 실행 중인지 확인하세요.</string>
 	<string>TV 쇼</string>
 	<key>Tagline</key>
 	<string>태그라인</string>
+	<key>There was no acceptable match using the specified agent.</key>
+	<string>There was no acceptable match using the specified agent.</string>
 	<key>This helps us improve your experience (for example, to help us match movies and TV shows).</key>
 	<string>이것은 시스템 개선에 도움이 됩니다. (예를 들어, 영화와 TV 쇼를 매칭하는데 도움이 됩니다).</string>
 	<key>This name will be used to identify this media server to other computers on your network. If you leave it blank, your computer's name will be used instead.</key>
@@ -304,6 +334,8 @@ Plex Media Server가 실행 중인지 확인하세요.</string>
 	<string>트랜스코딩</string>
 	<key>Tuesday</key>
 	<string>화요일</string>
+	<key>Turning off secure server access will allow incoming connections from any computer.</key>
+	<string>Turning off secure server access will allow incoming connections from any computer.</string>
 	<key>Unable to connect to Plex Media Server</key>
 	<string>Plex Media Server에 연결할 수 없습니다.</string>
 	<key>Unable to create library section</key>
@@ -322,6 +354,10 @@ Plex Media Server가 실행 중인지 확인하세요.</string>
 	<string>폴더에 변경 발생시 라이브러리 업데이트</string>
 	<key>Username</key>
 	<string>Username</string>
+	<key>Username:</key>
+	<string>Username:</string>
+	<key>Verify:</key>
+	<string>Verify:</string>
 	<key>Wednesday</key>
 	<string>수요일</string>
 	<key>Writers</key>

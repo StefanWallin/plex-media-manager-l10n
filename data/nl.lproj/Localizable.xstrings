@@ -72,6 +72,8 @@
 	<string>Alle inhoud van deze sectie zal niet langer beschikbaar zijn in de bibliotheek. De bestanden zelf worden niet verwijderd.</string>
 	<key>Aperture Sharing Enabled</key>
 	<string>Aperture Delen ingeschakeld</string>
+	<key>Are you sure you want to disable secure access to your server?</key>
+	<string>Are you sure you want to disable secure access to your server?</string>
 	<key>Are you sure you want to empty the trash in "%@"?</key>
 	<string>Are you sure you want to empty the trash in "%@"?</string>
 	<key>Are you sure you want to remove the section named "%@"?</key>
@@ -86,8 +88,16 @@
 	<string>Annuleer</string>
 	<key>Capability checking ensures that plug-ins that are incompatible with this version of the server or the current client application you are using are hidden. Disabling capability checking is useful during development, but will enable access to plug-ins that may perform unreliably with certain client applications.</key>
 	<string>Capability checking ensures that plug-ins that are incompatible with this version of the server or the current client application you are using are hidden. Disabling capability checking is useful during development, but will enable access to plug-ins that may perform unreliably with certain client applications.</string>
+	<key>Change</key>
+	<string>Change</string>
 	<key>Change Artwork</key>
 	<string>Verander Artwork</string>
+	<key>Change Password</key>
+	<string>Change Password</string>
+	<key>Change Username</key>
+	<string>Change Username</string>
+	<key>Change your username, and enter your password to authenticate.</key>
+	<string>Change your username, and enter your password to authenticate.</string>
 	<key>Choose Album Thumbnail</key>
 	<string>Kies Album Thumbnail</string>
 	<key>Choose Background Art</key>
@@ -114,12 +124,16 @@ Are you sure it's running?</key>
 Weet je zeker dat PMS aan staat?</string>
 	<key>Content Rating</key>
 	<string>Beoordeling</string>
+	<key>Current Password:</key>
+	<string>Current Password:</string>
 	<key>Custom Search</key>
 	<string>Aangepast zoeken</string>
 	<key>Customize Section</key>
 	<string>Pas Sectie aan</string>
 	<key>Directors</key>
 	<string>Regisseurs</string>
+	<key>Disable Secure Access</key>
+	<string>Disable Secure Access</string>
 	<key>Disable capability checking</key>
 	<string>Schakel Compatibiliteitscontrole uit</string>
 	<key>Done</key>
@@ -140,6 +154,14 @@ Weet je zeker dat PMS aan staat?</string>
 	<string>Empty Trash (1 item)</string>
 	<key>Empty trash automatically after every scan</key>
 	<string>Empty trash automatically after every scan</string>
+	<key>Enable</key>
+	<string>Enable</string>
+	<key>Enable Secure Access</key>
+	<string>Enable Secure Access</string>
+	<key>Enter a password to enable secure access to your server:</key>
+	<string>Enter a password to enable secure access to your server:</string>
+	<key>Enter your current password to authenticate, then enter and verify your new password.</key>
+	<string>Enter your current password to authenticate, then enter and verify your new password.</string>
 	<key>Episode %d: %@</key>
 	<string>Aflevering %1$d: %2$@</string>
 	<key>Fix Incorrect Match...</key>
@@ -176,6 +198,8 @@ Weet je zeker dat PMS aan staat?</string>
 	<string>MEDIA MANAGER</string>
 	<key>Manual Entry</key>
 	<string>Handmatige invoer</string>
+	<key>Match Using</key>
+	<string>Match Using</string>
 	<key>Matching '%@'</key>
 	<string>Matching '%@'</string>
 	<key>Media analysis on '%@'</key>
@@ -202,6 +226,12 @@ Weet je zeker dat PMS aan staat?</string>
 	<string>Naam</string>
 	<key>Name:</key>
 	<string>Naam:</string>
+	<key>New Password:</key>
+	<string>New Password:</string>
+	<key>No Match Found</key>
+	<string>No Match Found</string>
+	<key>OK</key>
+	<string>OK</string>
 	<key>Offer higher bitrates over 3G connections</key>
 	<string>Verhoog bitrates over 3G connecties</string>
 	<key>Original Title</key>
@@ -212,6 +242,8 @@ Weet je zeker dat PMS aan staat?</string>
 	<string>PM</string>
 	<key>Password</key>
 	<string>Password</string>
+	<key>Password:</key>
+	<string>Password:</string>
 	<key>Path of the directory you'd like to add:</key>
 	<string>Pad van de directory die je wilt toevoegen:</string>
 	<key>Plex Media Server requires a username and password:</key>
@@ -224,8 +256,6 @@ Weet je zeker dat PMS aan staat?</string>
 	<string>Waardering</string>
 	<key>Refresh Metadata</key>
 	<string>Ververs Info</string>
-	<key>Refresh Section (force)</key>
-	<string>Ververs Sectie (forceer)</string>
 	<key>Refreshing info for %d items</key>
 	<string>Ververs info voor %d items</string>
 	<key>Refreshing info for one item</key>
@@ -236,8 +266,6 @@ Weet je zeker dat PMS aan staat?</string>
 	<string>Verwijder Sectie</string>
 	<key>Requesting metadata for '%@'</key>
 	<string>Metadata opvragen voor '%@'</string>
-	<key>Require a username and password to access Plex Media Server</key>
-	<string>Require a username and password to access Plex Media Server</string>
 	<key>Saturday</key>
 	<string>Zaterdag</string>
 	<key>Save</key>
@@ -290,6 +318,8 @@ Weet je zeker dat PMS aan staat?</string>
 	<string>TV Series</string>
 	<key>Tagline</key>
 	<string>Tagline</string>
+	<key>There was no acceptable match using the specified agent.</key>
+	<string>There was no acceptable match using the specified agent.</string>
 	<key>This helps us improve your experience (for example, to help us match movies and TV shows).</key>
 	<string>Dit helpt ons de gebruikerservaring te verbeteren (bv. bij het matchen van films en TV series).</string>
 	<key>This name will be used to identify this media server to other computers on your network. If you leave it blank, your computer's name will be used instead.</key>
@@ -304,6 +334,8 @@ Weet je zeker dat PMS aan staat?</string>
 	<string>Transcoderen</string>
 	<key>Tuesday</key>
 	<string>Dinsdag</string>
+	<key>Turning off secure server access will allow incoming connections from any computer.</key>
+	<string>Turning off secure server access will allow incoming connections from any computer.</string>
 	<key>Unable to connect to Plex Media Server</key>
 	<string>Kan geen verbinding maken met de Plex Media Server</string>
 	<key>Unable to create library section</key>
@@ -322,6 +354,10 @@ Weet je zeker dat PMS aan staat?</string>
 	<string>Werk mijn bibliotheek bij wanneer wijzigingen in deze mappen worden gedetecteerd</string>
 	<key>Username</key>
 	<string>Username</string>
+	<key>Username:</key>
+	<string>Username:</string>
+	<key>Verify:</key>
+	<string>Verify:</string>
 	<key>Wednesday</key>
 	<string>Woensdag</string>
 	<key>Writers</key>

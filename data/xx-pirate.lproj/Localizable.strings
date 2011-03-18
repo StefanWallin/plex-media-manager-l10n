@@ -108,6 +108,9 @@
 /* Preference window setting */
 "Aperture Sharing Enabled" = "Let Aperture be seen";
 
+/* Disable secure server access confirmation */
+"Are you sure you want to disable secure access to your server?" = "Ye be sure ye want them scurvy scum to be let in without a password?";
+
 /* Confirmation text for the empty trash confirmation dialog */
 "Are you sure you want to empty the trash in \"%@\"?" = "Throw the wastes of \"%@\" overboard?";
 
@@ -132,8 +135,20 @@
 /* Preference window setting detail */
 "Capability checking ensures that plug-ins that are incompatible with this version of the server or the current client application you are using are hidden. Disabling capability checking is useful during development, but will enable access to plug-ins that may perform unreliably with certain client applications." = "Yer plug-ins will be shown, no matter the cost, no matter whether they'll work. Ye developers can use this to check yer codes. But beware, here be tigers.";
 
+/* Change */
+"Change" = "Change";
+
 /* Change Artwork */
 "Change Artwork" = "Change Portraits";
+
+/* Security preferences button to change the main account password */
+"Change Password" = "Change Password";
+
+/* Security preferences button to change the main account username */
+"Change Username" = "Change Username";
+
+/* Change username prompt message */
+"Change your username, and enter your password to authenticate." = "Change what yer called, and enter yer password to bind it.";
 
 /* Choose Album Thumbnail menu item */
 "Choose Album Thumbnail" = "Choose Musical Story Portrait";
@@ -168,6 +183,9 @@
 /* Content Rating */
 "Content Rating" = "Allowed personages";
 
+/* Password label */
+"Current Password:" = "Current Password:";
+
 /* Custom Search */
 "Custom Search" = "Telescope Findin'";
 
@@ -182,6 +200,9 @@
 
 /* Preference window setting */
 "Disable capability checking" = "Stop yer checkin'";
+
+/* Disable secure server confirmation button */
+"Disable Secure Access" = "Disable Secure Access";
 
 /* Done */
 "Done" = "No more";
@@ -210,6 +231,18 @@
 
 /* Preference window setting */
 "Empty trash automatically after every scan" = "Dump wastes with each plunderin'";
+
+/* Enable */
+"Enable" = "Enable";
+
+/* Check box label to enable secure server access */
+"Enable Secure Access" = "Enable Secure Access";
+
+/* Enable security prompt message */
+"Enter a password to enable secure access to your server:" = "Scrawl yer password to keep out the scurvy scum:";
+
+/* Change password prompt message */
+"Enter your current password to authenticate, then enter and verify your new password." = "Enter yer current password, then enter twice the password of yer liking.";
 
 /* A TV Show episode */
 "episode" = "story";
@@ -289,6 +322,9 @@
 /* Button text for the directory browser to allow the user to type in a path manually */
 "Manual Entry" = "Take the wheel";
 
+/* Context menu item for metadata items */
+"Match Using" = "Match Using";
+
 /* Metadata item status message when it is being matched to a canonical item */
 "Matching '%@'" = "Identifyin' '%@'";
 
@@ -334,12 +370,18 @@
 /* Name label */
 "Name:" = "Name:";
 
+/* Password label */
+"New Password:" = "New Password:";
+
 /* Status label value when there are no musical artists */
 "no artists" = "no arrrtists";
 
 /* Status for list of episodes when there are none
    Subtitle for a season thumbnail on a TV Show detail view */
 "no episodes" = "no stories";
+
+/* 'Match Using' error title */
+"No Match Found" = "No Match Found";
 
 /* Status label value for when there are no movies */
 "no movies" = "no long stories";
@@ -354,6 +396,9 @@
 /* Preference window setting */
 "Offer higher bitrates over 3G connections" = "Give 'em more pixels on the high seas of 3G";
 
+/* OK */
+"OK" = "Yar";
+
 /* Original Title */
 "Original Title" = "What 'twas called";
 
@@ -362,6 +407,9 @@
 
 /* Password field placeholder */
 "Password" = "Password";
+
+/* Password label */
+"Password:" = "Password:";
 
 /* Instruction text for the prompt to add directories manually */
 "Path of the directory you'd like to add:" = "Where d'ye keep yer booty, matey?";
@@ -384,9 +432,6 @@
 /* Context menu item for metadata items */
 "Refresh Metadata" = "Plunder again";
 
-/* Refresh Section (force) */
-"Refresh Section (force)" = "Plunder again (with swords slashing)";
-
 /* Status label for refreshing sections */
 "Refreshing info for %d items" = "Plundering info for %d pieces of booty";
 
@@ -401,9 +446,6 @@
 
 /* Metadata item status message when its info is downloading */
 "Requesting metadata for '%@'" = "Askin' about '%@'";
-
-/* Check box label for turning security on and off */
-"Require a username and password to access Plex Media Server" = "Make all who enter utter the password";
 
 /* Saturday */
 "Saturday" = "Saturday";
@@ -465,11 +507,11 @@
 /* Sharing */
 "Sharing" = "Divvy";
 
-/* Show */
-"Show" = "Troupe";
-
 /* A TV Show */
 "show" = "troupe";
+
+/* Show */
+"Show" = "Troupe";
 
 /* Sort Title */
 "Sort Title" = "Placement name";
@@ -485,6 +527,9 @@
 
 /* Tagline */
 "Tagline" = "Quip";
+
+/* 'Match Using' error message */
+"There was no acceptable match using the specified agent." = "Nothin' be found by that agent, mayhap he be a lazy dog.";
 
 /* Summary info for collecting usage data */
 "This helps us improve your experience (for example, to help us match movies and TV shows)." = "This be helping us identify yer booty with deadly precision.";
@@ -512,6 +557,9 @@
 
 /* Tuesday */
 "Tuesday" = "Tuesday";
+
+/* Disable secure server access confirmation info */
+"Turning off secure server access will allow incoming connections from any computer." = "Yer port'll be open to all who travel on the 'lectric seaways.";
 
 /* TV Shows */
 "TV Shows" = "Troupes";
@@ -542,6 +590,12 @@
 
 /* Username field placeholder */
 "Username" = "Who y'are";
+
+/* Username label */
+"Username:" = "Username:";
+
+/* Verify password label */
+"Verify:" = "Verify:";
 
 /* Wednesday */
 "Wednesday" = "Wednesday";
