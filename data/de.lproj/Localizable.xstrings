@@ -67,23 +67,23 @@
 	<key>Advanced</key>
 	<string>Erweitert</string>
 	<key>All deleted items will be permanently removed from your library. No files on your computer will be removed.</key>
-	<string>All deleted items will be permanently removed from your library. No files on your computer will be removed.</string>
+	<string>Alle gelöschten Daten werden aus der Bibliothek entfernt. Die Mediendateien auf Ihrem Rechner werden nicht gelöscht.</string>
 	<key>Any content in this section will no longer be available in your library. The files on your computer will not be removed.</key>
 	<string>Alle Inhalte dieser Sektionen werden aus Ihrer Bibliothek entfernt. Die Mediendateien auf Ihrem Rechner werden nicht gelöscht.</string>
 	<key>Aperture Sharing Enabled</key>
 	<string>Aperture Freigabe aktivieren</string>
 	<key>Are you sure you want to disable secure access to your server?</key>
-	<string>Are you sure you want to disable secure access to your server?</string>
+	<string>Sind Sie sicher das der sichere Zugriff deaktiviert werden soll?</string>
 	<key>Are you sure you want to empty the trash in "%@"?</key>
-	<string>Are you sure you want to empty the trash in "%@"?</string>
+	<string>Soll der Papierkorb in der Sektion "%@" wirklich geleert werden?</string>
 	<key>Are you sure you want to remove the section named "%@"?</key>
 	<string>Wollen Sie die Sektion "%@" wirklich löschen?</string>
 	<key>Artist</key>
 	<string>Interpret</string>
 	<key>Authenticate</key>
-	<string>Authenticate</string>
+	<string>Anmeldung</string>
 	<key>Authentication Required</key>
-	<string>Authentication Required</string>
+	<string>Anmeldung nötig</string>
 	<key>Cancel</key>
 	<string>Abbrechen</string>
 	<key>Capability checking ensures that plug-ins that are incompatible with this version of the server or the current client application you are using are hidden. Disabling capability checking is useful during development, but will enable access to plug-ins that may perform unreliably with certain client applications.</key>
@@ -93,11 +93,11 @@
 	<key>Change Artwork</key>
 	<string>Bilder ändern</string>
 	<key>Change Password</key>
-	<string>Change Password</string>
+	<string>Passwort ändern</string>
 	<key>Change Username</key>
-	<string>Change Username</string>
+	<string>Benutzername ändern</string>
 	<key>Change your username, and enter your password to authenticate.</key>
-	<string>Change your username, and enter your password to authenticate.</string>
+	<string>Ändere den Benutzername und Passwort zum Anmelden.</string>
 	<key>Choose Album Thumbnail</key>
 	<string>Album Vorschaubild auswählen</string>
 	<key>Choose Background Art</key>
@@ -125,7 +125,7 @@ Stellen Sie sicher, dass der Server läuft.</string>
 	<key>Content Rating</key>
 	<string>Altersfreigabe</string>
 	<key>Current Password:</key>
-	<string>Current Password:</string>
+	<string>Aktuelles Passwort:</string>
 	<key>Custom Search</key>
 	<string>Erweiterte Suche</string>
 	<key>Customize Section</key>
@@ -133,7 +133,7 @@ Stellen Sie sicher, dass der Server läuft.</string>
 	<key>Directors</key>
 	<string>Regisseur</string>
 	<key>Disable Secure Access</key>
-	<string>Disable Secure Access</string>
+	<string>Deaktivere sicherern Zugriff</string>
 	<key>Disable capability checking</key>
 	<string>Kompatibilitätsprüfung deaktivieren</string>
 	<key>Done</key>
@@ -147,19 +147,19 @@ Stellen Sie sicher, dass der Server läuft.</string>
 	<key>Edit Section</key>
 	<string>Sektion bearbeiten</string>
 	<key>Empty Trash</key>
-	<string>Empty Trash</string>
+	<string>Papierkorb leeren</string>
 	<key>Empty Trash (%d items)</key>
-	<string>Empty Trash (%d items)</string>
+	<string>Papierkorb leeren (%d Objekte)</string>
 	<key>Empty Trash (1 item)</key>
-	<string>Empty Trash (1 item)</string>
+	<string>Papierkorb leeren (1 Objekt)</string>
 	<key>Empty trash automatically after every scan</key>
-	<string>Empty trash automatically after every scan</string>
+	<string>Papierkorb nach jeder Metadaten aktualisierung leeren</string>
 	<key>Enable</key>
-	<string>Enable</string>
+	<string>Aktivieren</string>
 	<key>Enable Secure Access</key>
-	<string>Enable Secure Access</string>
+	<string>Sicheren Zugriff aktivieren</string>
 	<key>Enter a password to enable secure access to your server:</key>
-	<string>Enter a password to enable secure access to your server:</string>
+	<string>Gib ein Passwort zum aktivieren des sichern Zugriffs ein:</string>
 	<key>Enter your current password to authenticate, then enter and verify your new password.</key>
 	<string>Enter your current password to authenticate, then enter and verify your new password.</string>
 	<key>Episode %d: %@</key>
@@ -227,7 +227,7 @@ Stellen Sie sicher, dass der Server läuft.</string>
 	<key>Name:</key>
 	<string>Name:</string>
 	<key>New Password:</key>
-	<string>New Password:</string>
+	<string>Neues Passwort:</string>
 	<key>No Match Found</key>
 	<string>No Match Found</string>
 	<key>OK</key>
@@ -241,13 +241,13 @@ Stellen Sie sicher, dass der Server läuft.</string>
 	<key>PM</key>
 	<string>PM</string>
 	<key>Password</key>
-	<string>Password</string>
+	<string>Passwort</string>
 	<key>Password:</key>
-	<string>Password:</string>
+	<string>Passwort:</string>
 	<key>Path of the directory you'd like to add:</key>
 	<string>Pfad des hinzuzufügenden Ordners:</string>
 	<key>Plex Media Server requires a username and password:</key>
-	<string>Plex Media Server requires a username and password:</string>
+	<string>Plex Media Server braucht einen Benutzernamen und Passwort:</string>
 	<key>Preferences</key>
 	<string>Einstellungen</string>
 	<key>Primary metadata agent:</key>
@@ -281,7 +281,7 @@ Stellen Sie sicher, dass der Server läuft.</string>
 	<key>Section type:</key>
 	<string>Sektionstyp:</string>
 	<key>Secure Server Access</key>
-	<string>Secure Server Access</string>
+	<string>Sicherer Zugriff</string>
 	<key>Security</key>
 	<string>Sicherheit</string>
 	<key>Select</key>
@@ -353,9 +353,9 @@ Stellen Sie sicher, dass der Server läuft.</string>
 	<key>Update my library when changes to my folders are detected</key>
 	<string>Bibliothek aktualisieren, wenn Änderungen in der Ordnerstruktur gemacht werden</string>
 	<key>Username</key>
-	<string>Username</string>
+	<string>Benutzername</string>
 	<key>Username:</key>
-	<string>Username:</string>
+	<string>Benutzername:</string>
 	<key>Verify:</key>
 	<string>Verify:</string>
 	<key>Wednesday</key>

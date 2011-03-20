@@ -97,7 +97,7 @@
 "album" = "Album";
 
 /* Explanation text for the empty trash confirmation dialog */
-"All deleted items will be permanently removed from your library. No files on your computer will be removed." = "All deleted items will be permanently removed from your library. No files on your computer will be removed.";
+"All deleted items will be permanently removed from your library. No files on your computer will be removed." = "Alle gelöschten Daten werden aus der Bibliothek entfernt. Die Mediendateien auf Ihrem Rechner werden nicht gelöscht.";
 
 /* AnteMeridiem */
 "AM" = "AM";
@@ -109,10 +109,10 @@
 "Aperture Sharing Enabled" = "Aperture Freigabe aktivieren";
 
 /* Disable secure server access confirmation */
-"Are you sure you want to disable secure access to your server?" = "Are you sure you want to disable secure access to your server?";
+"Are you sure you want to disable secure access to your server?" = "Sind Sie sicher das der sichere Zugriff deaktiviert werden soll?";
 
 /* Confirmation text for the empty trash confirmation dialog */
-"Are you sure you want to empty the trash in \"%@\"?" = "Are you sure you want to empty the trash in \"%@\"?";
+"Are you sure you want to empty the trash in \"%@\"?" = "Soll der Papierkorb in der Sektion \"%@\" wirklich geleert werden?";
 
 /* Confirmation message for removing a section */
 "Are you sure you want to remove the section named \"%@\"?" = "Wollen Sie die Sektion \"%@\" wirklich löschen?";
@@ -124,10 +124,10 @@
 "Artist" = "Interpret";
 
 /* Authenticate */
-"Authenticate" = "Authenticate";
+"Authenticate" = "Anmeldung";
 
 /* Login prompt title */
-"Authentication Required" = "Authentication Required";
+"Authentication Required" = "Anmeldung nötig";
 
 /* Cancel */
 "Cancel" = "Abbrechen";
@@ -142,13 +142,13 @@
 "Change Artwork" = "Bilder ändern";
 
 /* Security preferences button to change the main account password */
-"Change Password" = "Change Password";
+"Change Password" = "Passwort ändern";
 
 /* Security preferences button to change the main account username */
-"Change Username" = "Change Username";
+"Change Username" = "Benutzername ändern";
 
 /* Change username prompt message */
-"Change your username, and enter your password to authenticate." = "Change your username, and enter your password to authenticate.";
+"Change your username, and enter your password to authenticate." = "Ändere den Benutzername und Passwort zum Anmelden.";
 
 /* Choose Album Thumbnail menu item */
 "Choose Album Thumbnail" = "Album Vorschaubild auswählen";
@@ -184,7 +184,7 @@
 "Content Rating" = "Altersfreigabe";
 
 /* Password label */
-"Current Password:" = "Current Password:";
+"Current Password:" = "Aktuelles Passwort:";
 
 /* Custom Search */
 "Custom Search" = "Erweiterte Suche";
@@ -202,7 +202,7 @@
 "Disable capability checking" = "Kompatibilitätsprüfung deaktivieren";
 
 /* Disable secure server confirmation button */
-"Disable Secure Access" = "Disable Secure Access";
+"Disable Secure Access" = "Deaktivere sicherern Zugriff";
 
 /* Done */
 "Done" = "Fertig";
@@ -221,25 +221,25 @@
 
 /* Confirmation button for the empty trash confirmation dialog
    Menu item title in the library section action menu when there is nothing in the trash */
-"Empty Trash" = "Empty Trash";
+"Empty Trash" = "Papierkorb leeren";
 
 /* Menu item title in the library section action menu when there is more than one item in the trash */
-"Empty Trash (%d items)" = "Empty Trash (%d items)";
+"Empty Trash (%d items)" = "Papierkorb leeren (%d Objekte)";
 
 /* Menu item title in the library section action menu when there is one item in the trash */
-"Empty Trash (1 item)" = "Empty Trash (1 item)";
+"Empty Trash (1 item)" = "Papierkorb leeren (1 Objekt)";
 
 /* Preference window setting */
-"Empty trash automatically after every scan" = "Empty trash automatically after every scan";
+"Empty trash automatically after every scan" = "Papierkorb nach jeder Metadaten aktualisierung leeren";
 
 /* Enable */
-"Enable" = "Enable";
+"Enable" = "Aktivieren";
 
 /* Check box label to enable secure server access */
-"Enable Secure Access" = "Enable Secure Access";
+"Enable Secure Access" = "Sicheren Zugriff aktivieren";
 
 /* Enable security prompt message */
-"Enter a password to enable secure access to your server:" = "Enter a password to enable secure access to your server:";
+"Enter a password to enable secure access to your server:" = "Gib ein Passwort zum aktivieren des sichern Zugriffs ein:";
 
 /* Change password prompt message */
 "Enter your current password to authenticate, then enter and verify your new password." = "Enter your current password to authenticate, then enter and verify your new password.";
@@ -371,7 +371,7 @@
 "Name:" = "Name:";
 
 /* Password label */
-"New Password:" = "New Password:";
+"New Password:" = "Neues Passwort:";
 
 /* Status label value when there are no musical artists */
 "no artists" = "keine Interpreten";
@@ -406,16 +406,16 @@
 "Originally Available" = "Erscheinungsdatum";
 
 /* Password field placeholder */
-"Password" = "Password";
+"Password" = "Passwort";
 
 /* Password label */
-"Password:" = "Password:";
+"Password:" = "Passwort:";
 
 /* Instruction text for the prompt to add directories manually */
 "Path of the directory you'd like to add:" = "Pfad des hinzuzufügenden Ordners:";
 
 /* Login prompt message */
-"Plex Media Server requires a username and password:" = "Plex Media Server requires a username and password:";
+"Plex Media Server requires a username and password:" = "Plex Media Server braucht einen Benutzernamen und Passwort:";
 
 /* PostMeridiem */
 "PM" = "PM";
@@ -472,7 +472,7 @@
 "Section type:" = "Sektionstyp:";
 
 /* Security preference pane title */
-"Secure Server Access" = "Secure Server Access";
+"Secure Server Access" = "Sicherer Zugriff";
 
 /* Security */
 "Security" = "Sicherheit";
@@ -589,10 +589,10 @@
 "Update Section" = "Sektion aktualisieren";
 
 /* Username field placeholder */
-"Username" = "Username";
+"Username" = "Benutzername";
 
 /* Username label */
-"Username:" = "Username:";
+"Username:" = "Benutzername:";
 
 /* Verify password label */
 "Verify:" = "Verify:";
