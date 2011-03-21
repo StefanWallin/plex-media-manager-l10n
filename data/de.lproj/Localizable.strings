@@ -109,7 +109,7 @@
 "Aperture Sharing Enabled" = "Aperture Freigabe aktivieren";
 
 /* Disable secure server access confirmation */
-"Are you sure you want to disable secure access to your server?" = "Sind Sie sicher das der sichere Zugriff deaktiviert werden soll?";
+"Are you sure you want to disable secure access to your server?" = "Sind Sie sicher das der Sichere Zugang deaktiviert werden soll?";
 
 /* Confirmation text for the empty trash confirmation dialog */
 "Are you sure you want to empty the trash in \"%@\"?" = "Soll der Papierkorb in der Sektion \"%@\" wirklich geleert werden?";
@@ -136,7 +136,7 @@
 "Capability checking ensures that plug-ins that are incompatible with this version of the server or the current client application you are using are hidden. Disabling capability checking is useful during development, but will enable access to plug-ins that may perform unreliably with certain client applications." = "Kompatibilitätsprüfung stellt sicher, dass Plug-Ins mit der aktuellen Version des Medienservers und der Anwendung zusammenarbeiten. Nicht kompatible Plug-Ins werden ausgeblendet. Das Ausschalten der Kompatibilitätsprüfung kann bei der Entwicklung von Plug-Ins helfen, erlaubt aber Zugriff auf Plug-Ins, die eventuell nicht oder nicht wie gewünscht mit der aktuellen Programmversion zusammenarbeiten.";
 
 /* Change */
-"Change" = "Change";
+"Change" = "Ändern";
 
 /* Change Artwork */
 "Change Artwork" = "Bilder ändern";
@@ -202,7 +202,7 @@
 "Disable capability checking" = "Kompatibilitätsprüfung deaktivieren";
 
 /* Disable secure server confirmation button */
-"Disable Secure Access" = "Deaktivere sicherern Zugriff";
+"Disable Secure Access" = "Deaktivere Sicherern Zugang";
 
 /* Done */
 "Done" = "Fertig";
@@ -236,13 +236,13 @@
 "Enable" = "Aktivieren";
 
 /* Check box label to enable secure server access */
-"Enable Secure Access" = "Sicheren Zugriff aktivieren";
+"Enable Secure Access" = "Sicheren Zugang aktivieren";
 
 /* Enable security prompt message */
-"Enter a password to enable secure access to your server:" = "Gib ein Passwort zum aktivieren des sichern Zugriffs ein:";
+"Enter a password to enable secure access to your server:" = "Gib ein Passwort zum aktivieren des Sichern Zugangs ein:";
 
 /* Change password prompt message */
-"Enter your current password to authenticate, then enter and verify your new password." = "Enter your current password to authenticate, then enter and verify your new password.";
+"Enter your current password to authenticate, then enter and verify your new password." = "Bitte zuerst bestehendes Passwort und anschließend neues Passwort sowie Passwortbestätigung eingeben.";
 
 /* A TV Show episode */
 "episode" = "Episode";
@@ -290,7 +290,7 @@
 "hourly" = "Stündlich";
 
 /* Security preference pane explanation */
-"If you want to share your media over the Internet, you can turn on Secure Server Access to prevent unauthorized access to your server." = "If you want to share your media over the Internet, you can turn on Secure Server Access to prevent unauthorized access to your server.";
+"If you want to share your media over the Internet, you can turn on Secure Server Access to prevent unauthorized access to your server." = "Wenn sie Ihre Medien über das Internet zugänglich machen wollen, sollten Sie den Sicheren Zugang aktivieren um einen unberechtigten Zugriff zu verhindern";
 
 /* Preference window setting */
 "Include music sections in automatic updates" = "Musikbereich in automatische Updates einbeziehen";
@@ -323,7 +323,7 @@
 "Manual Entry" = "Manueller Eintrag";
 
 /* Context menu item for metadata items */
-"Match Using" = "Match Using";
+"Match Using" = "Abgleichen mit";
 
 /* Metadata item status message when it is being matched to a canonical item */
 "Matching '%@'" = "Suche '%@'";
@@ -381,7 +381,7 @@
 "no episodes" = "keine Episoden";
 
 /* 'Match Using' error title */
-"No Match Found" = "No Match Found";
+"No Match Found" = "Keine Übereinstimmung gefunden";
 
 /* Status label value for when there are no movies */
 "no movies" = "keine Filme";
@@ -439,7 +439,7 @@
 "Refreshing info for one item" = "Aktualisiere Informationen für einen Eintrag";
 
 /* Check box label for the login prompt */
-"Remember me on this computer" = "Remember me on this computer";
+"Remember me on this computer" = "Angemeldet bleiben";
 
 /* Remove section confirmation button */
 "Remove Section" = "Sektion entfernen";
@@ -472,7 +472,7 @@
 "Section type:" = "Sektionstyp:";
 
 /* Security preference pane title */
-"Secure Server Access" = "Sicherer Zugriff";
+"Secure Server Access" = "Sicherer Zugang";
 
 /* Security */
 "Security" = "Sicherheit";
@@ -529,7 +529,7 @@
 "Tagline" = "Aufmacher";
 
 /* 'Match Using' error message */
-"There was no acceptable match using the specified agent." = "There was no acceptable match using the specified agent.";
+"There was no acceptable match using the specified agent." = "Mit dem verwendeten Agenten konnte keine passende Übereinstimmung gefunden werden.";
 
 /* Summary info for collecting usage data */
 "This helps us improve your experience (for example, to help us match movies and TV shows)." = "Damit helfen Sie uns, Plex und das Plex-Benutzererlebnis zu Verbessern (z.B. Bessere Erkennung von Serien und Filmen).";
@@ -559,7 +559,7 @@
 "Tuesday" = "Donnerstag";
 
 /* Disable secure server access confirmation info */
-"Turning off secure server access will allow incoming connections from any computer." = "Turning off secure server access will allow incoming connections from any computer.";
+"Turning off secure server access will allow incoming connections from any computer." = "Die Deaktivierung des Sichern Zugangs erlaubt Zugriff von beliebigem Computer.";
 
 /* TV Shows */
 "TV Shows" = "Serien";
@@ -595,7 +595,7 @@
 "Username:" = "Benutzername:";
 
 /* Verify password label */
-"Verify:" = "Verify:";
+"Verify:" = "Passwortbestätigung:";
 
 /* Wednesday */
 "Wednesday" = "Mittwoch";

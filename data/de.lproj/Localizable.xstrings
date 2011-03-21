@@ -73,7 +73,7 @@
 	<key>Aperture Sharing Enabled</key>
 	<string>Aperture Freigabe aktivieren</string>
 	<key>Are you sure you want to disable secure access to your server?</key>
-	<string>Sind Sie sicher das der sichere Zugriff deaktiviert werden soll?</string>
+	<string>Sind Sie sicher das der Sichere Zugang deaktiviert werden soll?</string>
 	<key>Are you sure you want to empty the trash in "%@"?</key>
 	<string>Soll der Papierkorb in der Sektion "%@" wirklich geleert werden?</string>
 	<key>Are you sure you want to remove the section named "%@"?</key>
@@ -89,7 +89,7 @@
 	<key>Capability checking ensures that plug-ins that are incompatible with this version of the server or the current client application you are using are hidden. Disabling capability checking is useful during development, but will enable access to plug-ins that may perform unreliably with certain client applications.</key>
 	<string>Kompatibilitätsprüfung stellt sicher, dass Plug-Ins mit der aktuellen Version des Medienservers und der Anwendung zusammenarbeiten. Nicht kompatible Plug-Ins werden ausgeblendet. Das Ausschalten der Kompatibilitätsprüfung kann bei der Entwicklung von Plug-Ins helfen, erlaubt aber Zugriff auf Plug-Ins, die eventuell nicht oder nicht wie gewünscht mit der aktuellen Programmversion zusammenarbeiten.</string>
 	<key>Change</key>
-	<string>Change</string>
+	<string>Ändern</string>
 	<key>Change Artwork</key>
 	<string>Bilder ändern</string>
 	<key>Change Password</key>
@@ -133,7 +133,7 @@ Stellen Sie sicher, dass der Server läuft.</string>
 	<key>Directors</key>
 	<string>Regisseur</string>
 	<key>Disable Secure Access</key>
-	<string>Deaktivere sicherern Zugriff</string>
+	<string>Deaktivere Sicherern Zugang</string>
 	<key>Disable capability checking</key>
 	<string>Kompatibilitätsprüfung deaktivieren</string>
 	<key>Done</key>
@@ -157,11 +157,11 @@ Stellen Sie sicher, dass der Server läuft.</string>
 	<key>Enable</key>
 	<string>Aktivieren</string>
 	<key>Enable Secure Access</key>
-	<string>Sicheren Zugriff aktivieren</string>
+	<string>Sicheren Zugang aktivieren</string>
 	<key>Enter a password to enable secure access to your server:</key>
-	<string>Gib ein Passwort zum aktivieren des sichern Zugriffs ein:</string>
+	<string>Gib ein Passwort zum aktivieren des Sichern Zugangs ein:</string>
 	<key>Enter your current password to authenticate, then enter and verify your new password.</key>
-	<string>Enter your current password to authenticate, then enter and verify your new password.</string>
+	<string>Bitte zuerst bestehendes Passwort und anschließend neues Passwort sowie Passwortbestätigung eingeben.</string>
 	<key>Episode %d: %@</key>
 	<string>Episode %1$d: %2$@</string>
 	<key>Fix Incorrect Match...</key>
@@ -179,7 +179,7 @@ Stellen Sie sicher, dass der Server läuft.</string>
 	<key>Got this error: %@. Are you sure Plex Media Server is running?</key>
 	<string>Fehler: %@. Stellen Sie sicher, dass der Plex Media Server läuft.</string>
 	<key>If you want to share your media over the Internet, you can turn on Secure Server Access to prevent unauthorized access to your server.</key>
-	<string>If you want to share your media over the Internet, you can turn on Secure Server Access to prevent unauthorized access to your server.</string>
+	<string>Wenn sie Ihre Medien über das Internet zugänglich machen wollen, sollten Sie den Sicheren Zugang aktivieren um einen unberechtigten Zugriff zu verhindern</string>
 	<key>Include music sections in automatic updates</key>
 	<string>Musikbereich in automatische Updates einbeziehen</string>
 	<key>LIBRARY SECTIONS</key>
@@ -199,7 +199,7 @@ Stellen Sie sicher, dass der Server läuft.</string>
 	<key>Manual Entry</key>
 	<string>Manueller Eintrag</string>
 	<key>Match Using</key>
-	<string>Match Using</string>
+	<string>Abgleichen mit</string>
 	<key>Matching '%@'</key>
 	<string>Suche '%@'</string>
 	<key>Media analysis on '%@'</key>
@@ -229,7 +229,7 @@ Stellen Sie sicher, dass der Server läuft.</string>
 	<key>New Password:</key>
 	<string>Neues Passwort:</string>
 	<key>No Match Found</key>
-	<string>No Match Found</string>
+	<string>Keine Übereinstimmung gefunden</string>
 	<key>OK</key>
 	<string>OK</string>
 	<key>Offer higher bitrates over 3G connections</key>
@@ -261,7 +261,7 @@ Stellen Sie sicher, dass der Server läuft.</string>
 	<key>Refreshing info for one item</key>
 	<string>Aktualisiere Informationen für einen Eintrag</string>
 	<key>Remember me on this computer</key>
-	<string>Remember me on this computer</string>
+	<string>Angemeldet bleiben</string>
 	<key>Remove Section</key>
 	<string>Sektion entfernen</string>
 	<key>Requesting metadata for '%@'</key>
@@ -281,7 +281,7 @@ Stellen Sie sicher, dass der Server läuft.</string>
 	<key>Section type:</key>
 	<string>Sektionstyp:</string>
 	<key>Secure Server Access</key>
-	<string>Sicherer Zugriff</string>
+	<string>Sicherer Zugang</string>
 	<key>Security</key>
 	<string>Sicherheit</string>
 	<key>Select</key>
@@ -319,7 +319,7 @@ Stellen Sie sicher, dass der Server läuft.</string>
 	<key>Tagline</key>
 	<string>Aufmacher</string>
 	<key>There was no acceptable match using the specified agent.</key>
-	<string>There was no acceptable match using the specified agent.</string>
+	<string>Mit dem verwendeten Agenten konnte keine passende Übereinstimmung gefunden werden.</string>
 	<key>This helps us improve your experience (for example, to help us match movies and TV shows).</key>
 	<string>Damit helfen Sie uns, Plex und das Plex-Benutzererlebnis zu Verbessern (z.B. Bessere Erkennung von Serien und Filmen).</string>
 	<key>This name will be used to identify this media server to other computers on your network. If you leave it blank, your computer's name will be used instead.</key>
@@ -335,7 +335,7 @@ Stellen Sie sicher, dass der Server läuft.</string>
 	<key>Tuesday</key>
 	<string>Donnerstag</string>
 	<key>Turning off secure server access will allow incoming connections from any computer.</key>
-	<string>Turning off secure server access will allow incoming connections from any computer.</string>
+	<string>Die Deaktivierung des Sichern Zugangs erlaubt Zugriff von beliebigem Computer.</string>
 	<key>Unable to connect to Plex Media Server</key>
 	<string>Kann nicht zu Plex Media Server verbinden</string>
 	<key>Unable to create library section</key>
@@ -357,7 +357,7 @@ Stellen Sie sicher, dass der Server läuft.</string>
 	<key>Username:</key>
 	<string>Benutzername:</string>
 	<key>Verify:</key>
-	<string>Verify:</string>
+	<string>Passwortbestätigung:</string>
 	<key>Wednesday</key>
 	<string>Mittwoch</string>
 	<key>Writers</key>
