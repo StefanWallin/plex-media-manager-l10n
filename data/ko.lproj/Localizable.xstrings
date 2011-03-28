@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>%@, Episode %d</key>
-	<string>%1$@, Episode %2$d</string>
+	<string>%1$@, 에피소드 %2$d</string>
 	<key>%d TV shows</key>
-	<string>TV 쇼 %d개</string>
+	<string>TV 프로그램 %d개</string>
 	<key>%d artists</key>
 	<string>아티스트 %d명</string>
 	<key>%d episodes</key>
@@ -19,7 +19,7 @@
 	<key>%d:%02d %@</key>
 	<string>%1$d:%2$02d %3$@</string>
 	<key>1 TV show</key>
-	<string>TV 쇼 1개</string>
+	<string>TV 프로그램 1개</string>
 	<key>1 artist</key>
 	<string>아티스트 1명</string>
 	<key>1 episode</key>
@@ -31,49 +31,49 @@
 	<key>1 track, %@ total time, %@</key>
 	<string>트랙 1개, 재생시간 %1$@, %2$@</string>
 	<key>&gt; Add posters, custom genres and more</key>
-	<string>&gt; Add posters, custom genres and more</string>
+	<string>&gt; 포스터, 장르 등 추가</string>
 	<key>&gt; Album reviews</key>
-	<string>&gt; Album reviews</string>
+	<string>&gt; 앨범 리뷰</string>
 	<key>&gt; Artist biographies and artwork</key>
-	<string>&gt; Artist biographies and artwork</string>
+	<string>&gt; 작가 전기와 작품</string>
 	<key>&gt; Automatic theme music for TV shows</key>
-	<string>&gt; Automatic theme music for TV shows</string>
+	<string>&gt; TV 프로그램의 테마 음악</string>
 	<key>&gt; Customize every detail of each movie</key>
-	<string>&gt; Customize every detail of each movie</string>
+	<string>&gt; 영화 세부 사항 변경</string>
 	<key>&gt; Great for your personal media</key>
-	<string>&gt; Great for your personal media</string>
+	<string>&gt; 최고의 개인 미디어를 위한 도구 </string>
 	<key>&gt; Movie posters and art</key>
-	<string>&gt; Movie posters and art</string>
+	<string>&gt; 영화 포스터 아트</string>
 	<key>&gt; Organize movies into collections</key>
-	<string>&gt; Organize movies into collections</string>
+	<string>&gt; 영화 컬렉션 구성</string>
 	<key>&gt; TV show posters and art</key>
-	<string>&gt; TV show posters and art</string>
+	<string>&gt; TV 프로그램 포스터 아트</string>
 	<key>&gt; Thumbnails for every episode</key>
-	<string>&gt; Thumbnails for every episode</string>
+	<string>&gt; 에피소드의 썸네일</string>
 	<key>AM</key>
 	<string>AM</string>
 	<key>Add Home Movies Section</key>
-	<string>Add Home Movies Section</string>
+	<string>홈 무비 섹션 추가</string>
 	<key>Add Movies Section</key>
-	<string>Add Movies Section</string>
+	<string>영화 섹션 추가</string>
 	<key>Add Music Section</key>
-	<string>Add Music Section</string>
+	<string>음악 섹션 추가</string>
 	<key>Add Section</key>
 	<string>섹션 추가</string>
 	<key>Add TV Shows Section</key>
-	<string>Add TV Shows Section</string>
+	<string>TV 프로그램 섹션 추가</string>
 	<key>Add the folders containing media for this section below. Any media files found inside these folders will be scanned into your library using the above settings.</key>
 	<string>미디어를 포함하는 폴더를 추가하세요. 해당 폴더 내의 미디어 파일들은 위의 설정에 따라 자동으로 사용자의 라이브러리에 추가됩니다.</string>
 	<key>Advanced</key>
 	<string>고급</string>
 	<key>All deleted items will be permanently removed from your library. No files on your computer will be removed.</key>
-	<string>All deleted items will be permanently removed from your library. No files on your computer will be removed.</string>
+	<string>삭제된 모든 파일은 라이브러리에서 사라집니다. 사용자의 컴퓨터에서 삭제되지는 않습니다.</string>
 	<key>Any content in this section will no longer be available in your library. The files on your computer will not be removed.</key>
-	<string>이 섹션의 모든 컨텐츠는 더 이상 라이브러리에서 사용되지 않습니다. 사용자의 컴퓨터에 있는 파일은 제거되지 않습니다.</string>
+	<string>이 섹션의 모든 컨텐츠는 더 이상 라이브러리에서 사용되지 않습니다. 사용자의 컴퓨터에 있는 파일은 삭제되지 않습니다.</string>
 	<key>Aperture Sharing Enabled</key>
 	<string>Aperture Sharing Enabled</string>
 	<key>Are you sure you want to disable secure access to your server?</key>
-	<string>Are you sure you want to disable secure access to your server?</string>
+	<string>보안 서버를 비활성화 하시겠습니까?</string>
 	<key>Are you sure you want to empty the trash in "%@"?</key>
 	<string>Are you sure you want to empty the trash in "%@"?</string>
 	<key>Are you sure you want to remove the section named "%@"?</key>
@@ -81,23 +81,23 @@
 	<key>Artist</key>
 	<string>아티스트</string>
 	<key>Authenticate</key>
-	<string>Authenticate</string>
+	<string>승인</string>
 	<key>Authentication Required</key>
-	<string>Authentication Required</string>
+	<string>승인 필요</string>
 	<key>Cancel</key>
 	<string>취소</string>
 	<key>Capability checking ensures that plug-ins that are incompatible with this version of the server or the current client application you are using are hidden. Disabling capability checking is useful during development, but will enable access to plug-ins that may perform unreliably with certain client applications.</key>
-	<string>이 옵션을 선택 하면 서버의 버전과 호환되지 않는 플러그 인이나 클라이언트 응용 프로그램도 보여줍니다. 이 옵션은 개발 중일 때 유용하지만, 플러그 인의 접근이 클라이언트 응용 프로그램에 대해 신뢰할 수 없는 동작을 야기할 수 있습니다.</string>
+	<string>이 옵션을 선택 하면 서버의 버전과 호환되지 않는 플러그 인이나 클라이언트 응용 프로그램도 보여줍니다. 이 옵션은 개발 중일 때 유용하지만 플러그 인의 접근이 클라이언트 응용 프로그램에 대해 신뢰할 수 없는 동작을 야기할 수 있습니다.</string>
 	<key>Change</key>
-	<string>Change</string>
+	<string>변경</string>
 	<key>Change Artwork</key>
 	<string>이미지 변경</string>
 	<key>Change Password</key>
-	<string>Change Password</string>
+	<string>비밀번호 변경</string>
 	<key>Change Username</key>
-	<string>Change Username</string>
+	<string>계정 변경</string>
 	<key>Change your username, and enter your password to authenticate.</key>
-	<string>Change your username, and enter your password to authenticate.</string>
+	<string>계정을 입력하고 비밀번호를 입력하세요.</string>
 	<key>Choose Album Thumbnail</key>
 	<string>앨범 썸네일 선택</string>
 	<key>Choose Background Art</key>
@@ -113,19 +113,19 @@
 	<key>Choose Season Thumbnail</key>
 	<string>시즌 썸네일 선택</string>
 	<key>Click the titles below to create library sections for your media and have it served to your Plex-enabled devices.</key>
-	<string>Click the titles below to create library sections for your media and have it served to your Plex-enabled devices.</string>
+	<string>Plex가 장착된 디바이스에서 재생되도록 라이브러리 섹션을 생성하세요.</string>
 	<key>Collections</key>
 	<string>컬렉션</string>
 	<key>Connecting to Plex Media Server failed with this error: %@.
 
 Are you sure it's running?</key>
-	<string>다음과 같은 에러로 인하여 Plex Media Server에 접속을 실패하였습니다.: %@.
+	<string>다음과 같은 에러로 인하여 Plex Media Server에 접속하지 못했습니다.: %@.
 
 Plex Media Server가 실행 중인지 확인하세요.</string>
 	<key>Content Rating</key>
 	<string>등급</string>
 	<key>Current Password:</key>
-	<string>Current Password:</string>
+	<string>현재 비밀번호:</string>
 	<key>Custom Search</key>
 	<string>상세 검색</string>
 	<key>Customize Section</key>
@@ -133,17 +133,17 @@ Plex Media Server가 실행 중인지 확인하세요.</string>
 	<key>Directors</key>
 	<string>감독</string>
 	<key>Disable Secure Access</key>
-	<string>Disable Secure Access</string>
+	<string>비활성화</string>
 	<key>Disable capability checking</key>
 	<string>호환성 체크 비활성화</string>
 	<key>Done</key>
 	<string>완료</string>
 	<key>Drag folders into the list, or click the '+' button to browse.</key>
-	<string>'+' 버튼을 클릭하여 폴더를 추가하세요.</string>
+	<string>'+/-' 버튼을 클릭하여 폴더를 추가/삭제하세요.</string>
 	<key>Edit Metadata</key>
-	<string>메타데이터 편집</string>
+	<string>메타데이타 편집</string>
 	<key>Edit Metadata...</key>
-	<string>메타데이터 편집...</string>
+	<string>메타데이타 편집...</string>
 	<key>Edit Section</key>
 	<string>섹션 편집</string>
 	<key>Empty Trash</key>
@@ -155,19 +155,19 @@ Plex Media Server가 실행 중인지 확인하세요.</string>
 	<key>Empty trash automatically after every scan</key>
 	<string>Empty trash automatically after every scan</string>
 	<key>Enable</key>
-	<string>Enable</string>
+	<string>활성화</string>
 	<key>Enable Secure Access</key>
-	<string>Enable Secure Access</string>
+	<string>보안 서버 활성화</string>
 	<key>Enter a password to enable secure access to your server:</key>
-	<string>Enter a password to enable secure access to your server:</string>
+	<string>보안 서버를 활성화 하기 위해 비밀번호를 입력하세요:</string>
 	<key>Enter your current password to authenticate, then enter and verify your new password.</key>
-	<string>Enter your current password to authenticate, then enter and verify your new password.</string>
+	<string>현재 비밀번호와 변경하고자 하는 비밀번호를 입력하세요.</string>
 	<key>Episode %d: %@</key>
-	<string>Episode %1$d: %2$@</string>
+	<string>에피소드 %1$d: %2$@</string>
 	<key>Fix Incorrect Match...</key>
-	<string>메타데이터 재선택...</string>
+	<string>다시 선택...</string>
 	<key>Fix incorrect match</key>
-	<string>메타데이터 재선택</string>
+	<string>다시 선택</string>
 	<key>Friday</key>
 	<string>금요일</string>
 	<key>Friendly name:</key>
@@ -179,7 +179,7 @@ Plex Media Server가 실행 중인지 확인하세요.</string>
 	<key>Got this error: %@. Are you sure Plex Media Server is running?</key>
 	<string>에러 발생: %@. Plex Media Server가 실행 중인지 확인하세요.</string>
 	<key>If you want to share your media over the Internet, you can turn on Secure Server Access to prevent unauthorized access to your server.</key>
-	<string>If you want to share your media over the Internet, you can turn on Secure Server Access to prevent unauthorized access to your server.</string>
+	<string>미디어를 공유할 때 보안 서버를 실행하여 인증 받지 못한 접근을 차단할 수 있습니다.</string>
 	<key>Include music sections in automatic updates</key>
 	<string>자동 업데이트에 음악 섹션 포함</string>
 	<key>LIBRARY SECTIONS</key>
@@ -189,17 +189,17 @@ Plex Media Server가 실행 중인지 확인하세요.</string>
 	<key>Large music sections may take a long time to scan</key>
 	<string>용량이 큰 음악 섹션은 탐색 시간이 오래 걸릴 수 있습니다</string>
 	<key>Last refreshed %@ at %@</key>
-	<string>%1$@ %2$@에 갱신되었습니다</string>
+	<string>%1$@ %2$@에 업데이트 되었습니다.</string>
 	<key>Library</key>
 	<string>라이브러리</string>
 	<key>Loading metadata for '%@'</key>
-	<string>%@' 메타데이터 로딩중</string>
+	<string>%@' 메타데이타 로딩중</string>
 	<key>MEDIA MANAGER</key>
-	<string>MEDIA MANAGER</string>
+	<string>미디어 매니저</string>
 	<key>Manual Entry</key>
 	<string>직접 입력</string>
 	<key>Match Using</key>
-	<string>Match Using</string>
+	<string>에이전트 변경</string>
 	<key>Matching '%@'</key>
 	<string>'%@' 매칭중</string>
 	<key>Media analysis on '%@'</key>
@@ -221,15 +221,15 @@ Plex Media Server가 실행 중인지 확인하세요.</string>
 	<key>My Music</key>
 	<string>나의 음악</string>
 	<key>My TV Shows</key>
-	<string>나의 TV 쇼</string>
+	<string>나의 TV 프로그램</string>
 	<key>Name</key>
 	<string>제목</string>
 	<key>Name:</key>
 	<string>제목:</string>
 	<key>New Password:</key>
-	<string>New Password:</string>
+	<string>새 비밀번호:</string>
 	<key>No Match Found</key>
-	<string>No Match Found</string>
+	<string>일치 항목 없음</string>
 	<key>OK</key>
 	<string>OK</string>
 	<key>Offer higher bitrates over 3G connections</key>
@@ -241,21 +241,21 @@ Plex Media Server가 실행 중인지 확인하세요.</string>
 	<key>PM</key>
 	<string>PM</string>
 	<key>Password</key>
-	<string>Password</string>
+	<string>비밀번호</string>
 	<key>Password:</key>
-	<string>Password:</string>
+	<string>비밀번호:</string>
 	<key>Path of the directory you'd like to add:</key>
 	<string>추가하고자 하는 디렉토리 경로:</string>
 	<key>Plex Media Server requires a username and password:</key>
-	<string>Plex Media Server requires a username and password:</string>
+	<string>Plex Media Server는 계정과 비밀번호를 요구합니다:</string>
 	<key>Preferences</key>
 	<string>설정</string>
 	<key>Primary metadata agent:</key>
-	<string>메타데이터 에이전트:</string>
+	<string>메타데이타 에이전트:</string>
 	<key>Rating</key>
 	<string>평점</string>
 	<key>Refresh Metadata</key>
-	<string>정보 새로고침</string>
+	<string>새로 고침</string>
 	<key>Refreshing info for %d items</key>
 	<string>%d 아이템의 정보를 갱신하고 있습니다.</string>
 	<key>Refreshing info for one item</key>
@@ -265,7 +265,7 @@ Plex Media Server가 실행 중인지 확인하세요.</string>
 	<key>Remove Section</key>
 	<string>섹션 삭제</string>
 	<key>Requesting metadata for '%@'</key>
-	<string>'%@' 메타데이터 요청중</string>
+	<string>'%@' 메타데이타 요청중</string>
 	<key>Saturday</key>
 	<string>토요일</string>
 	<key>Save</key>
@@ -281,7 +281,7 @@ Plex Media Server가 실행 중인지 확인하세요.</string>
 	<key>Section type:</key>
 	<string>섹션 타입:</string>
 	<key>Secure Server Access</key>
-	<string>Secure Server Access</string>
+	<string>보안 서버</string>
 	<key>Security</key>
 	<string>보안</string>
 	<key>Select</key>
@@ -295,7 +295,7 @@ Plex Media Server가 실행 중인지 확인하세요.</string>
 	<key>Select a directory for this section:</key>
 	<string>해당 섹션의 폴더 선택:</string>
 	<key>Select the correct TV show from the list below:</key>
-	<string>다음 목록에서 일치하는 TV 쇼를 선택하세요:</string>
+	<string>다음 목록에서 일치하는 TV 프로그램을 선택하세요:</string>
 	<key>Select the correct artist from the list below:</key>
 	<string>다음 목록에서 일치하는 음악을 선택하세요:</string>
 	<key>Select the correct movie from the list below:</key>
@@ -305,7 +305,7 @@ Plex Media Server가 실행 중인지 확인하세요.</string>
 	<key>Sharing</key>
 	<string>공유</string>
 	<key>Show</key>
-	<string>쇼</string>
+	<string>프로그램</string>
 	<key>Sort Title</key>
 	<string>기타 제목</string>
 	<key>Studio</key>
@@ -315,17 +315,17 @@ Plex Media Server가 실행 중인지 확인하세요.</string>
 	<key>Sunday</key>
 	<string>일요일</string>
 	<key>TV Shows</key>
-	<string>TV 쇼</string>
+	<string>TV 프로그램</string>
 	<key>Tagline</key>
 	<string>태그라인</string>
 	<key>There was no acceptable match using the specified agent.</key>
-	<string>There was no acceptable match using the specified agent.</string>
+	<string>선택한 에이전트에는 일치하는 항목이 없습니다.</string>
 	<key>This helps us improve your experience (for example, to help us match movies and TV shows).</key>
-	<string>이것은 시스템 개선에 도움이 됩니다. (예를 들어, 영화와 TV 쇼를 매칭하는데 도움이 됩니다).</string>
+	<string>이는 시스템 개선에 도움이 됩니다. (영화와 TV 프로그램을 매칭하는데 도움이 됩니다.)</string>
 	<key>This name will be used to identify this media server to other computers on your network. If you leave it blank, your computer's name will be used instead.</key>
-	<string>이 이름은 네트워크 상의 다른 컴퓨터로부터 사용자의 미디어 서버를 구별하는데 사용됩니다. 만약 입력하지 않으면 사용자의 컴퓨터 이름으로 저장됩니다.</string>
+	<string>사용자 정의 이름은 네트워크의 다른 컴퓨터와 사용자의 미디어 서버를 구별하는데 사용됩니다. 입력하지 않으면 사용자의 컴퓨터 이름으로 저장됩니다.</string>
 	<key>This site does not support Internet Explorer. For the best experience, click here to install Google Chrome Frame.</key>
-	<string>이 사이트는 인터넷 익스플로러를 지원하지 않습니다. 이곳을 클릭하여 Google Chrome Frame을 설치하세요.</string>
+	<string>이 사이트는 인터넷 익스플로러를 지원하지 않습니다. 이곳을 클릭하여 Google 크롬 프레임을 설치하세요.</string>
 	<key>Thursday</key>
 	<string>목요일</string>
 	<key>Title</key>
@@ -335,7 +335,7 @@ Plex Media Server가 실행 중인지 확인하세요.</string>
 	<key>Tuesday</key>
 	<string>화요일</string>
 	<key>Turning off secure server access will allow incoming connections from any computer.</key>
-	<string>Turning off secure server access will allow incoming connections from any computer.</string>
+	<string>보안 서버를 비활성화하면 모든 컴퓨터로부터의 접근을 허용합니다.</string>
 	<key>Unable to connect to Plex Media Server</key>
 	<string>Plex Media Server에 연결할 수 없습니다.</string>
 	<key>Unable to create library section</key>
@@ -345,7 +345,7 @@ Plex Media Server가 실행 중인지 확인하세요.</string>
 	<key>Unable to update library section</key>
 	<string>라이브러리 섹션을 업데이트할 수 없습니다.</string>
 	<key>Unmatch</key>
-	<string>Unmatch</string>
+	<string>매칭 취소</string>
 	<key>Update Section</key>
 	<string>섹션 업데이트</string>
 	<key>Update my library</key>
@@ -353,11 +353,11 @@ Plex Media Server가 실행 중인지 확인하세요.</string>
 	<key>Update my library when changes to my folders are detected</key>
 	<string>폴더에 변경 발생시 라이브러리 업데이트</string>
 	<key>Username</key>
-	<string>Username</string>
+	<string>계정</string>
 	<key>Username:</key>
-	<string>Username:</string>
+	<string>계정:</string>
 	<key>Verify:</key>
-	<string>Verify:</string>
+	<string>다시 입력:</string>
 	<key>Wednesday</key>
 	<string>수요일</string>
 	<key>Writers</key>
@@ -385,7 +385,7 @@ Plex Media Server가 실행 중인지 확인하세요.</string>
 	<key>every 6 hours</key>
 	<string>6시간 마다</string>
 	<key>hourly</key>
-	<string>매시간</string>
+	<string>1시간 마다</string>
 	<key>iPhoto Sharing Enabled</key>
 	<string>iPhoto Sharing Enabled</string>
 	<key>iTunes Sharing Enabled</key>
@@ -393,7 +393,7 @@ Plex Media Server가 실행 중인지 확인하세요.</string>
 	<key>movie</key>
 	<string>영화</string>
 	<key>no TV shows</key>
-	<string>TV 쇼 없음</string>
+	<string>TV 프로그램 없음</string>
 	<key>no artists</key>
 	<string>아티스트 없음</string>
 	<key>no episodes</key>
@@ -405,7 +405,7 @@ Plex Media Server가 실행 중인지 확인하세요.</string>
 	<key>season</key>
 	<string>시즌</string>
 	<key>show</key>
-	<string>쇼</string>
+	<string>프로그램</string>
 	<key>today</key>
 	<string>오늘</string>
 	<key>tomorrow</key>
