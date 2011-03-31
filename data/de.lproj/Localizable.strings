@@ -85,7 +85,7 @@
 "Add Section" = "Sektion hinzufügen";
 
 /* Section settings primary informative text */
-"Add the folders containing media for this section below. Any media files found inside these folders will be scanned into your library using the above settings." = "Fügen Sie Ordner mit Mediendaten in den untenstehenden Bereich ein. Jede gefundene Mediendatei wird entsprechend der oben gemachten Einstellungen in die Bibliothek aufgenommen.";
+"Add the folders containing media for this section below. Any media files found inside these folders will be scanned into your library using the above settings." = "Fügen Sie Ordner mit Mediendaten in den untenstehenden Bereich ein. Jede gefundene Mediendatei wird entsprechend der oben gemachten Einstellungen in die Mediathek aufgenommen.";
 
 /* First-run title for adding TV shows */
 "Add TV Shows Section" = "Serien Sektion hinzufügen";
@@ -97,13 +97,13 @@
 "album" = "Album";
 
 /* Explanation text for the empty trash confirmation dialog */
-"All deleted items will be permanently removed from your library. No files on your computer will be removed." = "Alle gelöschten Daten werden aus der Bibliothek entfernt. Die Mediendateien auf Ihrem Rechner werden nicht gelöscht.";
+"All deleted items will be permanently removed from your library. No files on your computer will be removed." = "Alle gelöschten Daten werden aus der Mediathek entfernt. Die Mediendateien auf Ihrem Rechner werden nicht gelöscht.";
 
 /* AnteMeridiem */
 "AM" = "AM";
 
 /* Informative text for removing a section */
-"Any content in this section will no longer be available in your library. The files on your computer will not be removed." = "Alle Inhalte dieser Sektionen werden aus Ihrer Bibliothek entfernt. Die Mediendateien auf Ihrem Rechner werden nicht gelöscht.";
+"Any content in this section will no longer be available in your library. The files on your computer will not be removed." = "Alle Inhalte dieser Sektionen werden aus Ihrer Mediathek entfernt. Die Mediendateien auf Ihrem Rechner werden nicht gelöscht.";
 
 /* Preference window setting */
 "Aperture Sharing Enabled" = "Aperture Freigabe aktivieren";
@@ -172,7 +172,7 @@
 "Choose Season Thumbnail" = "Staffel Vorschaubild auswählen";
 
 /* First-run help title */
-"Click the titles below to create library sections for your media and have it served to your Plex-enabled devices." = "Klicken sie auf die Einträge unten, um in der Bibliothek Sektionen für Ihre Mediendaten zu erstellen, die dann mit PLEX-kompatiblen Geräten und Programmen benutzt werden können.";
+"Click the titles below to create library sections for your media and have it served to your Plex-enabled devices." = "Klicken sie auf die Einträge unten, um in der Mediathek Sektionen für Ihre Mediendaten zu erstellen, die dann mit PLEX-kompatiblen Geräten und Programmen benutzt werden können.";
 
 /* Collections */
 "Collections" = "Sammlungen";
@@ -202,7 +202,7 @@
 "Disable capability checking" = "Kompatibilitätsprüfung deaktivieren";
 
 /* Disable secure server confirmation button */
-"Disable Secure Access" = "Deaktivere Sicherern Zugang";
+"Disable Secure Access" = "Deaktivere Sicheren Zugang";
 
 /* Done */
 "Done" = "Fertig";
@@ -239,7 +239,7 @@
 "Enable Secure Access" = "Sicheren Zugang aktivieren";
 
 /* Enable security prompt message */
-"Enter a password to enable secure access to your server:" = "Gib ein Passwort zum aktivieren des Sichern Zugangs ein:";
+"Enter a password to enable secure access to your server:" = "Gib ein Passwort zum aktivieren des Sicheren Zugangs ein:";
 
 /* Change password prompt message */
 "Enter your current password to authenticate, then enter and verify your new password." = "Bitte zuerst bestehendes Passwort und anschließend neues Passwort sowie Passwortbestätigung eingeben.";
@@ -311,10 +311,10 @@
 "Last refreshed %@ at %@" = "Letzte Aktualisierung %1$@ um %2$@ Uhr";
 
 /* Library */
-"Library" = "Bibliothek";
+"Library" = "Mediathek";
 
 /* Sidebar group title for library sections */
-"LIBRARY SECTIONS" = "BIBLIOTHEK SEKTIONEN";
+"LIBRARY SECTIONS" = "Mediathek";
 
 /* Metadata item status message when its data is importing */
 "Loading metadata for '%@'" = "Lade Metadaten für '%@'";
@@ -559,7 +559,7 @@
 "Tuesday" = "Donnerstag";
 
 /* Disable secure server access confirmation info */
-"Turning off secure server access will allow incoming connections from any computer." = "Die Deaktivierung des Sichern Zugangs erlaubt Zugriff von beliebigem Computer.";
+"Turning off secure server access will allow incoming connections from any computer." = "Die Deaktivierung des Sicheren Zugangs erlaubt eingehende Verbindungen für jeden Computer.";
 
 /* TV Shows */
 "TV Shows" = "Serien";
@@ -580,10 +580,10 @@
 "Unmatch" = "Metadaten verwerfen";
 
 /* Preference window setting - will have frequencies after it e.g. Update my library every two hours */
-"Update my library" = "Bibliothek aktualisieren";
+"Update my library" = "Mediathek aktualisieren";
 
 /* Preference window setting */
-"Update my library when changes to my folders are detected" = "Bibliothek aktualisieren, wenn Änderungen in der Ordnerstruktur gemacht werden";
+"Update my library when changes to my folders are detected" = "Mediathek aktualisieren, wenn Änderungen in der Ordnerstruktur gemacht werden";
 
 /* Update section confirm button text */
 "Update Section" = "Sektion aktualisieren";

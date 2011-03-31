@@ -63,13 +63,13 @@
 	<key>Add TV Shows Section</key>
 	<string>Serien Sektion hinzufügen</string>
 	<key>Add the folders containing media for this section below. Any media files found inside these folders will be scanned into your library using the above settings.</key>
-	<string>Fügen Sie Ordner mit Mediendaten in den untenstehenden Bereich ein. Jede gefundene Mediendatei wird entsprechend der oben gemachten Einstellungen in die Bibliothek aufgenommen.</string>
+	<string>Fügen Sie Ordner mit Mediendaten in den untenstehenden Bereich ein. Jede gefundene Mediendatei wird entsprechend der oben gemachten Einstellungen in die Mediathek aufgenommen.</string>
 	<key>Advanced</key>
 	<string>Erweitert</string>
 	<key>All deleted items will be permanently removed from your library. No files on your computer will be removed.</key>
-	<string>Alle gelöschten Daten werden aus der Bibliothek entfernt. Die Mediendateien auf Ihrem Rechner werden nicht gelöscht.</string>
+	<string>Alle gelöschten Daten werden aus der Mediathek entfernt. Die Mediendateien auf Ihrem Rechner werden nicht gelöscht.</string>
 	<key>Any content in this section will no longer be available in your library. The files on your computer will not be removed.</key>
-	<string>Alle Inhalte dieser Sektionen werden aus Ihrer Bibliothek entfernt. Die Mediendateien auf Ihrem Rechner werden nicht gelöscht.</string>
+	<string>Alle Inhalte dieser Sektionen werden aus Ihrer Mediathek entfernt. Die Mediendateien auf Ihrem Rechner werden nicht gelöscht.</string>
 	<key>Aperture Sharing Enabled</key>
 	<string>Aperture Freigabe aktivieren</string>
 	<key>Are you sure you want to disable secure access to your server?</key>
@@ -113,7 +113,7 @@
 	<key>Choose Season Thumbnail</key>
 	<string>Staffel Vorschaubild auswählen</string>
 	<key>Click the titles below to create library sections for your media and have it served to your Plex-enabled devices.</key>
-	<string>Klicken sie auf die Einträge unten, um in der Bibliothek Sektionen für Ihre Mediendaten zu erstellen, die dann mit PLEX-kompatiblen Geräten und Programmen benutzt werden können.</string>
+	<string>Klicken sie auf die Einträge unten, um in der Mediathek Sektionen für Ihre Mediendaten zu erstellen, die dann mit PLEX-kompatiblen Geräten und Programmen benutzt werden können.</string>
 	<key>Collections</key>
 	<string>Sammlungen</string>
 	<key>Connecting to Plex Media Server failed with this error: %@.
@@ -133,7 +133,7 @@ Stellen Sie sicher, dass der Server läuft.</string>
 	<key>Directors</key>
 	<string>Regisseur</string>
 	<key>Disable Secure Access</key>
-	<string>Deaktivere Sicherern Zugang</string>
+	<string>Deaktivere Sicheren Zugang</string>
 	<key>Disable capability checking</key>
 	<string>Kompatibilitätsprüfung deaktivieren</string>
 	<key>Done</key>
@@ -159,7 +159,7 @@ Stellen Sie sicher, dass der Server läuft.</string>
 	<key>Enable Secure Access</key>
 	<string>Sicheren Zugang aktivieren</string>
 	<key>Enter a password to enable secure access to your server:</key>
-	<string>Gib ein Passwort zum aktivieren des Sichern Zugangs ein:</string>
+	<string>Gib ein Passwort zum aktivieren des Sicheren Zugangs ein:</string>
 	<key>Enter your current password to authenticate, then enter and verify your new password.</key>
 	<string>Bitte zuerst bestehendes Passwort und anschließend neues Passwort sowie Passwortbestätigung eingeben.</string>
 	<key>Episode %d: %@</key>
@@ -183,7 +183,7 @@ Stellen Sie sicher, dass der Server läuft.</string>
 	<key>Include music sections in automatic updates</key>
 	<string>Musikbereich in automatische Updates einbeziehen</string>
 	<key>LIBRARY SECTIONS</key>
-	<string>BIBLIOTHEK SEKTIONEN</string>
+	<string>Mediathek</string>
 	<key>Language:</key>
 	<string>Sprache:</string>
 	<key>Large music sections may take a long time to scan</key>
@@ -191,7 +191,7 @@ Stellen Sie sicher, dass der Server läuft.</string>
 	<key>Last refreshed %@ at %@</key>
 	<string>Letzte Aktualisierung %1$@ um %2$@ Uhr</string>
 	<key>Library</key>
-	<string>Bibliothek</string>
+	<string>Mediathek</string>
 	<key>Loading metadata for '%@'</key>
 	<string>Lade Metadaten für '%@'</string>
 	<key>MEDIA MANAGER</key>
@@ -335,7 +335,7 @@ Stellen Sie sicher, dass der Server läuft.</string>
 	<key>Tuesday</key>
 	<string>Donnerstag</string>
 	<key>Turning off secure server access will allow incoming connections from any computer.</key>
-	<string>Die Deaktivierung des Sichern Zugangs erlaubt Zugriff von beliebigem Computer.</string>
+	<string>Die Deaktivierung des Sicheren Zugangs erlaubt eingehende Verbindungen für jeden Computer.</string>
 	<key>Unable to connect to Plex Media Server</key>
 	<string>Kann nicht zu Plex Media Server verbinden</string>
 	<key>Unable to create library section</key>
@@ -349,9 +349,9 @@ Stellen Sie sicher, dass der Server läuft.</string>
 	<key>Update Section</key>
 	<string>Sektion aktualisieren</string>
 	<key>Update my library</key>
-	<string>Bibliothek aktualisieren</string>
+	<string>Mediathek aktualisieren</string>
 	<key>Update my library when changes to my folders are detected</key>
-	<string>Bibliothek aktualisieren, wenn Änderungen in der Ordnerstruktur gemacht werden</string>
+	<string>Mediathek aktualisieren, wenn Änderungen in der Ordnerstruktur gemacht werden</string>
 	<key>Username</key>
 	<string>Benutzername</string>
 	<key>Username:</key>
