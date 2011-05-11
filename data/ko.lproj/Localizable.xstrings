@@ -68,6 +68,8 @@
 	<string>고급</string>
 	<key>All deleted items will be permanently removed from your library. No files on your computer will be removed.</key>
 	<string>삭제된 모든 파일은 라이브러리에서 사라집니다. 사용자의 컴퓨터에서 삭제되지는 않습니다.</string>
+	<key>Always enabled</key>
+	<string>Always enabled</string>
 	<key>Any content in this section will no longer be available in your library. The files on your computer will not be removed.</key>
 	<string>이 섹션의 모든 컨텐츠는 더 이상 라이브러리에서 사용되지 않습니다. 사용자의 컴퓨터에 있는 파일은 삭제되지 않습니다.</string>
 	<key>Aperture Sharing Enabled</key>
@@ -148,14 +150,14 @@ Plex Media Server가 실행 중인지 확인하세요.</string>
 	<string>섹션 편집</string>
 	<key>Empty Trash</key>
 	<string>Empty Trash</string>
-	<key>Empty Trash (%d items)</key>
-	<string>Empty Trash (%d items)</string>
-	<key>Empty Trash (1 item)</key>
-	<string>Empty Trash (1 item)</string>
 	<key>Empty trash automatically after every scan</key>
 	<string>Empty trash automatically after every scan</string>
 	<key>Enable</key>
 	<string>활성화</string>
+	<key>Enable DTS mix-down for Media Link clients</key>
+	<string>Enable DTS mix-down for Media Link clients</string>
+	<key>Enable Dolby® Digital during AirPlay</key>
+	<string>Enable Dolby® Digital during AirPlay</string>
 	<key>Enable Secure Access</key>
 	<string>보안 서버 활성화</string>
 	<key>Enter a password to enable secure access to your server:</key>
@@ -186,6 +188,8 @@ Plex Media Server가 실행 중인지 확인하세요.</string>
 	<string>라이브러리 섹션</string>
 	<key>Language:</key>
 	<string>언어:</string>
+	<key>Languages</key>
+	<string>Languages</string>
 	<key>Large music sections may take a long time to scan</key>
 	<string>용량이 큰 음악 섹션은 탐색 시간이 오래 걸릴 수 있습니다</string>
 	<key>Last refreshed %@ at %@</key>
@@ -198,10 +202,14 @@ Plex Media Server가 실행 중인지 확인하세요.</string>
 	<string>미디어 매니저</string>
 	<key>Manual Entry</key>
 	<string>직접 입력</string>
+	<key>Manually selected</key>
+	<string>Manually selected</string>
 	<key>Match Using</key>
 	<string>에이전트 변경</string>
 	<key>Matching '%@'</key>
 	<string>'%@' 매칭중</string>
+	<key>Media Link does not support DTS audio in certain regions. The Plex Media Server can automatically convert DTS to stereo so that it will play.</key>
+	<string>Media Link does not support DTS audio in certain regions. The Plex Media Server can automatically convert DTS to stereo so that it will play.</string>
 	<key>Media analysis on '%@'</key>
 	<string>'%@' 미디어 분석</string>
 	<key>Media file: </key>
@@ -248,6 +256,10 @@ Plex Media Server가 실행 중인지 확인하세요.</string>
 	<string>추가하고자 하는 디렉토리 경로:</string>
 	<key>Plex Media Server requires a username and password:</key>
 	<string>Plex Media Server는 계정과 비밀번호를 요구합니다:</string>
+	<key>Prefer audio tracks in:</key>
+	<string>Prefer audio tracks in:</string>
+	<key>Prefer subtitles in:</key>
+	<string>Prefer subtitles in:</string>
 	<key>Preferences</key>
 	<string>설정</string>
 	<key>Primary metadata agent:</key>
@@ -306,10 +318,14 @@ Plex Media Server가 실행 중인지 확인하세요.</string>
 	<string>공유</string>
 	<key>Show</key>
 	<string>프로그램</string>
+	<key>Shown with foreign audio</key>
+	<string>Shown with foreign audio</string>
 	<key>Sort Title</key>
 	<string>기타 제목</string>
 	<key>Studio</key>
 	<string>제작사</string>
+	<key>Subtitle mode:</key>
+	<string>Subtitle mode:</string>
 	<key>Summary</key>
 	<string>요약</string>
 	<key>Sunday</key>
@@ -360,6 +376,8 @@ Plex Media Server가 실행 중인지 확인하세요.</string>
 	<string>다시 입력:</string>
 	<key>Wednesday</key>
 	<string>수요일</string>
+	<key>When playing video with AirPlay on an Apple TV, allow Dolby® Digital audio to play. You must go to Settings on the Apple TV and set Dolby Digital Out to "On" in the Audio &amp; Video menu.</key>
+	<string>When playing video with AirPlay on an Apple TV, allow Dolby® Digital audio to play. You must go to Settings on the Apple TV and set Dolby Digital Out to "On" in the Audio &amp; Video menu.</string>
 	<key>Writers</key>
 	<string>작가</string>
 	<key>Year</key>

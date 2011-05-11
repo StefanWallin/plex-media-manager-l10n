@@ -99,6 +99,9 @@
 /* Explanation text for the empty trash confirmation dialog */
 "All deleted items will be permanently removed from your library. No files on your computer will be removed." = "Ell deleted items veell be-a permunently remufed frum yuoor leebrery. Nu feeles oon yuoor cumpooter veell be-a remufed.";
 
+/* Language preference pane subtitle mode option */
+"Always enabled" = "Elveys inebled";
+
 /* AnteMeridiem */
 "AM" = "EM";
 
@@ -219,21 +222,20 @@
 /* Edit Section */
 "Edit Section" = "Edeet Secshun";
 
-/* Confirmation button for the empty trash confirmation dialog
-   Menu item title in the library section action menu when there is nothing in the trash */
+/* Confirmation button for the empty trash confirmation dialog */
 "Empty Trash" = "Empty Tresh";
-
-/* Menu item title in the library section action menu when there is more than one item in the trash */
-"Empty Trash (%d items)" = "Empty Tresh (%d items)";
-
-/* Menu item title in the library section action menu when there is one item in the trash */
-"Empty Trash (1 item)" = "Empty Tresh (1 item)";
 
 /* Preference window setting */
 "Empty trash automatically after every scan" = "Empty tresh ootumeteecelly effter ifery scun";
 
 /* Enable */
 "Enable" = "Eneble-a";
+
+/* Preference window setting */
+"Enable Dolby® Digital during AirPlay" = "Eneble-a Dulby® Deegitel dooreeng EurPley";
+
+/* Preference window setting */
+"Enable DTS mix-down for Media Link clients" = "Eneble-a DTS meex-doon fur Medeea Leenk cleeents";
 
 /* Check box label to enable secure server access */
 "Enable Secure Access" = "Eneble-a Secoore-a Eccess";
@@ -304,6 +306,9 @@
 /* Language label */
 "Language:" = "Lungooege-a:";
 
+/* Languages */
+"Languages" = "Lungooeges";
+
 /* Preference window setting */
 "Large music sections may take a long time to scan" = "Lerge-a mooseec secshuns mey teke-a a lung teeme-a tu scun";
 
@@ -322,6 +327,9 @@
 /* Button text for the directory browser to allow the user to type in a path manually */
 "Manual Entry" = "Munooel Intry";
 
+/* Language preference pane subtitle mode option */
+"Manually selected" = "Munooelly selected";
+
 /* Context menu item for metadata items */
 "Match Using" = "Metch Useeng";
 
@@ -333,6 +341,9 @@
 
 /* Label for the path to the file whose match is being fixed */
 "Media file: " = "Medeea feele-a: ";
+
+/* Preference window setting detail */
+"Media Link does not support DTS audio in certain regions. The Plex Media Server can automatically convert DTS to stereo so that it will play." = "Medeea Leenk dues nut sooppurt DTS oodeeu in certeeen regeeuns. Zee Plex Medeea Serfer cun ootumeteecelly cunfert DTS tu stereu su thet it veell pley.";
 
 /* Header title */
 "MEDIA MANAGER" = "MEDIA MENEGER";
@@ -419,6 +430,12 @@
 
 /* PostMeridiem */
 "PM" = "PM";
+
+/* Language preference pane audio checkbox label */
+"Prefer audio tracks in:" = "Preffer oodeeu trecks in:";
+
+/* Languages preference pane default subtitle language label */
+"Prefer subtitles in:" = "Preffer soobteetles in:";
 
 /* Preferences button in top-right */
 "Preferences" = "Prefferences";
@@ -513,11 +530,17 @@
 /* Show */
 "Show" = "Shoo";
 
+/* Language preference pane subtitle mode option */
+"Shown with foreign audio" = "Shoon veet fureeegn oodeeu";
+
 /* Sort Title */
 "Sort Title" = "Surt Teetle-a";
 
 /* Studio */
 "Studio" = "Stoodeeu";
+
+/* Languages preference pane subtitle mode label */
+"Subtitle mode:" = "Soobteetle-a mude-a:";
 
 /* Summary */
 "Summary" = "Soommery";
@@ -599,6 +622,9 @@
 
 /* Wednesday */
 "Wednesday" = "Vednesdey";
+
+/* Preference window setting detail */
+"When playing video with AirPlay on an Apple TV, allow Dolby® Digital audio to play. You must go to Settings on the Apple TV and set Dolby Digital Out to \"On\" in the Audio & Video menu." = "Vhee pleyeeng feedeu veet EurPley oon un Epple-a TF, elloo Dulby® Deegitel oodeeu tu pley. Yuoo moost gu tu Setteengs oon zee Epple-a TF und set Dulby Deegitel Oooot tu \"Oon\" in zee Oodeeu & Feedeu menoo.";
 
 /* Writers */
 "Writers" = "Vreeters";

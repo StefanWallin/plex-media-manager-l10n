@@ -99,6 +99,9 @@
 /* Explanation text for the empty trash confirmation dialog */
 "All deleted items will be permanently removed from your library. No files on your computer will be removed." = "All deleted items will be permanently removed from your library. No files on your computer will be removed.";
 
+/* Language preference pane subtitle mode option */
+"Always enabled" = "Always enabled";
+
 /* AnteMeridiem */
 "AM" = "AM";
 
@@ -117,11 +120,11 @@
 /* Confirmation message for removing a section */
 "Are you sure you want to remove the section named \"%@\"?" = "Sei sicuro di voler rimuovere la sezione \"%@\"?";
 
-/* A musical artist */
-"artist" = "artista";
-
 /* Artist */
 "Artist" = "Artista";
+
+/* A musical artist */
+"artist" = "artista";
 
 /* Authenticate */
 "Authenticate" = "Authenticate";
@@ -219,21 +222,20 @@
 /* Edit Section */
 "Edit Section" = "Modifica Sezione";
 
-/* Confirmation button for the empty trash confirmation dialog
-   Menu item title in the library section action menu when there is nothing in the trash */
+/* Confirmation button for the empty trash confirmation dialog */
 "Empty Trash" = "Empty Trash";
-
-/* Menu item title in the library section action menu when there is more than one item in the trash */
-"Empty Trash (%d items)" = "Empty Trash (%d items)";
-
-/* Menu item title in the library section action menu when there is one item in the trash */
-"Empty Trash (1 item)" = "Empty Trash (1 item)";
 
 /* Preference window setting */
 "Empty trash automatically after every scan" = "Empty trash automatically after every scan";
 
 /* Enable */
 "Enable" = "Enable";
+
+/* Preference window setting */
+"Enable Dolby® Digital during AirPlay" = "Enable Dolby® Digital during AirPlay";
+
+/* Preference window setting */
+"Enable DTS mix-down for Media Link clients" = "Enable DTS mix-down for Media Link clients";
 
 /* Check box label to enable secure server access */
 "Enable Secure Access" = "Enable Secure Access";
@@ -304,6 +306,9 @@
 /* Language label */
 "Language:" = "Lingua:";
 
+/* Languages */
+"Languages" = "Languages";
+
 /* Preference window setting */
 "Large music sections may take a long time to scan" = "Sezioni musicali di grandi dimensioni potrebbero richiedere un lungo tempo di scansione";
 
@@ -322,6 +327,9 @@
 /* Button text for the directory browser to allow the user to type in a path manually */
 "Manual Entry" = "Inserimento manuale";
 
+/* Language preference pane subtitle mode option */
+"Manually selected" = "Manually selected";
+
 /* Context menu item for metadata items */
 "Match Using" = "Match Using";
 
@@ -333,6 +341,9 @@
 
 /* Label for the path to the file whose match is being fixed */
 "Media file: " = "File media: ";
+
+/* Preference window setting detail */
+"Media Link does not support DTS audio in certain regions. The Plex Media Server can automatically convert DTS to stereo so that it will play." = "Media Link does not support DTS audio in certain regions. The Plex Media Server can automatically convert DTS to stereo so that it will play.";
 
 /* Header title */
 "MEDIA MANAGER" = "MEDIA MANAGER";
@@ -419,6 +430,12 @@
 
 /* PostMeridiem */
 "PM" = "PM";
+
+/* Language preference pane audio checkbox label */
+"Prefer audio tracks in:" = "Prefer audio tracks in:";
+
+/* Languages preference pane default subtitle language label */
+"Prefer subtitles in:" = "Prefer subtitles in:";
 
 /* Preferences button in top-right */
 "Preferences" = "Impostazioni";
@@ -507,17 +524,23 @@
 /* Sharing */
 "Sharing" = "Condivisione";
 
+/* Show */
+"Show" = "Serie";
+
 /* A TV Show */
 "show" = "serie";
 
-/* Show */
-"Show" = "Serie";
+/* Language preference pane subtitle mode option */
+"Shown with foreign audio" = "Shown with foreign audio";
 
 /* Sort Title */
 "Sort Title" = "Ordina per Titolo";
 
 /* Studio */
 "Studio" = "Studio";
+
+/* Languages preference pane subtitle mode label */
+"Subtitle mode:" = "Subtitle mode:";
 
 /* Summary */
 "Summary" = "Sommario";
@@ -599,6 +622,9 @@
 
 /* Wednesday */
 "Wednesday" = "Mercoledi'";
+
+/* Preference window setting detail */
+"When playing video with AirPlay on an Apple TV, allow Dolby® Digital audio to play. You must go to Settings on the Apple TV and set Dolby Digital Out to \"On\" in the Audio & Video menu." = "When playing video with AirPlay on an Apple TV, allow Dolby® Digital audio to play. You must go to Settings on the Apple TV and set Dolby Digital Out to \"On\" in the Audio & Video menu.";
 
 /* Writers */
 "Writers" = "Autori";

@@ -68,6 +68,8 @@
 	<string>Avanzado</string>
 	<key>All deleted items will be permanently removed from your library. No files on your computer will be removed.</key>
 	<string>All deleted items will be permanently removed from your library. No files on your computer will be removed.</string>
+	<key>Always enabled</key>
+	<string>Always enabled</string>
 	<key>Any content in this section will no longer be available in your library. The files on your computer will not be removed.</key>
 	<string>Todos los contenidos de esta sección dejarán de estar disponibles en su biblioteca. Los archivos en su ordenador no se eliminarán.</string>
 	<key>Aperture Sharing Enabled</key>
@@ -148,14 +150,14 @@ Are you sure it's running?</key>
 	<string>Editar Sección</string>
 	<key>Empty Trash</key>
 	<string>Empty Trash</string>
-	<key>Empty Trash (%d items)</key>
-	<string>Empty Trash (%d items)</string>
-	<key>Empty Trash (1 item)</key>
-	<string>Empty Trash (1 item)</string>
 	<key>Empty trash automatically after every scan</key>
 	<string>Empty trash automatically after every scan</string>
 	<key>Enable</key>
 	<string>Enable</string>
+	<key>Enable DTS mix-down for Media Link clients</key>
+	<string>Enable DTS mix-down for Media Link clients</string>
+	<key>Enable Dolby® Digital during AirPlay</key>
+	<string>Enable Dolby® Digital during AirPlay</string>
 	<key>Enable Secure Access</key>
 	<string>Enable Secure Access</string>
 	<key>Enter a password to enable secure access to your server:</key>
@@ -186,6 +188,8 @@ Are you sure it's running?</key>
 	<string>SECCIONES DE LA BIBLIOTECA</string>
 	<key>Language:</key>
 	<string>Idioma:</string>
+	<key>Languages</key>
+	<string>Languages</string>
 	<key>Large music sections may take a long time to scan</key>
 	<string>Large music sections may take a long time to scan</string>
 	<key>Last refreshed %@ at %@</key>
@@ -198,10 +202,14 @@ Are you sure it's running?</key>
 	<string>MEDIA MANAGER</string>
 	<key>Manual Entry</key>
 	<string>Introducción Manual</string>
+	<key>Manually selected</key>
+	<string>Manually selected</string>
 	<key>Match Using</key>
 	<string>Match Using</string>
 	<key>Matching '%@'</key>
 	<string>Buscando correspondencia para '%@'</string>
+	<key>Media Link does not support DTS audio in certain regions. The Plex Media Server can automatically convert DTS to stereo so that it will play.</key>
+	<string>Media Link does not support DTS audio in certain regions. The Plex Media Server can automatically convert DTS to stereo so that it will play.</string>
 	<key>Media analysis on '%@'</key>
 	<string>Analizando datos en '%@'</string>
 	<key>Media file: </key>
@@ -248,6 +256,10 @@ Are you sure it's running?</key>
 	<string>Ruta del directorio que desea añadir:</string>
 	<key>Plex Media Server requires a username and password:</key>
 	<string>Plex Media Server requires a username and password:</string>
+	<key>Prefer audio tracks in:</key>
+	<string>Prefer audio tracks in:</string>
+	<key>Prefer subtitles in:</key>
+	<string>Prefer subtitles in:</string>
 	<key>Preferences</key>
 	<string>Ajustes</string>
 	<key>Primary metadata agent:</key>
@@ -306,10 +318,14 @@ Are you sure it's running?</key>
 	<string>Compartir</string>
 	<key>Show</key>
 	<string>Mostrar</string>
+	<key>Shown with foreign audio</key>
+	<string>Shown with foreign audio</string>
 	<key>Sort Title</key>
 	<string>Ordenar título</string>
 	<key>Studio</key>
 	<string>Estudio</string>
+	<key>Subtitle mode:</key>
+	<string>Subtitle mode:</string>
 	<key>Summary</key>
 	<string>Sinópsis</string>
 	<key>Sunday</key>
@@ -360,6 +376,8 @@ Are you sure it's running?</key>
 	<string>Verify:</string>
 	<key>Wednesday</key>
 	<string>Miércoles</string>
+	<key>When playing video with AirPlay on an Apple TV, allow Dolby® Digital audio to play. You must go to Settings on the Apple TV and set Dolby Digital Out to "On" in the Audio &amp; Video menu.</key>
+	<string>When playing video with AirPlay on an Apple TV, allow Dolby® Digital audio to play. You must go to Settings on the Apple TV and set Dolby Digital Out to "On" in the Audio &amp; Video menu.</string>
 	<key>Writers</key>
 	<string>Guionistas</string>
 	<key>Year</key>

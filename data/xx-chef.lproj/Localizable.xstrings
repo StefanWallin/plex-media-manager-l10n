@@ -68,6 +68,8 @@
 	<string>Edfunced</string>
 	<key>All deleted items will be permanently removed from your library. No files on your computer will be removed.</key>
 	<string>Ell deleted items veell be-a permunently remufed frum yuoor leebrery. Nu feeles oon yuoor cumpooter veell be-a remufed.</string>
+	<key>Always enabled</key>
+	<string>Elveys inebled</string>
 	<key>Any content in this section will no longer be available in your library. The files on your computer will not be removed.</key>
 	<string>Uny cuntent in thees secshun veell nu lunger be-a efeeeleble-a in yuoor leebrery. Zee feeles oon yuoor cumpooter veell nut be-a remufed.</string>
 	<key>Aperture Sharing Enabled</key>
@@ -148,14 +150,14 @@ Are yuoo soore-a it's roonneeng?</string>
 	<string>Edeet Secshun</string>
 	<key>Empty Trash</key>
 	<string>Empty Tresh</string>
-	<key>Empty Trash (%d items)</key>
-	<string>Empty Tresh (%d items)</string>
-	<key>Empty Trash (1 item)</key>
-	<string>Empty Tresh (1 item)</string>
 	<key>Empty trash automatically after every scan</key>
 	<string>Empty tresh ootumeteecelly effter ifery scun</string>
 	<key>Enable</key>
 	<string>Eneble-a</string>
+	<key>Enable DTS mix-down for Media Link clients</key>
+	<string>Eneble-a DTS meex-doon fur Medeea Leenk cleeents</string>
+	<key>Enable Dolby® Digital during AirPlay</key>
+	<string>Eneble-a Dulby® Deegitel dooreeng EurPley</string>
 	<key>Enable Secure Access</key>
 	<string>Eneble-a Secoore-a Eccess</string>
 	<key>Enter a password to enable secure access to your server:</key>
@@ -186,6 +188,8 @@ Are yuoo soore-a it's roonneeng?</string>
 	<string>LIBRERY SECTIONS</string>
 	<key>Language:</key>
 	<string>Lungooege-a:</string>
+	<key>Languages</key>
+	<string>Lungooeges</string>
 	<key>Large music sections may take a long time to scan</key>
 	<string>Lerge-a mooseec secshuns mey teke-a a lung teeme-a tu scun</string>
 	<key>Last refreshed %@ at %@</key>
@@ -198,10 +202,14 @@ Are yuoo soore-a it's roonneeng?</string>
 	<string>MEDIA MENEGER</string>
 	<key>Manual Entry</key>
 	<string>Munooel Intry</string>
+	<key>Manually selected</key>
+	<string>Munooelly selected</string>
 	<key>Match Using</key>
 	<string>Metch Useeng</string>
 	<key>Matching '%@'</key>
 	<string>Metcheeng '%@'</string>
+	<key>Media Link does not support DTS audio in certain regions. The Plex Media Server can automatically convert DTS to stereo so that it will play.</key>
+	<string>Medeea Leenk dues nut sooppurt DTS oodeeu in certeeen regeeuns. Zee Plex Medeea Serfer cun ootumeteecelly cunfert DTS tu stereu su thet it veell pley.</string>
 	<key>Media analysis on '%@'</key>
 	<string>Medeea unelysees oon '%@'</string>
 	<key>Media file: </key>
@@ -248,6 +256,10 @@ Are yuoo soore-a it's roonneeng?</string>
 	<string>Pet ooff zee durectury yuoo'd leeke-a tu edd:</string>
 	<key>Plex Media Server requires a username and password:</key>
 	<string>Plex Medeea Serfer reqooures a userneme-a und pessvurd:</string>
+	<key>Prefer audio tracks in:</key>
+	<string>Preffer oodeeu trecks in:</string>
+	<key>Prefer subtitles in:</key>
+	<string>Preffer soobteetles in:</string>
 	<key>Preferences</key>
 	<string>Prefferences</string>
 	<key>Primary metadata agent:</key>
@@ -306,10 +318,14 @@ Are yuoo soore-a it's roonneeng?</string>
 	<string>Shereeng</string>
 	<key>Show</key>
 	<string>Shoo</string>
+	<key>Shown with foreign audio</key>
+	<string>Shoon veet fureeegn oodeeu</string>
 	<key>Sort Title</key>
 	<string>Surt Teetle-a</string>
 	<key>Studio</key>
 	<string>Stoodeeu</string>
+	<key>Subtitle mode:</key>
+	<string>Soobteetle-a mude-a:</string>
 	<key>Summary</key>
 	<string>Soommery</string>
 	<key>Sunday</key>
@@ -360,6 +376,8 @@ Are yuoo soore-a it's roonneeng?</string>
 	<string>Fereeffy:</string>
 	<key>Wednesday</key>
 	<string>Vednesdey</string>
+	<key>When playing video with AirPlay on an Apple TV, allow Dolby® Digital audio to play. You must go to Settings on the Apple TV and set Dolby Digital Out to "On" in the Audio &amp; Video menu.</key>
+	<string>Vhee pleyeeng feedeu veet EurPley oon un Epple-a TF, elloo Dulby® Deegitel oodeeu tu pley. Yuoo moost gu tu Setteengs oon zee Epple-a TF und set Dulby Deegitel Oooot tu "Oon" in zee Oodeeu &amp; Feedeu menoo.</string>
 	<key>Writers</key>
 	<string>Vreeters</string>
 	<key>Year</key>

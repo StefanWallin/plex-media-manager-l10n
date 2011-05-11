@@ -68,6 +68,8 @@
 	<string>Geavanceerd</string>
 	<key>All deleted items will be permanently removed from your library. No files on your computer will be removed.</key>
 	<string>All deleted items will be permanently removed from your library. No files on your computer will be removed.</string>
+	<key>Always enabled</key>
+	<string>Always enabled</string>
 	<key>Any content in this section will no longer be available in your library. The files on your computer will not be removed.</key>
 	<string>Alle inhoud van deze sectie zal niet langer beschikbaar zijn in de bibliotheek. De bestanden zelf worden niet verwijderd.</string>
 	<key>Aperture Sharing Enabled</key>
@@ -148,14 +150,14 @@ Weet je zeker dat PMS aan staat?</string>
 	<string>Bewerk Sectie</string>
 	<key>Empty Trash</key>
 	<string>Empty Trash</string>
-	<key>Empty Trash (%d items)</key>
-	<string>Empty Trash (%d items)</string>
-	<key>Empty Trash (1 item)</key>
-	<string>Empty Trash (1 item)</string>
 	<key>Empty trash automatically after every scan</key>
 	<string>Empty trash automatically after every scan</string>
 	<key>Enable</key>
 	<string>Enable</string>
+	<key>Enable DTS mix-down for Media Link clients</key>
+	<string>Enable DTS mix-down for Media Link clients</string>
+	<key>Enable Dolby® Digital during AirPlay</key>
+	<string>Enable Dolby® Digital during AirPlay</string>
 	<key>Enable Secure Access</key>
 	<string>Enable Secure Access</string>
 	<key>Enter a password to enable secure access to your server:</key>
@@ -186,6 +188,8 @@ Weet je zeker dat PMS aan staat?</string>
 	<string>BIBLIOTHEEKSECTIES</string>
 	<key>Language:</key>
 	<string>Taal:</string>
+	<key>Languages</key>
+	<string>Languages</string>
 	<key>Large music sections may take a long time to scan</key>
 	<string>Een scan van grote muzieksecties kan geruime tijd duren</string>
 	<key>Last refreshed %@ at %@</key>
@@ -198,10 +202,14 @@ Weet je zeker dat PMS aan staat?</string>
 	<string>MEDIA MANAGER</string>
 	<key>Manual Entry</key>
 	<string>Handmatige invoer</string>
+	<key>Manually selected</key>
+	<string>Manually selected</string>
 	<key>Match Using</key>
 	<string>Match Using</string>
 	<key>Matching '%@'</key>
 	<string>Matching '%@'</string>
+	<key>Media Link does not support DTS audio in certain regions. The Plex Media Server can automatically convert DTS to stereo so that it will play.</key>
+	<string>Media Link does not support DTS audio in certain regions. The Plex Media Server can automatically convert DTS to stereo so that it will play.</string>
 	<key>Media analysis on '%@'</key>
 	<string>Media-analyse van '%@'</string>
 	<key>Media file: </key>
@@ -248,6 +256,10 @@ Weet je zeker dat PMS aan staat?</string>
 	<string>Pad van de directory die je wilt toevoegen:</string>
 	<key>Plex Media Server requires a username and password:</key>
 	<string>Plex Media Server requires a username and password:</string>
+	<key>Prefer audio tracks in:</key>
+	<string>Prefer audio tracks in:</string>
+	<key>Prefer subtitles in:</key>
+	<string>Prefer subtitles in:</string>
 	<key>Preferences</key>
 	<string>Instellingen</string>
 	<key>Primary metadata agent:</key>
@@ -306,10 +318,14 @@ Weet je zeker dat PMS aan staat?</string>
 	<string>Delen</string>
 	<key>Show</key>
 	<string>Serie</string>
+	<key>Shown with foreign audio</key>
+	<string>Shown with foreign audio</string>
 	<key>Sort Title</key>
 	<string>Sorteer Titel</string>
 	<key>Studio</key>
 	<string>Studio</string>
+	<key>Subtitle mode:</key>
+	<string>Subtitle mode:</string>
 	<key>Summary</key>
 	<string>Samenvatting</string>
 	<key>Sunday</key>
@@ -360,6 +376,8 @@ Weet je zeker dat PMS aan staat?</string>
 	<string>Verify:</string>
 	<key>Wednesday</key>
 	<string>Woensdag</string>
+	<key>When playing video with AirPlay on an Apple TV, allow Dolby® Digital audio to play. You must go to Settings on the Apple TV and set Dolby Digital Out to "On" in the Audio &amp; Video menu.</key>
+	<string>When playing video with AirPlay on an Apple TV, allow Dolby® Digital audio to play. You must go to Settings on the Apple TV and set Dolby Digital Out to "On" in the Audio &amp; Video menu.</string>
 	<key>Writers</key>
 	<string>Schrijvers</string>
 	<key>Year</key>

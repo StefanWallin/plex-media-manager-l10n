@@ -68,6 +68,8 @@
 	<string>Skilled</string>
 	<key>All deleted items will be permanently removed from your library. No files on your computer will be removed.</key>
 	<string>All yer missing booty be joinin' Davey Jones if ye agree, but yer files shant be hurt.</string>
+	<key>Always enabled</key>
+	<string>Always be showin' 'em</string>
 	<key>Any content in this section will no longer be available in your library. The files on your computer will not be removed.</key>
 	<string>Yer booty will be buried and hidden from the view of man and the gods!</string>
 	<key>Aperture Sharing Enabled</key>
@@ -146,14 +148,14 @@ Are you sure it's running?</key>
 	<string>Change yer infos</string>
 	<key>Empty Trash</key>
 	<string>Dump Wastes</string>
-	<key>Empty Trash (%d items)</key>
-	<string>Dump Wastes (%d items)</string>
-	<key>Empty Trash (1 item)</key>
-	<string>Dump Wastes (1 item)</string>
 	<key>Empty trash automatically after every scan</key>
 	<string>Dump wastes with each plunderin'</string>
 	<key>Enable</key>
 	<string>Enable</string>
+	<key>Enable DTS mix-down for Media Link clients</key>
+	<string>Employ DTS mix-down o'er Media Link</string>
+	<key>Enable Dolby® Digital during AirPlay</key>
+	<string>Employ Dolby® Digital o'er AirPlay</string>
 	<key>Enable Secure Access</key>
 	<string>Enable Secure Access</string>
 	<key>Enter a password to enable secure access to your server:</key>
@@ -184,6 +186,8 @@ Are you sure it's running?</key>
 	<string>BOOTY</string>
 	<key>Language:</key>
 	<string>Tongue:</string>
+	<key>Languages</key>
+	<string>Tongues</string>
 	<key>Large music sections may take a long time to scan</key>
 	<string>Large musical booty may keep you until ye be old</string>
 	<key>Last refreshed %@ at %@</key>
@@ -196,10 +200,14 @@ Are you sure it's running?</key>
 	<string>BOOTY KEEPER</string>
 	<key>Manual Entry</key>
 	<string>Take the wheel</string>
+	<key>Manually selected</key>
+	<string>Shown by hand</string>
 	<key>Match Using</key>
 	<string>Match Using</string>
 	<key>Matching '%@'</key>
 	<string>Identifyin' '%@'</string>
+	<key>Media Link does not support DTS audio in certain regions. The Plex Media Server can automatically convert DTS to stereo so that it will play.</key>
+	<string>Media Link be at odds with DTS on certain seas. The PMS can translate DTS to stereo so that sound be workin'.</string>
 	<key>Media analysis on '%@'</key>
 	<string>Eyein' '%@'</string>
 	<key>Media file: </key>
@@ -246,6 +254,10 @@ Are you sure it's running?</key>
 	<string>Where d'ye keep yer booty, matey?</string>
 	<key>Plex Media Server requires a username and password:</key>
 	<string>Plex Media Server ain't be trustin' ya:</string>
+	<key>Prefer audio tracks in:</key>
+	<string>Tongue ye speak:</string>
+	<key>Prefer subtitles in:</key>
+	<string>Tongue ye read:</string>
 	<key>Preferences</key>
 	<string>Dock</string>
 	<key>Primary metadata agent:</key>
@@ -304,10 +316,14 @@ Are you sure it's running?</key>
 	<string>Divvy</string>
 	<key>Show</key>
 	<string>Troupe</string>
+	<key>Shown with foreign audio</key>
+	<string>Only with foreign speech</string>
 	<key>Sort Title</key>
 	<string>Placement name</string>
 	<key>Studio</key>
 	<string>House of the maker</string>
+	<key>Subtitle mode:</key>
+	<string>Ye be readin':</string>
 	<key>Summary</key>
 	<string>About this tale</string>
 	<key>Sunday</key>
@@ -358,6 +374,8 @@ Are you sure it's running?</key>
 	<string>Verify:</string>
 	<key>Wednesday</key>
 	<string>Wednesday</string>
+	<key>When playing video with AirPlay on an Apple TV, allow Dolby® Digital audio to play. You must go to Settings on the Apple TV and set Dolby Digital Out to "On" in the Audio &amp; Video menu.</key>
+	<string>Allow Dolby® Digital audio passage over the air to make port with an Apple TV, which must be fixed to do so.</string>
 	<key>Writers</key>
 	<string>Writers</string>
 	<key>Year</key>
