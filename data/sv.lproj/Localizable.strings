@@ -97,7 +97,7 @@
 "album" = "album";
 
 /* Explanation text for the empty trash confirmation dialog */
-"All deleted items will be permanently removed from your library. No files on your computer will be removed." = "All deleted items will be permanently removed from your library. No files on your computer will be removed.";
+"All deleted items will be permanently removed from your library. No files on your computer will be removed." = "Alla borttagna objekt kommer att permanent tas bort från biblioteket. Inga filer tas dock bort från din dator.";
 
 /* Language preference pane subtitle mode option */
 "Always enabled" = "Always enabled";
@@ -112,10 +112,10 @@
 "Aperture Sharing Enabled" = "Aktivera Aperturedelning";
 
 /* Disable secure server access confirmation */
-"Are you sure you want to disable secure access to your server?" = "Are you sure you want to disable secure access to your server?";
+"Are you sure you want to disable secure access to your server?" = "Är du säker på att du vill avaktivera säker åtkomst till din server?";
 
 /* Confirmation text for the empty trash confirmation dialog */
-"Are you sure you want to empty the trash in \"%@\"?" = "Are you sure you want to empty the trash in \"%@\"?";
+"Are you sure you want to empty the trash in \"%@\"?" = "Är du säker på att du vill tömma papperskorgen i \"%@\"?";
 
 /* Confirmation message for removing a section */
 "Are you sure you want to remove the section named \"%@\"?" = "Är du säker på att du vill ta bort sektionen som heter \"%@\"?";
@@ -127,10 +127,10 @@
 "artist" = "artist";
 
 /* Authenticate */
-"Authenticate" = "Authenticate";
+"Authenticate" = "Autentisera";
 
 /* Login prompt title */
-"Authentication Required" = "Authentication Required";
+"Authentication Required" = "Autentisering krävs";
 
 /* Cancel */
 "Cancel" = "Avbryt";
@@ -139,19 +139,19 @@
 "Capability checking ensures that plug-ins that are incompatible with this version of the server or the current client application you are using are hidden. Disabling capability checking is useful during development, but will enable access to plug-ins that may perform unreliably with certain client applications." = "Funktionskontroll säkerställer att insticksprogram som är inkompatibla med denna serverversion eller nuvarande klientmjukvara döljs. Att avaktivera funktionskontroll är användbart under utveckling, men kommer ge tillgång till insticksprogram som kan fungera opålitligt med vissa klientmjukvaror.";
 
 /* Change */
-"Change" = "Change";
+"Change" = "Ändra";
 
 /* Change Artwork */
 "Change Artwork" = "Ändra konstverk";
 
 /* Security preferences button to change the main account password */
-"Change Password" = "Change Password";
+"Change Password" = "Byt lösenord";
 
 /* Security preferences button to change the main account username */
-"Change Username" = "Change Username";
+"Change Username" = "Byt användarnamn";
 
 /* Change username prompt message */
-"Change your username, and enter your password to authenticate." = "Change your username, and enter your password to authenticate.";
+"Change your username, and enter your password to authenticate." = "Byt ditt användarnamn, och skriv in ditt lösenord för att autentisera.";
 
 /* Choose Album Thumbnail menu item */
 "Choose Album Thumbnail" = "Välj miniatyr för album";
@@ -187,7 +187,7 @@
 "Content Rating" = "Innehållsomdöme";
 
 /* Password label */
-"Current Password:" = "Current Password:";
+"Current Password:" = "Nuvarande lösenord:";
 
 /* Custom Search */
 "Custom Search" = "Anpassad sökning";
@@ -205,7 +205,7 @@
 "Disable capability checking" = "Avaktivera funktionskontroll";
 
 /* Disable secure server confirmation button */
-"Disable Secure Access" = "Disable Secure Access";
+"Disable Secure Access" = "Inaktivera säker åtkomst";
 
 /* Done */
 "Done" = "Klar";
@@ -223,28 +223,28 @@
 "Edit Section" = "Redigera sektion";
 
 /* Confirmation button for the empty trash confirmation dialog */
-"Empty Trash" = "Empty Trash";
+"Empty Trash" = "Töm papperskorgen";
 
 /* Preference window setting */
-"Empty trash automatically after every scan" = "Empty trash automatically after every scan";
+"Empty trash automatically after every scan" = "Töm papperskorgen automatiskt efter varje scanning";
 
 /* Enable */
 "Enable" = "Enable";
 
 /* Preference window setting */
-"Enable Dolby® Digital during AirPlay" = "Enable Dolby® Digital during AirPlay";
+"Enable Dolby® Digital during AirPlay" = "Aktivera Dolby® Digital över AirPlay";
 
 /* Preference window setting */
-"Enable DTS mix-down for Media Link clients" = "Enable DTS mix-down for Media Link clients";
+"Enable DTS mix-down for Media Link clients" = "Aktivera DTS mix-down för Media Link klienter";
 
 /* Check box label to enable secure server access */
-"Enable Secure Access" = "Enable Secure Access";
+"Enable Secure Access" = "Aktivera säker åtkomst";
 
 /* Enable security prompt message */
-"Enter a password to enable secure access to your server:" = "Enter a password to enable secure access to your server:";
+"Enter a password to enable secure access to your server:" = "Ange ett lösenord för att aktivera säker åtkomst till din server:";
 
 /* Change password prompt message */
-"Enter your current password to authenticate, then enter and verify your new password." = "Enter your current password to authenticate, then enter and verify your new password.";
+"Enter your current password to authenticate, then enter and verify your new password." = "Skriv in ditt nuvarande lösenord för att autentisera, skriv sedan in och verifiera ditt nya lösenord.";
 
 /* A TV Show episode */
 "episode" = "avsnitt";
@@ -292,7 +292,7 @@
 "hourly" = "varje timme";
 
 /* Security preference pane explanation */
-"If you want to share your media over the Internet, you can turn on Secure Server Access to prevent unauthorized access to your server." = "If you want to share your media over the Internet, you can turn on Secure Server Access to prevent unauthorized access to your server.";
+"If you want to share your media over the Internet, you can turn on Secure Server Access to prevent unauthorized access to your server." = "Om du vill dela din media över internet så bör du aktivera Säker serveråtkomst för att förhindra otillåten tillgång till din server.";
 
 /* Preference window setting */
 "Include music sections in automatic updates" = "Inkludera musiksektioner i automatiska uppdateringar";
@@ -343,7 +343,7 @@
 "Media file: " = "Mediafil: ";
 
 /* Preference window setting detail */
-"Media Link does not support DTS audio in certain regions. The Plex Media Server can automatically convert DTS to stereo so that it will play." = "Media Link does not support DTS audio in certain regions. The Plex Media Server can automatically convert DTS to stereo so that it will play.";
+"Media Link does not support DTS audio in certain regions. The Plex Media Server can automatically convert DTS to stereo so that it will play." = "Media Link stödjer inte DTS ljud i vissa regioner. Plex Media Server kan automatiskt konvertera DTS til stereo så att ljudet fungerar.";
 
 /* Header title */
 "MEDIA MANAGER" = "mediahanterare";
@@ -417,25 +417,25 @@
 "Originally Available" = "Ursprungligen tillgänglig";
 
 /* Password field placeholder */
-"Password" = "Password";
+"Password" = "Lösenord";
 
 /* Password label */
-"Password:" = "Password:";
+"Password:" = "Lösenord:";
 
 /* Instruction text for the prompt to add directories manually */
 "Path of the directory you'd like to add:" = "Sökvägen till mappen du vill lägga till:";
 
 /* Login prompt message */
-"Plex Media Server requires a username and password:" = "Plex Media Server requires a username and password:";
+"Plex Media Server requires a username and password:" = "Plex Media Server kräver användarnamn och lösenord:";
 
 /* PostMeridiem */
 "PM" = "PM";
 
 /* Language preference pane audio checkbox label */
-"Prefer audio tracks in:" = "Prefer audio tracks in:";
+"Prefer audio tracks in:" = "Föredrar ljudspår på:";
 
 /* Languages preference pane default subtitle language label */
-"Prefer subtitles in:" = "Prefer subtitles in:";
+"Prefer subtitles in:" = "Föredrar undertexter på:";
 
 /* Preferences button in top-right */
 "Preferences" = "Inställningar";
@@ -456,7 +456,7 @@
 "Refreshing info for one item" = "Uppdaterar information för ett objekt";
 
 /* Check box label for the login prompt */
-"Remember me on this computer" = "Remember me on this computer";
+"Remember me on this computer" = "Kom ihåg mig på denna dator";
 
 /* Remove section confirmation button */
 "Remove Section" = "Radera sektion";
@@ -489,7 +489,7 @@
 "Section type:" = "Sektionstyp:";
 
 /* Security preference pane title */
-"Secure Server Access" = "Secure Server Access";
+"Secure Server Access" = "Säker Serveråtkomst";
 
 /* Security */
 "Security" = "Säkerhet";
@@ -531,16 +531,16 @@
 "show" = "serie";
 
 /* Language preference pane subtitle mode option */
-"Shown with foreign audio" = "Shown with foreign audio";
+"Shown with foreign audio" = "Visas med utländskt ljudspår";
 
 /* Sort Title */
-"Sort Title" = "Sorter titel";
+"Sort Title" = "Sortera titel";
 
 /* Studio */
 "Studio" = "Studio";
 
 /* Languages preference pane subtitle mode label */
-"Subtitle mode:" = "Subtitle mode:";
+"Subtitle mode:" = "Undertexttyp:";
 
 /* Summary */
 "Summary" = "Summering";
@@ -552,7 +552,7 @@
 "Tagline" = "Slogan";
 
 /* 'Match Using' error message */
-"There was no acceptable match using the specified agent." = "There was no acceptable match using the specified agent.";
+"There was no acceptable match using the specified agent." = "Den specificerade metadataagenten hittade ingen acceptabel matchning.";
 
 /* Summary info for collecting usage data */
 "This helps us improve your experience (for example, to help us match movies and TV shows)." = "Detta hjälper oss att förbättra din upplevelse(till exempel hjälper det oss att matcha filmer och TV-serier).";
@@ -582,7 +582,7 @@
 "Tuesday" = "Tisdag";
 
 /* Disable secure server access confirmation info */
-"Turning off secure server access will allow incoming connections from any computer." = "Turning off secure server access will allow incoming connections from any computer.";
+"Turning off secure server access will allow incoming connections from any computer." = "Inaktivering av Säker Serveråtkomst kommer tillåta inkommande anslutningar från vilken dator som helst.";
 
 /* TV Shows */
 "TV Shows" = "TV-serier";
@@ -624,7 +624,7 @@
 "Wednesday" = "Onsdag";
 
 /* Preference window setting detail */
-"When playing video with AirPlay on an Apple TV, allow Dolby® Digital audio to play. You must go to Settings on the Apple TV and set Dolby Digital Out to \"On\" in the Audio & Video menu." = "When playing video with AirPlay on an Apple TV, allow Dolby® Digital audio to play. You must go to Settings on the Apple TV and set Dolby Digital Out to \"On\" in the Audio & Video menu.";
+"When playing video with AirPlay on an Apple TV, allow Dolby® Digital audio to play. You must go to Settings on the Apple TV and set Dolby Digital Out to \"On\" in the Audio & Video menu." = "När uppspelning av video sker med AirPlay på en Apple TV, tillåt Dolby® Digital-ljudspår att spelas. Du måste aktivera detta på din Apple TV genom att navigera till Settings och välja att Dolby Digital Out ska vara \"På\" i Bild & Ljud-menyn.";
 
 /* Writers */
 "Writers" = "Författare";

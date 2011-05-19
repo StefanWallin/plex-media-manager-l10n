@@ -26,7 +26,7 @@ end
 localizations.each do |localization|
   file localization.xstrings => localization.strings do
     UI.status %{Updating XML for #{localization.code}}
-    system %{plutil -convert xml1 #{localization.strings} -o #{localization.xstrings}}
+    system %{plutil -convert xml1 "#{localization.strings}" -o "#{localization.xstrings}"}
     UI.abort "Unable to convert #{localization.strings} to XML. Is plutil installed?" unless $?.success?
   end
 
