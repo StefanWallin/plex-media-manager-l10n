@@ -69,7 +69,7 @@
 	<key>All deleted items will be permanently removed from your library. No files on your computer will be removed.</key>
 	<string>Alla borttagna objekt kommer att permanent tas bort från biblioteket. Inga filer tas dock bort från din dator.</string>
 	<key>Always enabled</key>
-	<string>Always enabled</string>
+	<string>Alltid aktiverad</string>
 	<key>Any content in this section will no longer be available in your library. The files on your computer will not be removed.</key>
 	<string>Allt innehåll i denna del inte längre kommer att finnas tillgänglig i biblioteket. Filerna på din dator kommer inte tas bort.</string>
 	<key>Aperture Sharing Enabled</key>
@@ -153,7 +153,7 @@ Are you sure it's running?</key>
 	<key>Empty trash automatically after every scan</key>
 	<string>Töm papperskorgen automatiskt efter varje scanning</string>
 	<key>Enable</key>
-	<string>Enable</string>
+	<string>Aktivera</string>
 	<key>Enable DTS mix-down for Media Link clients</key>
 	<string>Aktivera DTS mix-down för Media Link klienter</string>
 	<key>Enable Dolby® Digital during AirPlay</key>
@@ -189,7 +189,7 @@ Are you sure it's running?</key>
 	<key>Language:</key>
 	<string>Språk:</string>
 	<key>Languages</key>
-	<string>Languages</string>
+	<string>Språk</string>
 	<key>Large music sections may take a long time to scan</key>
 	<string>Stora musiksektioner kan ta lång tid att genomsöka</string>
 	<key>Last refreshed %@ at %@</key>
@@ -203,9 +203,9 @@ Are you sure it's running?</key>
 	<key>Manual Entry</key>
 	<string>Skriv in manuellt</string>
 	<key>Manually selected</key>
-	<string>Manually selected</string>
+	<string>Manuellt vald</string>
 	<key>Match Using</key>
-	<string>Match Using</string>
+	<string>Matcha med hjälp av</string>
 	<key>Matching '%@'</key>
 	<string>Matchar '%@'</string>
 	<key>Media Link does not support DTS audio in certain regions. The Plex Media Server can automatically convert DTS to stereo so that it will play.</key>
@@ -235,9 +235,9 @@ Are you sure it's running?</key>
 	<key>Name:</key>
 	<string>Namn:</string>
 	<key>New Password:</key>
-	<string>New Password:</string>
+	<string>Nytt lösenord:</string>
 	<key>No Match Found</key>
-	<string>No Match Found</string>
+	<string>Ingen matchning funnen</string>
 	<key>OK</key>
 	<string>OK</string>
 	<key>Offer higher bitrates over 3G connections</key>
@@ -369,11 +369,11 @@ Are you sure it's running?</key>
 	<key>Update my library when changes to my folders are detected</key>
 	<string>Uppdatera mitt bibliotek när ändringar i mina mappar upptäcks</string>
 	<key>Username</key>
-	<string>Username</string>
+	<string>Användarnamn</string>
 	<key>Username:</key>
-	<string>Username:</string>
+	<string>Användarnamn:</string>
 	<key>Verify:</key>
-	<string>Verify:</string>
+	<string>Verifiera:</string>
 	<key>Wednesday</key>
 	<string>Onsdag</string>
 	<key>When playing video with AirPlay on an Apple TV, allow Dolby® Digital audio to play. You must go to Settings on the Apple TV and set Dolby Digital Out to "On" in the Audio &amp; Video menu.</key>

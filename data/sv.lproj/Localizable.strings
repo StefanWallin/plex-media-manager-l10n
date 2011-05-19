@@ -100,7 +100,7 @@
 "All deleted items will be permanently removed from your library. No files on your computer will be removed." = "Alla borttagna objekt kommer att permanent tas bort från biblioteket. Inga filer tas dock bort från din dator.";
 
 /* Language preference pane subtitle mode option */
-"Always enabled" = "Always enabled";
+"Always enabled" = "Alltid aktiverad";
 
 /* AnteMeridiem */
 "AM" = "AM";
@@ -229,7 +229,7 @@
 "Empty trash automatically after every scan" = "Töm papperskorgen automatiskt efter varje scanning";
 
 /* Enable */
-"Enable" = "Enable";
+"Enable" = "Aktivera";
 
 /* Preference window setting */
 "Enable Dolby® Digital during AirPlay" = "Aktivera Dolby® Digital över AirPlay";
@@ -307,7 +307,7 @@
 "Language:" = "Språk:";
 
 /* Languages */
-"Languages" = "Languages";
+"Languages" = "Språk";
 
 /* Preference window setting */
 "Large music sections may take a long time to scan" = "Stora musiksektioner kan ta lång tid att genomsöka";
@@ -328,10 +328,10 @@
 "Manual Entry" = "Skriv in manuellt";
 
 /* Language preference pane subtitle mode option */
-"Manually selected" = "Manually selected";
+"Manually selected" = "Manuellt vald";
 
 /* Context menu item for metadata items */
-"Match Using" = "Match Using";
+"Match Using" = "Matcha med hjälp av";
 
 /* Metadata item status message when it is being matched to a canonical item */
 "Matching '%@'" = "Matchar '%@'";
@@ -382,7 +382,7 @@
 "Name:" = "Namn:";
 
 /* Password label */
-"New Password:" = "New Password:";
+"New Password:" = "Nytt lösenord:";
 
 /* Status label value when there are no musical artists */
 "no artists" = "inga artister";
@@ -392,7 +392,7 @@
 "no episodes" = "inga avsnitt";
 
 /* 'Match Using' error title */
-"No Match Found" = "No Match Found";
+"No Match Found" = "Ingen matchning funnen";
 
 /* Status label value for when there are no movies */
 "no movies" = "inga filmer";
@@ -612,13 +612,13 @@
 "Update Section" = "Uppdatera sektion";
 
 /* Username field placeholder */
-"Username" = "Username";
+"Username" = "Användarnamn";
 
 /* Username label */
-"Username:" = "Username:";
+"Username:" = "Användarnamn:";
 
 /* Verify password label */
-"Verify:" = "Verify:";
+"Verify:" = "Verifiera:";
 
 /* Wednesday */
 "Wednesday" = "Onsdag";
